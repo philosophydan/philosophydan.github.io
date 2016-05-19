@@ -4,7 +4,7 @@
 @charset "utf-8";
 
 $base-font-family: 'EB Garamond', serif;
-$base-font-size:   x-large;
+$base-font-size:   regular;
 $small-font-size:  0.875em;
 $vsmall-font-size: 0.66em;
 $base-line-height: 1.5;
@@ -18,8 +18,9 @@ $grey-vdark: #222;
 $blue:       #0091ed;
 $orange:     #ca6c18;
 $red:        #b6321c;
+$white       #000;
 
-$background:        $grey-vlight;
+$background:        $white;
 $dark-background:   darken($background, 5%);
 $text-color:        $grey-vdark;
 $text-light-color:  $grey;
