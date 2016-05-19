@@ -1,5 +1,5 @@
 title: Daniel J. Singer
-description: 
+description: Penn Philosophy Professor Daniel J. Singer's Website
 sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
 
 permalink: blog/:year/:month/:day/:title
@@ -8,9 +8,9 @@ exclude: ["Makefile", "README.md"]
 url: "http://www.danieljsinger.com"     # the base hostname & protocol for your site
 baseurl:                  # the subpath of your site, e.g. /blog
 
-author: Daniel J. Singer
-    name: "Daniel J. Singer"
-    facebook: "philosophydan"
+author: 
+    name: Daniel J. Singer
+    facebook: philosophydan
     scholar: 
 
 # Build settings
