@@ -2,8 +2,8 @@
     border-bottom: 1px solid $line-color;
     position: relative;
     font-variant: small-caps;
-    font-size: x-large;
-    font-style: h2;
+    font-size: 1.5em;
+    font-weight: bold;
     @extend %clearfix;
 }
 
