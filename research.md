@@ -43,7 +43,7 @@ published: true
 
 ## Publications
 
-Here is a test of mark_down_
+Here is a test of mark _down_
 
 {% for pub in page.pubs %}
 {% if pub.internal %}[{{pub.title}}]({{pub.url | prepend: site.baseurl}}){% else %}[{{pub.title}}]({{pub.url}}){% endif %}<br />
