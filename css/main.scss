@@ -34,7 +34,7 @@ $line-color:        $grey-vdark;
 // Width of the content area
 $content-width:    50em;
 $content-min-width: 15em;
-$mobile:           45em;
+$mobile:           47em;
 $desktop:          50em;
 
 @mixin media-query($device) {
