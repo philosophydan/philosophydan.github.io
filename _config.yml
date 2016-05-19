@@ -1,5 +1,5 @@
 title: Daniel J. Singer
-description: Much-Worse Jekyll theme for academic page and blog
+description: 
 sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
 
 permalink: blog/:year/:month/:day/:title
@@ -10,7 +10,7 @@ baseurl:                  # the subpath of your site, e.g. /blog
 
 author: Daniel J. Singer
     name: Daniel J. Singer
-    facebook: https://www.facebook.com/philosophydan
+    facebook: philosophydan
     scholar: 
 
 # Build settings
