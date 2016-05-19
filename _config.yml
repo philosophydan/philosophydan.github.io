@@ -1,6 +1,6 @@
 title: Daniel J. Singer
-description: Penn Philosophy Professor Daniel J. Singer's Website
-sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
+description: &copy; 2016 by Daniel J. Singer
+sourcecode: 
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
