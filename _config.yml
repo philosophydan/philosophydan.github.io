@@ -8,10 +8,10 @@ exclude: ["Makefile", "README.md"]
 url: "http://www.danieljsinger.com"     # the base hostname & protocol for your site
 baseurl:                  # the subpath of your site, e.g. /blog
 
-author:
-    name:
-    facebook:
-    scholar:
+author: Daniel J. Singer
+    name: Daniel J. Singer
+    facebook: https://www.facebook.com/philosophydan
+    scholar: 
 
 # Build settings
 markdown: kramdown
@@ -22,10 +22,10 @@ highlighter: rouge
 # Set 'provider' to false to turn analytics off globally.
 #
 analytics:
-    provider:
+    provider: statcounter
     statcounter:
-        sc_project  :
-        sc_security :
+        sc_project  : 10976776
+        sc_security : "1e2f47dd"
         sc_invisible: 1
         sc_text     : 2
     google:
@@ -43,7 +43,7 @@ analytics:
 # Set 'provider' to false to turn commenting off globally.
 #
 comments:
-    provider:
+    provider: false
     disqus:
       short_name:
     livefyre:
