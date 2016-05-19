@@ -17,6 +17,8 @@
 }
 
 .site-title {
+    margin-top: 1em;
+    margin-bottom: 1em;
     letter-spacing: 2px;
     text-transform: uppercase;
     float: left;
@@ -24,10 +26,7 @@
 }
 
 .site-nav {
-    margin-top: 1em;
-    margin-bottom: 1em;
     background: $background;
-    font-size: .8em;
 }
 
 .site-nav ul {
