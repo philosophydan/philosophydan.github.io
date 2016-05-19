@@ -9,8 +9,8 @@ url: "http://www.danieljsinger.com"     # the base hostname & protocol for your 
 baseurl:                  # the subpath of your site, e.g. /blog
 
 author: Daniel J. Singer
-    name: Daniel J. Singer
-    facebook: philosophydan
+    name: "Daniel J. Singer"
+    facebook: "philosophydan"
     scholar: 
 
 # Build settings
