@@ -7,7 +7,9 @@ published: true
 
 {% include image.html url="images/mephoto.png" caption="" max_width="300px" align="right" %}
 
-I am an Assistant Professor of Philosophy at the [University of Pennsylvania](http://philosophy.sas.upenn.edu/).  I recently finished a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/).  
+I am an Assistant Professor of Philosophy at the [University of Pennsylvania](http://philosophy.sas.upenn.edu/). I also direct the [Computational Social Philosophy Lab][/CSPL/].
+
+I recently finished a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/).  
 
 I primarily research **epistemology**, specifically foundational questions about epistemic normativity and formal epistemology. My secondary research interests include general philosophy of science, using models to explore philosophical questions, and theoretical computer science. I am also part of a research group with [Patrick Grim](http://www.pgrim.org/) that investigates questions about social structures using agent-based computer models.  
 
