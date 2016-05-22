@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: labpage
 title: Computational Social Philosophy Lab
 permalink: /CSPL/
 published: true
