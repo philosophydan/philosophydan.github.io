@@ -91,14 +91,14 @@ $desktop:          50em;
 
     /*-- some extra column content styling --*/
     [class*='col-'] > p {
-     background-color: #FFC2C2; 
+     background-color: white; 
      padding: 0;
      margin: 0;
      text-align: center; 
      color: white; 
     }
 
-@media all and (max-width:800px){
+@media all and (max-width:750px){
         .col-1{ width: 50%;        }
         .col-2{ width: 100%;    }
         .col-3{ width: 100%;    }
