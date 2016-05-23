@@ -18,7 +18,7 @@ Before coming to Penn, I received a Ph.D. in Philosophy at the [University of M
 
 ## Contact
 
-<div class="grid-container outline">
+<div class="grid-container outline" style="border-top: 1px solid #222;">
   <div class="row">
     <div class="col-2">
       <p>Email: <a href="mailto:singerd@phil.upenn.edu">singerd@phil.upenn.edu</a></p>
