@@ -6,11 +6,17 @@ published: true
 ---
 Use this form to send me feedback on class or anything else you'd like.  If you'd like a response, be sure to include your email address in the last question.  If you do not identify yourself, your message will be completely anonymous.  All suggestions, comments, and constructive criticism are welcome.
 
-<form action="https://docs.google.com/forms/d/15qUqH-4keHS_t-2cqoQroyg8buciLIMMHSeQaOJ6VIo/formResponse" method="POST" id="ss-form" target="_self" onsubmit="">
-
-Type your feedback here. (Required)
-<textarea name="entry.2955050" rows="8" cols="100" class="ss-q-long" id="entry_2955050" dir="auto" aria-label="Type your feedback here.  " aria-required="true" required=""></textarea>
-
+<form action="https://docs.google.com/forms/d/15qUqH-4keHS_t-2cqoQroyg8buciLIMMHSeQaOJ6VIo/formResponse" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0;">
+<div class="ss-form-question errorbox-good" role="listitem">
+<div dir="auto" class="ss-item ss-item-required ss-paragraph-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_2955050"><div class="ss-q-title">Type your feedback here.
+<label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
+<span class="ss-required-asterisk" aria-hidden="true">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
+<textarea name="entry.2955050" rows="8" cols="0" class="ss-q-long" id="entry_2955050" dir="auto" aria-label="Type your feedback here.  " aria-required="true" required=""></textarea>
+<div class="error-message" id="964147391_errorMessage"></div>
+</div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="auto" class="ss-item  ss-text"><div class="ss-form-entry">
 
 <br />
 <label class="ss-q-item-label" for="entry_1000001"><div class="ss-q-title">If you'd like a response, provide your email address.
