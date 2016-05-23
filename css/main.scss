@@ -75,7 +75,6 @@ $desktop:          50em;
         width: 16.66%; 
         /*-- our gutter -- */
         padding: 12px; 
-        background-color: #FFDCDC;
     }
 
     .col-1{ width: 16.66%; }
@@ -91,11 +90,9 @@ $desktop:          50em;
 
     /*-- some extra column content styling --*/
     [class*='col-'] > p {
-     background-color: white; 
      padding: 0;
      margin: 0;
      text-align: center; 
-     color: white; 
     }
 
 @media all and (max-width:750px){
