@@ -97,3 +97,12 @@ $desktop:          50em;
      text-align: center; 
      color: white; 
     }
+
+@media all and (max-width:800px){
+        .col-1{ width: 50%;        }
+        .col-2{ width: 100%;    }
+        .col-3{ width: 100%;    }
+        .col-4{ width: 100%;    }
+        .col-5{ width: 100%;    }
+        .col-6{ width: 100%;      }
+    }
