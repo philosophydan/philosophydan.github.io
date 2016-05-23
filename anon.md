@@ -26,20 +26,17 @@ Use this form to send me feedback on class or anything else you'd like.  If you'
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="errorbox-good" role="listitem">
 <div dir="auto" class="ss-item  ss-section-header"><div class="ss-form-entry">
-<h2 class="ss-section-title">Thanks!</h2>
 <div class="ss-section-description ss-no-ignore-whitespace"></div>
 </div></div></div>
 <input type="hidden" name="draftResponse" value="[,,&quot;176287385269534710&quot;]
 ">
 <input type="hidden" name="pageHistory" value="0">
 
-
-
 <input type="hidden" name="fbzx" value="176287385269534710">
 
 <div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
 <input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action ">
-<div class="ss-password-warning ss-secondary-text">Never submit passwords through Google Forms.</div></td>
+</td>
 </tr></tbody></table></div></ol></form>
 
 
