@@ -13,7 +13,7 @@ Use this form to send me feedback on class or anything else you'd like.  If you'
 <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
 <span class="ss-required-asterisk" aria-hidden="true">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-<textarea name="entry.2955050" rows="8" cols="0" class="ss-q-long" id="entry_2955050" dir="auto" aria-label="Type your feedback here.  " aria-required="true" required=""></textarea>
+<textarea name="entry.2955050" rows="8" cols="100" class="ss-q-long" id="entry_2955050" dir="auto" aria-label="Type your feedback here.  " aria-required="true" required=""></textarea>
 <div class="error-message" id="964147391_errorMessage"></div>
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
@@ -26,7 +26,6 @@ Use this form to send me feedback on class or anything else you'd like.  If you'
 <div class="required-message">This is a required question</div>
 </div></div></div> <div class="errorbox-good" role="listitem">
 <div dir="auto" class="ss-item  ss-section-header"><div class="ss-form-entry">
-<h2 class="ss-section-title">Thanks!</h2>
 <div class="ss-section-description ss-no-ignore-whitespace"></div>
 </div></div></div>
 <input type="hidden" name="draftResponse" value="[,,&quot;5817155565133853645&quot;]
@@ -39,7 +38,7 @@ Use this form to send me feedback on class or anything else you'd like.  If you'
 
 <div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
 <input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action ">
-<div class="ss-password-warning ss-secondary-text">Never submit passwords through Google Forms.</div></td>
+</td>
 </tr></tbody></table></div></ol></form>
 
 
