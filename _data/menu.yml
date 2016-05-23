@@ -1,11 +1,11 @@
 - title: "Research"
   href: "/research/"
 
-- title: "Teaching"
-  href: "/teaching/"
-
 - title: "CSPLab"
   href: "/CSPL/"
+
+- title: "Teaching"
+  href: "/teaching/"
 
 - title: "CV"
   href: "/cv/"
