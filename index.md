@@ -17,27 +17,30 @@ Before coming to Penn, I received a Ph.D. in Philosophy at the [University of M
 
 
 ## Contact
-<div class="row">
-			<section class="4u">
-				<span class="pennant"><span class="fa fa-briefcase"></span></span>
-				<h3>Maecenas luctus lectus</h3>
-				<p>Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat vel, suscipit in, mattis placerat, nulla. Sed ac leo.</p>
-				<a href="#" class="button button-style1">Read More</a>
-			</section>
-			<section class="4u">
-				<span class="pennant"><span class="fa fa-lock"></span></span>
-				<h3>Maecenas luctus lectus</h3>
-				<p>Donec ornare neque ac sem. Mauris aliquet. Aliquam sem leo, vulputate sed, convallis at, ultricies quis, justo. Donec magna.</p>
-				<a href="#" class="button button-style1">Read More</a>
-			</section>
-			<section class="4u">
-				<span class="pennant"><span class="fa fa-globe"></span></span>
-				<h3>Maecenas luctus lectus</h3>
-				<p>Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat vel, suscipit in, mattis placerat, nulla. Sed ac leo.</p>
-				<a href="#" class="button button-style1">Read More</a>
-			</section>
-
-		</div>
+<div class="col-3 menu">
+<ul>
+<li>The Flight</li>
+<li>The City</li>
+<li>The Island</li>
+<li>The Food</li>
+</ul>
+</div>
+<div class="col-3">
+<ul>
+<li>The Flight2</li>
+<li>The City</li>
+<li>The Island</li>
+<li>The Food</li>
+</ul>
+</div>
+<div class="col-3">
+<ul>
+<li>The Flight3</li>
+<li>The City</li>
+<li>The Island</li>
+<li>The Food</li>
+</ul>
+</div>
 
 <table class="tg">
   <tr>
