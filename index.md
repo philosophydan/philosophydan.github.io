@@ -20,56 +20,21 @@ Before coming to Penn, I received a Ph.D. in Philosophy at the [University of M
 
 <div class="grid-container outline">
   <div class="row">
-<div class="col-2">
-<p>Email: <a href="mailto:singerd@phil.upenn.edu">singerd@phil.upenn.edu</a></p>
-</div>
-
-<div class="col-2">
-<p>Office: 461 <a href="http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia">Cohen Hall</a></p>
-<p>Physical Mail:
-<p style = "padding-left: 22px">Department of Philosophy<br />
-433 Cohen Hall<br />
-Philadelphia, PA 19104-6304</p></p>
-</div>
-
-<div class="col-2">
-<p>Phone: 920-4Singer</p>
-<p>Send Me an <a href="http://www.danieljsinger.com/anonmessage/">Anonymous Message Here</a></p>
-</div>
+    <div class="col-2">
+      <p>Email: <a href="mailto:singerd@phil.upenn.edu">singerd@phil.upenn.edu</a></p>
+    </div>
+    <div class="col-2">
+      <p>Office: 461 <a href="http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia">Cohen Hall</a></p>
+      <p>Physical Mail:
+      <p style = "padding-left: 22px">Department of Philosophy<br />
+      433 Cohen Hall<br />
+      Philadelphia, PA 19104-6304</p></p>
+    </div>
+    <div class="col-2">
+      <p>Phone: 920-4Singer</p>
+      <p>Send Me an <a href="http://www.danieljsinger.com/anonmessage/">Anonymous Message Here</a></p>
+    </div>
   </div>
-</div>
-
-
-
-<div class="grid-container outline">
-    <div class="row">
-        <div class="col-1"><p>col-1</p></div> 
-        <div class="col-1"><p>col-1</p></div> 
-        <div class="col-1"><p>col-1</p></div> 
-        <div class="col-1"><p>col-1</p></div> 
-        <div class="col-1"><p>col-1</p></div> 
-        <div class="col-1"><p>col-1</p></div> 
-    </div> 
-    <div class="row">
-        <div class="col-2"><p>col-2</p></div> 
-        <div class="col-2"><p>col-2</p></div> 
-        <div class="col-2"><p>col-2</p></div> 
-    </div> 
-    <div class="row">
-        <div class="col-3"><p>col-3</p></div> 
-        <div class="col-3"><p>col-3</p></div> 
-    </div> 
-    <div class="row">
-        <div class="col-4"><p>col-4</p></div> 
-        <div class="col-2"><p>col-2</p></div> 
-    </div> 
-    <div class="row">
-        <div class="col-5"><p>col-5</p></div> 
-        <div class="col-1"><p>col-1</p></div> 
-    </div> 
-    <div class="row">
-        <div class="col-6"><p>col-6</p></div> 
-    </div> 
 </div>
 
 
