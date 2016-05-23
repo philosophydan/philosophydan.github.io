@@ -17,6 +17,9 @@ Before coming to Penn, I received a Ph.D. in Philosophy at the [University of M
 
 
 ## Contact
+
+<div class="container">
+  <div class="row">
 <div class="col-3">
 <p>Email: <a href="mailto:singerd@phil.upenn.edu">singerd@phil.upenn.edu</a></p>
 </div>
@@ -33,7 +36,8 @@ Philadelphia, PA 19104-6304</p></p>
 <p>Phone: 920-4Singer</p>
 <p>Send Me an <a href="http://www.danieljsinger.com/anonmessage/">Anonymous Message Here</a></p>
 </div>
-
+  </div>
+</div>
 
 
 
