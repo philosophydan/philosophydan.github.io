@@ -39,3 +39,20 @@ published: true
 <input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action ">
 <div class="ss-password-warning ss-secondary-text">Never submit passwords through Google Forms.</div></td>
 </tr></tbody></table></div></ol></form>
+
+
+<!-- Form Alert Box -->
+
+<!-- Hidden iframe -->
+<iframe name="secret-frame" width="0" height="0" border="0" style="display: none;"></iframe>
+
+<!-- Script to show dialogue and reset form -->
+<script>
+// replace "ss-submit" with the ID of your submit button
+document.getElementById("ss-submit").addEventListener("click", function(){
+  // replace the "It works!" with what you want to appear in the Javascript dialogue
+  alert("Thanks!  Your anonymous feedback has been submitted.")
+  // replace "ss-form" with the ID of your form
+  document.getElementById("ss-form").reset();
+});
+</script>
