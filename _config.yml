@@ -16,6 +16,7 @@ author:
 # Build settings
 markdown: kramdown
 highlighter: rouge
+encoding: UTF-8
 
 # Settings for analytics helper
 # Set 'provider' to the analytics provider you want to use.
