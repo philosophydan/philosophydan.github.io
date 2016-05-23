@@ -5,6 +5,8 @@ permalink: /teaching/
 published: true
 ---
 
+Here are the courses I've been teaching. If you have any questions [contact me](mailto:singerd@phil.upenn.edu).
+
 **Spring 2016:**  
 PHIL 231: Knowledge and Reality  
 PHIL 372: Philosophy of Food and Fat  
