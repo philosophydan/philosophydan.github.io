@@ -16,9 +16,11 @@ In 2014, I organized [PRPSEW14](http://www.phil.upenn.edu/~singerd/PRPSEW14.htm
 Before coming to Penn, I received a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/).  
 
 
-## Contact
+<div style="border-top: 1px solid #222;">
 
-<div class="grid-container outline" style="border-top: 1px solid #222;">
+<h2>Contact</h2>
+
+<div class="grid-container outline">
   <div class="row">
     <div class="col-2">
       <p>Email: <a href="mailto:singerd@phil.upenn.edu">singerd@phil.upenn.edu</a></p>
