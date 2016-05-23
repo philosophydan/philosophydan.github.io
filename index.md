@@ -17,7 +17,6 @@ Before coming to Penn, I received a Ph.D. in Philosophy at the [University of M
 </div>
 <br style="clear:both" />
 
-----
 
 <h2>Contact</h2>
 
