@@ -18,35 +18,23 @@ Before coming to Penn, I received a Ph.D. in Philosophy at the [University of M
 
 ## Contact
 <div class="col-3">
-<ul>
-<li>The Flight</li>
-<li>The City</li>
-<li>The Island</li>
-<li>The Food</li>
-</ul>
-</div>
-<div class="col-3">
-<ul>
-<li>The Flight2</li>
-<li>The City</li>
-<li>The Island</li>
-<li>The Food</li>
-</ul>
-</div>
-<div class="col-3">
-<ul>
-<li>The Flight3</li>
-<li>The City</li>
-<li>The Island</li>
-<li>The Food</li>
-</ul>
-</div>
-
 Email: [singerd@phil.upenn.edu](mailto:singerd@phil.upenn.edu)
+</div>
 
+<div class="col-3">
 Office: 461 [Cohen Hall](http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia) <br /><br />
 
 Physical Mail:Department of Philosophy <br />433 Cohen Hall <br />Philadelphia, PA 19104-6304
+</div>
 
-Phone: 920-4SingerSend Me an [Anonymous Message Here](http://www.danieljsinger.com/anonmessage/)
+<div class="col-3">
+Phone: 920-4Singer<br />
+Send Me an [Anonymous Message Here](http://www.danieljsinger.com/anonmessage/)
+</div>
+
+
+
+
+
+
 
