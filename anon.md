@@ -37,7 +37,7 @@ Use this form to send me feedback on class or anything else you'd like.  If you'
 <input type="hidden" name="fbzx" value="5817155565133853645">
 
 <div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
-<input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action ">
+<input type="submit" name="submit" value="Submit Anonymous Feedback" id="ss-submit" class="jfk-button jfk-button-action ">
 </td>
 </tr></tbody></table></div></ol></form>
 
