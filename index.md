@@ -17,33 +17,27 @@ Before coming to Penn, I received a Ph.D. in Philosophy at the [University of M
 
 
 ## Contact
-	<section class="wrapper style1">
-		<div class="container">
-			<div class="row double">
-				<section class="4u">
-					<div class="box highlight">
-						<i class="icon major fa-paper-plane"></i>
-						<h3>This Is Important</h3>
-						<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
-					</div>
-				</section>
-				<section class="4u">
-					<div class="box highlight">
-						<i class="icon major fa-pencil"></i>
-						<h3>Also Important</h3>
-						<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
-					</div>
-				</section>
-				<section class="4u">
-					<div class="box highlight">
-						<i class="icon major fa-wrench"></i>
-						<h3>Probably Important</h3>
-						<p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
-					</div>
-				</section>
-			</div>
+<div class="row">
+			<section class="4u">
+				<span class="pennant"><span class="fa fa-briefcase"></span></span>
+				<h3>Maecenas luctus lectus</h3>
+				<p>Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat vel, suscipit in, mattis placerat, nulla. Sed ac leo.</p>
+				<a href="#" class="button button-style1">Read More</a>
+			</section>
+			<section class="4u">
+				<span class="pennant"><span class="fa fa-lock"></span></span>
+				<h3>Maecenas luctus lectus</h3>
+				<p>Donec ornare neque ac sem. Mauris aliquet. Aliquam sem leo, vulputate sed, convallis at, ultricies quis, justo. Donec magna.</p>
+				<a href="#" class="button button-style1">Read More</a>
+			</section>
+			<section class="4u">
+				<span class="pennant"><span class="fa fa-globe"></span></span>
+				<h3>Maecenas luctus lectus</h3>
+				<p>Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat vel, suscipit in, mattis placerat, nulla. Sed ac leo.</p>
+				<a href="#" class="button button-style1">Read More</a>
+			</section>
+
 		</div>
-	</section>
 
 <table class="tg">
   <tr>
