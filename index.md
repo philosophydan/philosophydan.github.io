@@ -5,7 +5,7 @@ permalink: /
 published: true
 ---
 
-{% include image.html url="images/mephoto.png" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/mephoto.png" caption="" max_width="300px" align="float:right" %}
 
 I am an Assistant Professor of Philosophy at the [University of Pennsylvania](http://philosophy.sas.upenn.edu/). I also direct the [Computational Social Philosophy Lab](/CSPL/) with [Patrick Grim](http://www.pgrim.org/).
 
