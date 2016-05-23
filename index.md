@@ -21,7 +21,7 @@ Before coming to Penn, I received a Ph.D. in Philosophy at the [University of M
 <h2>Contact Me:</h2>
 
 <div class="grid-container outline">
-  <div class="row" style="padding-top: 15px;">
+  <div class="row" style="padding-top: 15px; padding-bottom: 20px">
     <div class="col-2">
     <p><b>Physical Mail:</b>
       <p style = "padding-left: 22px">Department of Philosophy<br />
