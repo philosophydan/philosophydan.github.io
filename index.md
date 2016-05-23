@@ -4,7 +4,7 @@ title: "Welcome!"
 permalink: /
 published: true
 ---
-<div markdown="1">
+<div width=100% markdown="1">
 {% include image.html url="images/mephoto.png" caption="" max_width="300px" align="right" %}
 
 I am an Assistant Professor of Philosophy at the [University of Pennsylvania](http://philosophy.sas.upenn.edu/). I also direct the [Computational Social Philosophy Lab](/CSPL/) with [Patrick Grim](http://www.pgrim.org/).
