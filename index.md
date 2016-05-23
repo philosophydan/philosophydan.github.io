@@ -4,7 +4,7 @@ title: "Welcome!"
 permalink: /
 published: true
 ---
-
+<div markdown="1">
 {% include image.html url="images/mephoto.png" caption="" max_width="300px" align="right" %}
 
 I am an Assistant Professor of Philosophy at the [University of Pennsylvania](http://philosophy.sas.upenn.edu/). I also direct the [Computational Social Philosophy Lab](/CSPL/) with [Patrick Grim](http://www.pgrim.org/).
@@ -14,7 +14,7 @@ My research revolves around two questions in **epistemology** and **metaethics**
 In 2014, I organized [PRPSEW14](http://www.phil.upenn.edu/~singerd/PRPSEW14.html).  This year, I am co-organizing [PeRFECt15](http://www.phil.upenn.edu/~singerd/PeRFECt15.html) with [Errol Lord](http://www.errol-lord.com/). 
 
 Before coming to Penn, I received a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/).  
-
+</div>
 
 <div style="border-top: 1px solid #222;">
 
