@@ -1,6 +1,6 @@
 title: Daniel J. Singer
 description: "© 2016 by Daniel J. Singer"
-sourcecode: 
+sourcecode:  
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
