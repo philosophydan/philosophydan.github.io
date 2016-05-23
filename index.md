@@ -18,19 +18,22 @@ Before coming to Penn, I received a Ph.D. in Philosophy at the [University of M
 
 ## Contact
 <div class="col-3">
-Email: [singerd@phil.upenn.edu](mailto:singerd@phil.upenn.edu)
+<p>Email: <a href="mailto:singerd@phil.upenn.edu">singerd@phil.upenn.edu</a></p>
 </div>
 
 <div class="col-3">
-Office: 461 [Cohen Hall](http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia) <br /><br />
-
-Physical Mail:Department of Philosophy <br />433 Cohen Hall <br />Philadelphia, PA 19104-6304
+<p>Office: 461 <a href="http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia">Cohen Hall</a></p>
+<p>Physical Mail:Department of Philosophy<br />
+433 Cohen Hall<br />
+Philadelphia, PA 19104-6304</p>
 </div>
 
 <div class="col-3">
-Phone: 920-4Singer<br />
-Send Me an [Anonymous Message Here](http://www.danieljsinger.com/anonmessage/)
+<p>Phone: 920-4Singer</p>
+<p>Send Me an <a href="http://www.danieljsinger.com/anonmessage/">Anonymous Message Here</a></p>
 </div>
+
+
 
 
 
