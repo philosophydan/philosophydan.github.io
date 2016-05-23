@@ -4,6 +4,41 @@ title: "Teaching"
 permalink: /teaching/
 published: true
 ---
+
+**Spring 2016:**
+PHIL 231: Knowledge and Reality 
+PHIL 372: Philosophy of Food and Fat
+
+Fall 2015:
+PHIL 001: Introduction to Philosophy
+PHIL 600: Proseminar
+
+Spring 2015:
+PHIL 005: Intro to Mathematical Logic
+PHIL 532: Norms for Full and Partial Belief
+
+Fall 2014:
+PHIL 231: Knowledge and Reality
+PHIL 600: Proseminar
+
+Spring 2014:
+PHIL 001: Introduction to Philosophy
+PHIL 532: Epistemic Normativity
+
+Fall 2013:
+PHIL 231: Knowledge and Reality
+PHIL 700: Dissertation Workshop
+
+Spring 2013:
+PHIL 231: Epistemology
+PHIL 532: Seminar in Epistemology
+
+
+
+
+
+
+
 <div style="width: 100%;" markdown="1">
 {% include image.html url="images/mephoto.png" caption="" max_width="300px" align="right" %}
 
