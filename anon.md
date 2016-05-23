@@ -4,6 +4,8 @@ title: Send me an Anonymous Message
 permalink: /anonmessage/
 published: true
 ---
+Use this form to send me feedback on class or anything else you'd like.  If you'd like a response, be sure to include your email address in the last question.  If you do not identify yourself, your message will be completely anonymous.  All suggestions, comments, and constructive criticism are welcome.
+
 <form action="https://docs.google.com/forms/d/15qUqH-4keHS_t-2cqoQroyg8buciLIMMHSeQaOJ6VIo/formResponse" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0;">
 <div class="ss-form-question errorbox-good" role="listitem">
 <div dir="auto" class="ss-item ss-item-required ss-paragraph-text"><div class="ss-form-entry">
