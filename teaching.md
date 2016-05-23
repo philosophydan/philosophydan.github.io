@@ -5,13 +5,13 @@ permalink: /teaching/
 published: true
 ---
 
-**Spring 2016:**
-PHIL 231: Knowledge and Reality 
-PHIL 372: Philosophy of Food and Fat
+**Spring 2016:**  
+PHIL 231: Knowledge and Reality  
+PHIL 372: Philosophy of Food and Fat  
 
-Fall 2015:
-PHIL 001: Introduction to Philosophy
-PHIL 600: Proseminar
+**Fall 2015:**  
+PHIL 001: Introduction to Philosophy  
+PHIL 600: Proseminar  
 
 Spring 2015:
 PHIL 005: Intro to Mathematical Logic
