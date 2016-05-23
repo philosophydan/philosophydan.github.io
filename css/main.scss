@@ -38,13 +38,6 @@ $mobile:           47em;
 $desktop:          50em;
 
 
-[class*="col-"] {
-    float: left;
-    padding: 15px;
-}
-
-.col-4 {width: 33.33%;}
-
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
@@ -61,3 +54,46 @@ $desktop:          50em;
     "syntax-highlighting",
     "fancy-image"
 ;
+
+\\ Column Stuff
+.grid-container{
+        width: 100%; 
+        max-width: 1200px;      
+    }
+
+    /*-- our cleafix hack -- */ 
+    .row:before, 
+    .row:after {
+        content:"";
+          display: table ;
+        clear:both;
+    }
+
+    [class*='col-'] {
+        float: left; 
+        min-height: 1px; 
+        width: 16.66%; 
+        /*-- our gutter -- */
+        padding: 12px; 
+        background-color: #FFDCDC;
+    }
+
+    .col-1{ width: 16.66%; }
+    .col-2{ width: 33.33%; }
+    .col-3{ width: 50%;    }
+    .col-4{ width: 66.66%; }
+    .col-5{ width: 83.33%; }
+    .col-6{ width: 100%;   }
+
+    .outline, .outline *{
+        outline: 1px solid #F6A1A1; 
+    }
+
+    /*-- some extra column content styling --*/
+    [class*='col-'] > p {
+     background-color: #FFC2C2; 
+     padding: 0;
+     margin: 0;
+     text-align: center; 
+     color: white; 
+    }
