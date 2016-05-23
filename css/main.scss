@@ -37,6 +37,12 @@ $content-min-width: 15em;
 $mobile:           47em;
 $desktop:          50em;
 
+
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+}
+
 .col-4 {width: 33.33%;}
 
 @mixin media-query($device) {
