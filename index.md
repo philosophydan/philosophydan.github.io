@@ -17,7 +17,7 @@ Before coming to Penn, I received a Ph.D. in Philosophy at the [University of M
 
 
 ## Contact
-<div class="col-3 menu">
+<div class="col-3">
 <ul>
 <li>The Flight</li>
 <li>The City</li>
