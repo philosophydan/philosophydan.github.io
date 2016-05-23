@@ -15,6 +15,7 @@ In 2014, I organized [PRPSEW14](http://www.phil.upenn.edu/~singerd/PRPSEW14.htm
 
 Before coming to Penn, I received a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/).  
 </div>
+<br style="clear:both" />
 
 <div style="border-top: 1px solid #222;">
 
