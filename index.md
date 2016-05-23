@@ -7,23 +7,27 @@ published: true
 
 {% include image.html url="images/mephoto.png" caption="" max_width="300px" align="right" %}
 
-I am an Assistant Professor of Philosophy at the [University of Pennsylvania](http://philosophy.sas.upenn.edu/). I also direct the [Computational Social Philosophy Lab](/CSPL/).
+I am an Assistant Professor of Philosophy at the [University of Pennsylvania](http://philosophy.sas.upenn.edu/). I also direct the [Computational Social Philosophy Lab](/CSPL/) with [Patrick Grim](http://www.pgrim.org/).
 
-I recently finished a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/).  
+My research revolves around two questions in **epistemology** and **metaethics**, namely (1) how and why epistemic norms apply to us, and (2) how epistemic norms change when we look at groups rather than individuals.
 
-I primarily research **epistemology**, specifically foundational questions about epistemic normativity and formal epistemology. My secondary research interests include general philosophy of science, using models to explore philosophical questions, and theoretical computer science. I am also part of a research group with [Patrick Grim](http://www.pgrim.org/) that investigates questions about social structures using agent-based computer models.  
+In 2014, I organized [PRPSEW14](http://www.phil.upenn.edu/~singerd/PRPSEW14.html).  This year, I am co-organizing [PeRFECt15](http://www.phil.upenn.edu/~singerd/PeRFECt15.html) with [Errol Lord](http://www.errol-lord.com/). 
 
-In 2014, I organized [PRPSEW14](http://www.phil.upenn.edu/~singerd/PRPSEW14.html).  This year, I am co-organizing [PeRFECt15](http://www.phil.upenn.edu/~singerd/PeRFECt15.html) with[Errol Lord](http://www.errol-lord.com/).
-
+Before coming to Penn, I received a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/).  
 
 
 ## Contact
 
-Rebel base <br />
-[Yavin] <br />
-Galaxy far far away<br />
-Email: [chewy@rebel.com]
+Email: [singerd@phil.upenn.edu](mailto:singerd@phil.upenn.edu)
 
+Physical Mail:
+Department of Philosophy
+University of Pennsylvania 
+433 Cohen Hall 
+Philadelphia, PA 19104-6304
 
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
+Office: 461 [Cohen Hall](http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia)
+
+Phone: 920-4Singer
+
+Send Me an [Anonymous Message Here](http://www.danieljsinger.com/anonmessage/) 
