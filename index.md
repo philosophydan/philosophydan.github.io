@@ -36,7 +36,7 @@ Before coming to Penn, I received a Ph.D. in Philosophy at the [University of M
     <div class="col-2" style="padding-top: 1em;">
       <p><b>Phone:</b> +1 920-4Singer</p>
       <br />
-      <p>Send Me an <a href="http://www.danieljsinger.com/anonmessage/">Anonymous Message Here</a></p>
+      <p><a href="http://www.danieljsinger.com/anonmessage/">Send Me an Anonymous Message</a></p>
     </div>
   </div>
 </div>
