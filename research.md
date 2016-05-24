@@ -48,8 +48,7 @@ There is a popular idea that epistemic norms all stem from the ultimate goal of 
 Future work in this area will flesh out how the sophisticated consequentialist can make sense of norms of justification and knowledge as well as showing how sophisticated epistemic consequentialism generates norms for groups and communities via mutual obligations to maximize true beliefs.
 
 
+### Metaethics and the Source of Epistemic Normativity
 
-## Metaethics
-
-## Social Epistemology, Political Philosophy, and Philosophy of Science
+### Social Epistemology, Political Philosophy, and Philosophy of Science
 
