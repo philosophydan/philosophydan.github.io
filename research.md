@@ -40,9 +40,20 @@ pubs:
     doi: "http://dx.doi.org"
 published: true
 ---
+Here are some short descriptions of my major research projects.  For more information about my research, see my [CV](http://www.danieljsinger.com/cv/) or [contact me](http://www.danieljsinger.com/#contact).
 
-## Publications
 
+## Normative Epistemology
+
+
+
+## Metaethics
+
+## Social Epistemology, Political Philosophy, and Philosophy of Science
+
+
+
+{::comment}
 Here is a test of mark _down_
 
 {% for pub in page.pubs %}
@@ -52,3 +63,4 @@ Here is a test of mark _down_
 {% if pub.note %} *({{pub.note}})*
 {% endif %} *{{pub.year}}* [(doi)]({{pub.doi}})
 {% endfor %}
+{::/comment}
