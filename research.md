@@ -51,16 +51,3 @@ Here are some short descriptions of my major research projects.  For more inform
 
 ## Social Epistemology, Political Philosophy, and Philosophy of Science
 
-
-
-{::comment}
-Here is a test of mark _down_
-
-{% for pub in page.pubs %}
-{% if pub.internal %}[{{pub.title}}]({{pub.url | prepend: site.baseurl}}){% else %}[{{pub.title}}]({{pub.url}}){% endif %}<br />
-{{pub.author}}<br />
-*{{pub.journal}}*
-{% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}* [(doi)]({{pub.doi}})
-{% endfor %}
-{::/comment}
