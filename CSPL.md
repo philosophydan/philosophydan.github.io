@@ -5,7 +5,9 @@ permalink: /CSPL/
 published: true
 ---
 
-The Computational Social Philosophy Lab is an interdisciplanary group of researchers that QQQ.  For more information, contact Prof. Daniel J. Singer ([singerd@phil.upenn.edu](mailto:singerd@phil.upenn.edu)).
+The Computational Social Philosophy Lab is an interdisciplanary group of researchers that investiages questions of **social epistemology**, **philosophy of science**, and **political philosophy** using **agent-based computer models** and an eye toward empirical results.
+
+Our most recent research uses agent-based computer simulations to examine group deliberation and how group polarization can be produced, maintained, and destroyed by various mechanisms. For more information, contact Prof. Daniel J. Singer ([singerd@phil.upenn.edu](mailto:singerd@phil.upenn.edu)).
 
 ## Members
 
