@@ -50,6 +50,11 @@ The Computational Social Philosophy Lab is an interdisciplanary group of researc
 <img src="http://www.danieljsinger.com/images/quaker.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 **Anika Ranginani**
 
+<br style="clear:both" />
+
+
+
+
 ### Former Members
 * Carissa Flocken
 * Graham Sack
