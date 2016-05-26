@@ -22,35 +22,36 @@ The Computational Social Philosophy Lab is an interdisciplanary group of researc
 
 <br style="clear:both" />
 
-<img src="http://www.danieljsinger.com/images/quakernew.png" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+<img src="http://www.danieljsinger.com/images/quaker.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 **Dr. Aaron Bramson**
 
 <br style="clear:both" />
 
-<img src="http://www.danieljsinger.com/images/quakernew.png" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Dr. Aaron Bramson**
-
-<br style="clear:both" />
-
-<img src="http://www.danieljsinger.com/images/quakernew.png" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+<img src="http://www.danieljsinger.com/images/quaker.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 **Dr. William Zev Berger**
 
 <br style="clear:both" />
 
-<img src="http://www.danieljsinger.com/images/quakernew.png" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+<img src="http://www.danieljsinger.com/images/quaker.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 **Dr. Bennet Holman**
 
 <br style="clear:both" />
 
-<img src="http://www.danieljsinger.com/images/quakernew.png" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+<img src="http://www.danieljsinger.com/images/quaker.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 **Karen Kovaka**
 
 <br style="clear:both" />
 
-<img src="http://www.danieljsinger.com/images/quakernew.png" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+<img src="http://www.danieljsinger.com/images/quaker.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 **Jiin Jung**
 
 <br style="clear:both" />
 
-<img src="http://www.danieljsinger.com/images/quakernew.png" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+<img src="http://www.danieljsinger.com/images/quaker.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 **Anika Ranginani**
+
+### Former Members
+* Carissa Flocken
+* Graham Sack
+* Steven Fisher
+* Christopher Reade
