@@ -149,7 +149,7 @@
             display: none;
         }
 
-        &:focus .trigger {
+        .trigger:hover {
             display: block;
             padding-bottom: 5px;
         }
