@@ -53,5 +53,7 @@ To defend that account, I show that the constitutivist view is simpler than it i
 ### Social Epistemology, Political Philosophy, and Philosophy of Science
 Along with [Patrick Grim](http://www.pgrim.org/), I direct the [Computational Social Philosophy Lab](http://www.danieljsinger.com/CSPL/), an interdisciplanary group of researchers that investiages questions of social epistemology, philosophy of science, and political philosophy using agent-based computer models and an eye toward empirical results.  Our most recent research uses agent-based computer simulations to examine group deliberation and how group polarization can be produced, maintained, and destroyed by various mechanisms.  Previous research has included using agent-based computer simulations to examine arguments for the value of diversity, epistemic democracy, the nature of information and information transfer, how communication networks affect epistemic communities.  
 
-For more information about any of this research, please contact me.
+
+
+For more information about any of this research, please see my [CV](http://www.danieljsinger.com/cv/) or [contact me](http://www.danieljsinger.com/#contact).
 
