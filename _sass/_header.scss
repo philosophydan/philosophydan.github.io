@@ -149,7 +149,7 @@
             display: none;
         }
 
-        .trigger:hover {
+        &:hover .trigger {
             display: block;
             padding-bottom: 5px;
         }
