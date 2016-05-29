@@ -11,21 +11,21 @@ Our most recent research uses agent-based computer simulations to examine group 
 
 ## Members
 
-<img src="http://www.danieljsinger.com/images/mephoto.png" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+<img src="http://www.danieljsinger.com/images/mephoto.png" style="width: 150px; float: left; margin: 0px 0px 0px 0px;" />
 **Prof. Daniel J. Singer** is an Assistant Professor of Philosophy at the University of Pennsylvania.  His primary research revolves around two questions in epistemology and metaethics, namely (1) how and why epistemic norms apply to us, and (2) how epistemic norms change when we look at groups rather than individuals.  You can learn more about his [research here](http://www.danieljsinger.com/research/) and see his [CV here](http://www.danieljsinger.com/cv/).
 
 
 <br style="clear:both" />
 
 
-<img src="http://www.danieljsinger.com/images/Grim.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+<img src="http://www.danieljsinger.com/images/Grim.jpg" style="width: 150px; float: left; margin: 0px 0px 0px 0px;" />
 **Prof. Patrick Grim** is Distinguished Teaching Professor of Philosophy at Stony Brook University. He is author of _The Incomplete Universe_, co-author of _The Philosophical Computer_, editor of _Mind and Consciousness: 5 Questions_, and founding co-editor of over 25 volumes of the _Philosopher's Annual_. Grim has produced two lecture series with the Teaching Company: _Questions of Value_ and _Philosophy of Mind_.
 
 
 <br style="clear:both" />
 
 
-<img src="http://www.danieljsinger.com/images/Aaron.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
+<img src="http://www.danieljsinger.com/images/Aaron.jpg" style="width: 150px; float: left; margin: 0px 0px 0px 0px;" />
 **Dr. Aaron Bramson** is a research scientist in the Lab for Symbolic Cognitive Development at the Riken Brain Science Institute in Japan and the Department of General Economics at the University of Gent in Belgium.  He studies the foundations of complexity and specializes in the development of new methodologies and conceptual frameworks for the study of complexity itself and the systems that evoke it.  Outside of research he is an avid cyclist, fashion designer, and musician.
 
 
