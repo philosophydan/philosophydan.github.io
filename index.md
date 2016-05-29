@@ -7,7 +7,7 @@ published: true
 <div style="width: 100%;" markdown="1">
 {% include image.html url="images/mephoto.png" caption="" max_width="300px" align="right" %}
 
-testI am an Assistant Professor of Philosophy at the [University of Pennsylvania](http://philosophy.sas.upenn.edu/). I also direct the [Computational Social Philosophy Lab](/CSPL/) with [Patrick Grim](http://www.pgrim.org/).
+I am an Assistant Professor of Philosophy at the [University of Pennsylvania](http://philosophy.sas.upenn.edu/). I also direct the [Computational Social Philosophy Lab](/CSPL/) with [Patrick Grim](http://www.pgrim.org/).
 
 [My research](http://www.danieljsinger.com/research/) is about two questions in **epistemology** and **metaethics**, namely (1) how and why epistemic norms apply to us, and (2) how epistemic norms change when we look at groups rather than individuals.  I investigate both questions using traditional philosophical methods as well as using agent-based computer simulations.  I also use agent-based computer simulations to investigate questions more squarely in **political philosophy**, **social epistemology**, and **philosophy of science**.
 
