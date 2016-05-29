@@ -14,8 +14,7 @@ I am an Assistant Professor of Philosophy at the [University of Pennsylvania](ht
 I organize the **Pe**nn **R**easons and **F**oundations in **E**pistemology **C**onference (PeRFECt) with [Errol Lord](http://www.errol-lord.com/) and [Lisa Miracchi](http://miracchi.wix.com/lisamiracchi).  [More information about PeRFECt can be found here.](http://www.phil.upenn.edu/~singerd/PeRFECt15.html) (Information about PeRFECt2 is coming soon.)
 In 2014, I organized [PRPSEW14](http://www.phil.upenn.edu/~singerd/PRPSEW14.html).  
 
-Before coming to Penn, I received a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/).  
-
+Before coming to Penn, I received a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/).
 </div>
 <br style="clear:both" />
 
