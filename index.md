@@ -9,11 +9,13 @@ published: true
 
 I am an Assistant Professor of Philosophy at the [University of Pennsylvania](http://philosophy.sas.upenn.edu/). I also direct the [Computational Social Philosophy Lab](/CSPL/) with [Patrick Grim](http://www.pgrim.org/).
 
-My research revolves around two questions in **epistemology** and **metaethics**, namely (1) how and why epistemic norms apply to us, and (2) how epistemic norms change when we look at groups rather than individuals.
+[My research](http://www.danieljsinger.com/research/) revolves around two questions in **epistemology** and **metaethics**, namely (1) how and why epistemic norms apply to us, and (2) how epistemic norms change when we look at groups rather than individuals.  I investigate both questions using traditional philosophical methods as well as by using of agent-based computer simulations.  I also use those agent-based computer simulations to investigate questions more squarely in **political philosophy**, **social epistemology**, and **philosophy of science**.
 
-In 2014, I organized [PRPSEW14](http://www.phil.upenn.edu/~singerd/PRPSEW14.html).  This year, I am co-organizing [PeRFECt15](http://www.phil.upenn.edu/~singerd/PeRFECt15.html) with [Errol Lord](http://www.errol-lord.com/). 
+I organize the **Pe**nn **R**easons and **F**oundations in **E**pistemology **C**onference (PeRFECt) with [Errol Lord](http://www.errol-lord.com/) and [Lisa Miracchi](http://miracchi.wix.com/lisamiracchi).  [More information about PeRFECt can be found here.](http://www.phil.upenn.edu/~singerd/PeRFECt15.html) (Information about PeRFECt2 is coming soon.)
+In 2014, I organized [PRPSEW14](http://www.phil.upenn.edu/~singerd/PRPSEW14.html).  
 
 Before coming to Penn, I received a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/).  
+
 </div>
 <br style="clear:both" />
 
