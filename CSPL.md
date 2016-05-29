@@ -19,7 +19,7 @@ Our most recent research uses agent-based computer simulations to examine group 
 
 
 <img src="http://www.danieljsinger.com/images/Grim.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Prof. Patrick Grim** is Distinguished Teaching Professor of Philosophy at Stony Brook University. He is author of The Incomplete Universe, co-author of The Philosophical Computer, editor of Mind and Consciousness: 5 Questions, and founding co-editor of over 25 volumes of the Philosopher's Annual. Grim has produced two lecture series with the Teaching Company: Questions of Value and Philosophy of Mind.
+**Prof. Patrick Grim** is Distinguished Teaching Professor of Philosophy at Stony Brook University. He is author of _The Incomplete Universe_, co-author of _The Philosophical Computer_, editor of _Mind and Consciousness: 5 Questions_, and founding co-editor of over 25 volumes of the _Philosopher's Annual_. Grim has produced two lecture series with the Teaching Company: _Questions of Value_ and _Philosophy of Mind_.
 
 
 <br style="clear:both" />
