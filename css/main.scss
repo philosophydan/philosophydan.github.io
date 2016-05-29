@@ -1,6 +1,3 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
 @charset "utf-8";
 
 $base-font-family: 'EB Garamond', serif;
@@ -34,7 +31,7 @@ $line-color:        $grey-vdark;
 // Width of the content area
 $content-width:    50em;
 $content-min-width: 15em;
-$mobile:           770px;
+$mobile:           767px;
 $desktop:          50em;
 
 
