@@ -7,8 +7,8 @@ published: true
 
 Here are the courses I've been teaching at the University of Pennsylvania. If you have any questions [contact me](http://www.danieljsinger.com/#contact).
 
-**Fall 2017**  
-I'll be on teaching leave Fall 2017.
+**Fall 2016**  
+I'll be at Penn but not teaching any classes in Fall 2016.
 
 **Spring 2016:**  
 PHIL 231: Knowledge and Reality  
@@ -36,6 +36,4 @@ PHIL 700: Dissertation Workshop
 
 **Spring 2013:**  
 [PHIL 231: Epistemology](https://upenn.instructure.com/courses/954128)  
-[PHIL 532: Seminar in Epistemology](http://www.danieljsinger.com/teaching/KAILSyllabus.pdf)  
-
-
+[PHIL 532: Seminar in Epistemology](http://www.danieljsinger.com/teaching/KAILSyllabus.pdf)
