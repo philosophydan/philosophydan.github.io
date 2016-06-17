@@ -22,7 +22,7 @@ and Measures” **The Journal of Mathematical Sociology** 40.02
 
 - Patrick Grim & Daniel J. Singer, Steven Fisher, Christopher Reade. (2015) “Germs, Genes, and Memes: Function and Fitness Dynamics on Information Networks” **Philosophy of Science**, Vol. 82, No. 2, p. 219-243
 
-- Patrick Grim, Daniel J. Singer, Steven Fisher, Aaron Bramson, William Berger, Christopher
+- Patrick Grim & Daniel J. Singer, Steven Fisher, Aaron Bramson, William Berger, Christopher
 Reade, Carissa Flocken, and Adam Sales. (2013) “Scientific Networks on Data Landscapes:
 Question Difficulty, Epistemic Success, and Convergence” **Episteme**, Volume 10, Number 4, p. 441-464
 
