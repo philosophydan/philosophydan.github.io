@@ -10,16 +10,23 @@ The Computational Social Philosophy Lab (CSPL) is an interdisciplanary group of 
 Our most recent research uses agent-based computer simulations to examine group deliberation and how group polarization can be produced, maintained, and destroyed by various mechanisms. For more information, contact Prof. Daniel J. Singer ([singerd@phil.upenn.edu](mailto:singerd@phil.upenn.edu)) or [Patrick Grim](http://www.pgrim.org/).
 
 
-## Recent CSPL Publications
+## Selected Recent CSPL Publications
 
-Aaron Bramson, Patrick Grim, Daniel J. Singer, William J. Berger, Steven Fisher, Graham
-Sack, and Carissa Flocken. “Understanding Polarization: Meanings, Measures,
-and Model Evaluation” **Philosophy of Science** (Forthcoming)
+- Aaron Bramson, Patrick Grim, Daniel J. Singer, William J. Berger, Steven Fisher, Graham
+Sack, and Carissa Flocken. (Forthcoming) “Understanding Polarization: Meanings, Measures,
+and Model Evaluation” **Philosophy of Science**
 
-Aaron Bramson, Patrick Grim, Daniel J. Singer, Steven Fisher, William J. Berger, Graham
-Sack, and Carissa Flocken. “Disambiguation of Social Polarization Concepts
-and Measures” **The Journal of Mathematical Sociology** 40.02 (2016)
+- Aaron Bramson, Patrick Grim, Daniel J. Singer, Steven Fisher, William J. Berger, Graham
+Sack, and Carissa Flocken. (2016) “Disambiguation of Social Polarization Concepts
+and Measures” **The Journal of Mathematical Sociology** 40.02 
 
+- Patrick Grim & Daniel J. Singer, Steven Fisher, Christopher Reade. (2015) “Germs, Genes, and Memes: Function and Fitness Dynamics on Information Networks” **Philosophy of Science**, Vol. 82, No. 2, p. 219-243
+
+- Patrick Grim, Daniel J. Singer, Steven Fisher, Aaron Bramson, William Berger, Christopher
+Reade, Carissa Flocken, and Adam Sales. (2013) “Scientific Networks on Data Landscapes:
+Question Difficulty, Epistemic Success, and Convergence” **Episteme**, Volume 10, Number 4, p. 441-464
+
+- Patrick Grim, Stephen B. Thomas, Steven Fisher, Christopher Reade, Daniel J. Singer, Mary A. Garza, Craig S. Fryer and Jamie Chatman. (2012) “Polarization and Belief Dynamics in the Black and White Communities: An Agent-Based Network Model from the Data” **Artificial Life 13** p. 186-193
 
 
 
