@@ -5,9 +5,23 @@ permalink: /CSPL/
 published: true
 ---
 
-The Computational Social Philosophy Lab is an interdisciplanary group of researchers that investiages questions of **social epistemology**, **philosophy of science**, and **political philosophy** using **agent-based computer models** and an eye toward empirical results.
+The Computational Social Philosophy Lab (CSPL) is an interdisciplanary group of researchers that investiages questions of **social epistemology**, **philosophy of science**, and **political philosophy** using **agent-based computer models** and an eye toward empirical results.
 
 Our most recent research uses agent-based computer simulations to examine group deliberation and how group polarization can be produced, maintained, and destroyed by various mechanisms. For more information, contact Prof. Daniel J. Singer ([singerd@phil.upenn.edu](mailto:singerd@phil.upenn.edu)) or [Patrick Grim](http://www.pgrim.org/).
+
+
+## Recent CSPL Publications
+
+Aaron Bramson, Patrick Grim, Daniel J. Singer, William J. Berger, Steven Fisher, Graham
+Sack, and Carissa Flocken. “Understanding Polarization: Meanings, Measures,
+and Model Evaluation” **Philosophy of Science** (Forthcoming)
+
+Aaron Bramson, Patrick Grim, Daniel J. Singer, Steven Fisher, William J. Berger, Graham
+Sack, and Carissa Flocken. “Disambiguation of Social Polarization Concepts
+and Measures” **The Journal of Mathematical Sociology** 40.02 (2016)
+
+
+
 
 ## Members
 
