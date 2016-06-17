@@ -33,7 +33,7 @@ Our most recent research uses agent-based computer simulations to examine group 
 
 
 <img src="http://www.danieljsinger.com/images/Zev.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Dr. William Zev Berger** is a fellow with the Center for the Study of Complex Systems at the University of Michigan and a lecturer at Eastern Michigan University. His research looks at political epistemology in various forms, his dissertation in particular sought to explain how institutions and social norms condition trust and empathy. He also spends a fair amount of time running and trying to stay up on indie music, and once won the Moth by telling a lurid story about his days at a dysfunctional _yeshiva_ (Jewish seminary) high school.
+**Dr. William (Zev) Berger** is a fellow with the Center for the Study of Complex Systems at the University of Michigan and a lecturer at Eastern Michigan University. His research looks at political epistemology in various forms, his dissertation in particular sought to explain how institutions and social norms condition trust and empathy. He also spends a fair amount of time running and trying to stay up on indie music, and once won the Moth by telling a story about his high school experience at a dysfunctional _yeshiva_ (Jewish seminary) in Hamilton, ON.
 
 
 <br style="clear:both" />
