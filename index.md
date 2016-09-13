@@ -11,7 +11,7 @@ I am an Assistant Professor of Philosophy at the [University of Pennsylvania](ht
 
 [My research](http://www.danieljsinger.com/research/) is at the intersections of **epistemology**, **ethics**, and **social philosophy**.  That work is motivated primarily by two questions: (1) how and why epistemic norms apply to us, and (2) how epistemic norms for groups differ from norms for individuals.  I investigate both questions using traditional philosophical methods as well as via agent-based computer simulations.  I also use agent-based computer simulations to investigate questions more squarely in **political philosophy**, **social epistemology**, and **philosophy of science**.
 
-I organize the **Pe**nn **R**easons and **F**oundations in **E**pistemology **C**onference (PeRFECt) with [Errol Lord](http://www.errol-lord.com/) and [Lisa Miracchi](http://miracchi.wix.com/lisamiracchi).  [More information about PeRFECt can be found here.](http://www.phil.upenn.edu/~singerd/PeRFECt15.html) (Information about PeRFECt2 is coming soon.)
+I organize the **Pe**nn **R**easons and **F**oundations in **E**pistemology **C**onference (PeRFECt) with [Errol Lord](http://www.errol-lord.com/) and [Lisa Miracchi](http://miracchi.wix.com/lisamiracchi).  [More information about PeRFECt can be found here.](http://www.danieljsinger.com/PeRFECt2/) (Information about PeRFECt2 is coming soon.)
 In 2014, I organized [PRPSEW14](http://www.phil.upenn.edu/~singerd/PRPSEW14.html).  
 
 Before coming to Penn, I received a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/).
