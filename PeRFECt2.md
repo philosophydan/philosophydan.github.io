@@ -4,10 +4,16 @@ title: PeRFECt2
 permalink: /PeRFECt2/
 published: true
 ---
+[Go here for information about the first PeRFECt in 2015.](http://www.phil.upenn.edu/~singerd/PeRFECt15.html)
 
-The Computational Social Philosophy Lab (CSPL) is an interdisciplanary group of researchers that investiages questions of **social epistemology**, **philosophy of science**, and **political philosophy** using **agent-based computer models** and an eye toward empirical results.
+Please join us on November 11-12, 2016 as the Philosophy Department at the University of Pennsylvania hosts the second Penn Reasons and Foundations of Epistemology Conference (PeRFECt2). Our keynote address will be delivered by Professor Susanna Schellenberg. We will also hear papers from Julia Driver, Ram Neta, and Miriam Schoenfield. There will also be faculty and graduate student commentators-at-large (more information coming soon).
 
-Our most recent research uses agent-based computer simulations to examine group deliberation and how group polarization can be produced, maintained, and destroyed by various mechanisms. For more information, contact Prof. Daniel J. Singer ([singerd@phil.upenn.edu](mailto:singerd@phil.upenn.edu)) or [Patrick Grim](http://www.pgrim.org/).
+If you're interested in being a graduate student commentator-at-large, [see the Call for Participation here.](http://philevents.org/event/show/24990)
+
+Schedule and other information coming soon.  For urgent requests, please contact [perfect-conf@phil.upenn.edu](mailto: perfect-conf@phil.upenn.edu)
+
+
+
 
 
 ## Selected Recent CSPL Publications
