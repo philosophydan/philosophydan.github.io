@@ -8,10 +8,10 @@ Please join us on **November 11-12, 2016** as the Philosophy Department at the U
 
 If you're interested in being a graduate student commentator-at-large, [see the Call for Participation here.](http://philevents.org/event/show/24990)
 
-Schedule and other information coming soon.  For urgent requests, please contact [perfect-conf@phil.upenn.edu](mailto: perfect-conf@phil.upenn.edu).
+More information is coming soon, but for urgent requests, please contact [perfect-conf@phil.upenn.edu](mailto: perfect-conf@phil.upenn.edu).
 
 ## Schedule
-Coming soon
+Coming soon!
 
 ## Accessibility Information
 All of the talks and meals except dinners will take place on the fourth floor of [Cohen Hall](http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia).  [Accessibility information for Cohen Hall can be found here.](http://www.facilities.upenn.edu/sites/default/files/pennaccess/PA0310-CohenHall.pdf)
