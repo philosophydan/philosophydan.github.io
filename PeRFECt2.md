@@ -18,8 +18,7 @@ We hope to make this event accessible to all who wish to participate.  If you ha
 
 
 ## Sponsor Information
-We are incredibly thankful to the [Greater Philadelphia Philosophy Consortium](http://www.thegppc.org/) and the Penn Provost's Excellence through Diversity Fund for their support of PeRFECt2.
+We are incredibly thankful to the [Greater Philadelphia Philosophy Consortium](http://www.thegppc.org/), the Penn Provost's Excellence through Diversity Fund, and the [Penn Department of Philosophy](https://philosophy.sas.upenn.edu/) for their support of PeRFECt2.
 
 ## Information about Previous PeRFECts
 [Go here for information about the first PeRFECt in 2015.](http://www.phil.upenn.edu/~singerd/PeRFECt15.html)
-
