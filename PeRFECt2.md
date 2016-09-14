@@ -1,5 +1,5 @@
 ---
-layout: labpage
+layout: perfect
 title: PeRFECt2
 permalink: /PeRFECt2/
 published: true
