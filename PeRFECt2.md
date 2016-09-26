@@ -15,15 +15,15 @@ More information is coming soon, but for urgent requests, please contact [perfec
 ## Tentative Schedule (as of 9/26/16) 
 **Friday, November 11th**  
 3 PM - 5 PM, Susanna Schellenberg, Title TBA  
-5 PM - 6PM, Department Reception  
+5 PM - 6 PM, Department Reception  
 6 PM, Dinner for Participants, Location TBA  
 
 **Saturday, November 12th**  
-9:30 AM - 10:30 AM, Breakfast and Lively Discussion  
+9:30 AM - 10:30 AM, Breakfast and Lively Discussion, All are welcome  
 10:30 AM - 12 PM, Julia Driver, Title TBA  
 12 PM - 2 PM, Lunch, All are welcome  
 2 PM - 3:30 PM, Miriam Schoenfield, Title TBA  
-3:30 PM - 4 PM, Snack, All are wlecome  
+3:30 PM - 4 PM, Snack, All are welcome  
 4 PM - 5:30 PM, Ram Neta, "The Basing Relation"  
 6 PM, Dinner for Participants, Location TBA  
 
