@@ -13,39 +13,39 @@ If you're interested in being a graduate student commentator-at-large, [see the 
 More information is coming soon, but for urgent requests, please contact [perfect-conf@phil.upenn.edu](mailto: perfect-conf@phil.upenn.edu).
 
 ## Schedule
-Tentative Schedule (as of 9/26/16):
-**Friday, November 11th**
-3 PM - 5 PM, Susanna Schellenberg, Title TBA
-5 PM - 6PM, Department Reception
-6 PM, Dinner for Participants, Location TBA
+Tentative Schedule (as of 9/26/16):  
+**Friday, November 11th**  
+3 PM - 5 PM, Susanna Schellenberg, Title TBA  
+5 PM - 6PM, Department Reception  
+6 PM, Dinner for Participants, Location TBA  
 
-**Saturday, November 12th**
-9:30 AM - 10:30 AM, Breakfast and Lively Discussion
-10:30 AM - 12 PM, Julia Driver, Title TBA
-12 PM - 2 PM, Lunch, All are welcome
-2 PM - 3:30 PM, Miriam Schoenfield, Title TBA
-3:30 PM - 4 PM, Snack, All are wlecome
-4 PM - 5:30 PM, Ram Neta, "The Basing Relation"
-6 PM, Dinner for Participants, Location TBA
+**Saturday, November 12th**  
+9:30 AM - 10:30 AM, Breakfast and Lively Discussion  
+10:30 AM - 12 PM, Julia Driver, Title TBA  
+12 PM - 2 PM, Lunch, All are welcome  
+2 PM - 3:30 PM, Miriam Schoenfield, Title TBA  
+3:30 PM - 4 PM, Snack, All are wlecome  
+4 PM - 5:30 PM, Ram Neta, "The Basing Relation"  
+6 PM, Dinner for Participants, Location TBA  
 
 ## Commentators-at-Large
 PeRFECt talks do not have comments.  Instead, we have invited a number of faculty and graduate students to serve as Commentators-at-Large.  Commentators-at-Large are expected to be active participants in the discussion and help drive productive interaction.
 
-**Faculty Commentators-at-Large**
-Kenny Easwaran (Texas A&M)
-Jonathan Jenkins Ichikawa (UBC)
-Kate Nolfi (Vermont)
-Anna-Sara Malmgren (Stanford)
-Alex Worsnip (UNC)
+**Faculty Commentators-at-Large**  
+Kenny Easwaran (Texas A&M)  
+Jonathan Jenkins Ichikawa (UBC)  
+Kate Nolfi (Vermont)  
+Anna-Sara Malmgren (Stanford)  
+Alex Worsnip (UNC)  
 
-**Graduate Student Commentators-at-Large**
-Sara Arnowitz (Michigan)
-Will Fleisher (Rutgers)
-Zoe Johnson King (Michigan)
-Jon Liebergen (Iowa)
-John Phillips (UNC)
-Keshav Singh (UNC)
-Hannah Trees (Texas)
+**Graduate Student Commentators-at-Large**  
+Sara Arnowitz (Michigan)  
+Will Fleisher (Rutgers)  
+Zoe Johnson King (Michigan)  
+Jon Liebergen (Iowa)  
+John Phillips (UNC)  
+Keshav Singh (UNC)  
+Hannah Trees (Texas)  
 
 ## Accessibility Information
 All of the talks and meals except dinners will take place on the fourth floor of [Cohen Hall](http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia).  [Accessibility information for Cohen Hall can be found here.](http://www.facilities.upenn.edu/sites/default/files/pennaccess/PA0310-CohenHall.pdf)
