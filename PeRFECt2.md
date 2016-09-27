@@ -14,17 +14,17 @@ More information is coming soon, but for urgent requests, please contact [perfec
 
 ## Tentative Schedule (as of 9/26/16) 
 **Friday, November 11th**  
-3 PM - 5 PM, Susanna Schellenberg, “Grounding Perceptual Knowledge in Perceptual Capacities”
+3 PM - 5 PM, Susanna Schellenberg, _Grounding Perceptual Knowledge in Perceptual Capacities_
 5 PM - 6 PM, Department Reception  
 6 PM, Dinner for Participants, Location TBA  
 
 **Saturday, November 12th**  
 9:30 AM - 10:30 AM, Breakfast and Lively Discussion, All are welcome  
-10:30 AM - 12 PM, Julia Driver, Title TBA  
+10:30 AM - 12 PM, Julia Driver, _The "Consequentialism" in "Epistemic Consequentialism"_  
 12 PM - 2 PM, Lunch, All are welcome  
-2 PM - 3:30 PM, Miriam Schoenfield, “Permissivism and the Value of Rationality”  
+2 PM - 3:30 PM, Miriam Schoenfield, _Permissivism and the Value of Rationality_  
 3:30 PM - 4 PM, Snack, All are welcome  
-4 PM - 5:30 PM, Ram Neta, "The Basing Relation"  
+4 PM - 5:30 PM, Ram Neta, _The Basing Relation_  
 6 PM, Dinner for Participants, Location TBA  
 
 ## Commentators-at-Large
