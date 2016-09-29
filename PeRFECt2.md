@@ -38,7 +38,7 @@ Anna-Sara Malmgren (Stanford)
 Alex Worsnip (UNC)  
 
 **Graduate Student Commentators-at-Large**  
-Sara Arnowitz (Michigan)  
+Sara Aronowitz (Michigan)  
 Will Fleisher (Rutgers)  
 Zoe Johnson King (Michigan)  
 Jon Liebergen (Iowa)  
