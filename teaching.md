@@ -7,6 +7,9 @@ published: true
 
 Here are the courses I've been teaching at the University of Pennsylvania. If you have any questions [contact me](http://www.danieljsinger.com/#contact).
 
+**Spring 2017**  
+PHIL 532: Social and Political Epistemology
+
 **Fall 2016**  
 I'll be at Penn but not teaching any classes in Fall 2016.
 
