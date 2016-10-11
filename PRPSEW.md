@@ -1,5 +1,5 @@
 ---
-layout: perfect
+layout: labpage
 title: PRPSEW
 permalink: /PRPSEW/
 published: true
