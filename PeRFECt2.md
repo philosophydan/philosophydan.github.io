@@ -19,32 +19,32 @@ More information is coming soon, but for urgent requests, please contact [perfec
 &nbsp;&nbsp;&nbsp;&nbsp;6 PM, Dinner for Participants, Location TBA
 
 **Saturday, November 12th**  
-9:30 AM - 10:30 AM, Breakfast and Lively Discussion, All are welcome  
-10:30 AM - 12 PM, Julia Driver, _The "Consequentialism" in "Epistemic Consequentialism"_  
-12 PM - 2 PM, Lunch, All are welcome  
-2 PM - 3:30 PM, Miriam Schoenfield, _Permissivism and the Value of Rationality_  
-3:30 PM - 4 PM, Snack, All are welcome  
-4 PM - 5:30 PM, Ram Neta, _The Basing Relation_  
-6 PM, Dinner for Participants, Location TBA  
+&nbsp;&nbsp;&nbsp;&nbsp;9:30 AM - 10:30 AM, Breakfast and Lively Discussion, All are welcome  
+&nbsp;&nbsp;&nbsp;&nbsp;10:30 AM - 12 PM, Julia Driver, _The "Consequentialism" in "Epistemic Consequentialism"_  
+&nbsp;&nbsp;&nbsp;&nbsp;12 PM - 2 PM, Lunch, All are welcome  
+&nbsp;&nbsp;&nbsp;&nbsp;2 PM - 3:30 PM, Miriam Schoenfield, _Permissivism and the Value of Rationality_  
+&nbsp;&nbsp;&nbsp;&nbsp;3:30 PM - 4 PM, Snack, All are welcome  
+&nbsp;&nbsp;&nbsp;&nbsp;4 PM - 5:30 PM, Ram Neta, _The Basing Relation_  
+&nbsp;&nbsp;&nbsp;&nbsp;6 PM, Dinner for Participants, Location TBA  
 
 ## Commentators-at-Large
 PeRFECt talks do not have comments.  Instead, we have invited a number of faculty and graduate students to serve as Commentators-at-Large.  Commentators-at-Large are expected to be active participants in the discussion and help drive productive interaction.
 
 **Faculty Commentators-at-Large**  
-Kenny Easwaran (Texas A&M)  
-Jonathan Jenkins Ichikawa (UBC)  
-Kate Nolfi (Vermont)  
-Anna-Sara Malmgren (Stanford)  
-Alex Worsnip (UNC)  
+&nbsp;&nbsp;&nbsp;&nbsp;Kenny Easwaran (Texas A&M)  
+&nbsp;&nbsp;&nbsp;&nbsp;Jonathan Jenkins Ichikawa (UBC)  
+&nbsp;&nbsp;&nbsp;&nbsp;Kate Nolfi (Vermont)  
+&nbsp;&nbsp;&nbsp;&nbsp;Anna-Sara Malmgren (Stanford)  
+&nbsp;&nbsp;&nbsp;&nbsp;Alex Worsnip (UNC)  
 
 **Graduate Student Commentators-at-Large**  
-Sara Aronowitz (Michigan)  
-Will Fleisher (Rutgers)  
-Zoe Johnson King (Michigan)  
-Jared Liebergen (Iowa)  
-John Phillips (UNC)  
-Keshav Singh (UNC)  
-Hannah Trees (Texas)  
+&nbsp;&nbsp;&nbsp;&nbsp;Sara Aronowitz (Michigan)  
+&nbsp;&nbsp;&nbsp;&nbsp;Will Fleisher (Rutgers)  
+&nbsp;&nbsp;&nbsp;&nbsp;Zoe Johnson King (Michigan)  
+&nbsp;&nbsp;&nbsp;&nbsp;Jared Liebergen (Iowa)  
+&nbsp;&nbsp;&nbsp;&nbsp;John Phillips (UNC)  
+&nbsp;&nbsp;&nbsp;&nbsp;Keshav Singh (UNC)  
+&nbsp;&nbsp;&nbsp;&nbsp;Hannah Trees (Texas)  
 
 ## Accessibility Information
 All of the talks and meals except dinners will take place on the fourth floor of [Cohen Hall](http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia).  [Accessibility information for Cohen Hall can be found here.](http://www.facilities.upenn.edu/sites/default/files/pennaccess/PA0310-CohenHall.pdf)
