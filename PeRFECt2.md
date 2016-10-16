@@ -14,9 +14,9 @@ More information is coming soon, but for urgent requests, please contact [perfec
 
 ## Tentative Schedule (as of 9/26/16) 
 **Friday, November 11th**  
-3 PM - 5 PM, Susanna Schellenberg, _Grounding Perceptual Knowledge in Perceptual Capacities_  
-5 PM - 6 PM, Department Reception  
-6 PM, Dinner for Participants, Location TBA
+&nbsp;&nbsp;&nbsp;&nbsp;3 PM - 5 PM, Susanna Schellenberg, _Grounding Perceptual Knowledge in Perceptual Capacities_  
+&nbsp;&nbsp;&nbsp;&nbsp;5 PM - 6 PM, Department Reception  
+&nbsp;&nbsp;&nbsp;&nbsp;6 PM, Dinner for Participants, Location TBA
 
 **Saturday, November 12th**  
 9:30 AM - 10:30 AM, Breakfast and Lively Discussion, All are welcome  
