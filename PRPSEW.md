@@ -8,7 +8,10 @@ published: true
 
 Please join us on **April 8-9, 2017** as the Philosophy Department at the University of Pennsylvania hosts the fifth **Penn-Rutgers-Princeton Social Epistemology Workshop.**
 
-More information is coming soon!
+NOW ACCEPTING ABSTRACTS!  
+[See the call for abstracts here.](http://philevents.org/event/show/27950)
+
+For more information, please see the [PhilEvents listing](http://philevents.org/event/show/27513).
 
 
 ## Accessibility Information
