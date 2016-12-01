@@ -13,6 +13,7 @@ NOW ACCEPTING ABSTRACTS!
 
 For more information, please see the [PhilEvents listing](http://philevents.org/event/show/27513).
 
+If you have any questions or would like to request accommodations, please email [singerd@phil.upenn.edu](mailto: singerd@phil.upenn.edu).
 
 ## Accessibility Information
 All of the talks and meals except dinners will take place on the fourth floor of [Cohen Hall](http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia).  [Accessibility information for Cohen Hall can be found here.](http://www.facilities.upenn.edu/sites/default/files/pennaccess/PA0310-CohenHall.pdf)
