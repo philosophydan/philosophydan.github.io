@@ -5,7 +5,7 @@ permalink: /
 published: true
 ---
 <div style="width: 100%;" markdown="1">
-{% include image.html url="images/mephoto.png" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/mephoto.jpeg" caption="" max_width="300px" align="right" %}
 
 I am an Assistant Professor of Philosophy at the [University of Pennsylvania](http://philosophy.sas.upenn.edu/), a Faculty Fellow in [Ware College House](https://ware.house.upenn.edu/), and I direct the [Computational Social Philosophy Lab](/CSPL/) with [Patrick Grim](http://www.pgrim.org/).
 
