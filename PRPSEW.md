@@ -15,6 +15,7 @@ All participants (speakers and audience members) must register.  [Please fill ou
 
 The Speakers will include:
 
+
 - Olivia Bailey (Harvard) "Empathy, Trust, and Allyship"
 - Rima Basu (USC) "Motivating Ethical Demands on Beliefs"
 - Grace Boey (Penn) "The Social Epistemology of Identifying Oppression"
