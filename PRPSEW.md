@@ -13,7 +13,23 @@ All participants (speakers and audience members) must register.  [Please fill ou
 
 ## Schedule
 
-SCHEDULE AND LIST OF SPEAKERS COMING SOON!
+The Speakers will include:
+Olivia Bailey (Harvard)	"Empathy, Trust, and Allyship"
+Rima Basu (USC)	"Motivating Ethical Demands on Beliefs"
+Grace Boey (Penn) "The Social Epistemology of Identifying Oppression"
+Robin Dembroff (Princeton) "Unethical Truths: Truths that Reinforce Injustice"
+Karen Frost-Arnold (Hobart and William Smith) "The Epistemic Dangers of Context Collapse Online"
+Adam Gibbons (Rutgers) "Disagreement Relative to a Domain"
+Alex Guerrero (Rutgers)	"Making Votes Epistemically Useful: Identifying and Resolving the Epistemic/Metaphysical Problem of Voting"
+Pierce Randall (Penn) "A Hawks and Doves Game for Peer Disagreement"
+Wade Roberts (Juniata) "Knowledge, Judgment and the Limits of Epistocracy"
+Pamela Robinson	(Rutgers) "Group Knowledge and Defeat"
+Cat Saint-Croix (Michigan)"Evidential Disparity and Epistemic Norms"
+Michael Schneider (UC Irvine) "The non-epistemic origins of research strongholds"
+Steve Steward (Syracuse) "Hermeneutical Distortion"
+Michael Weisberg (Penn) "Trust, Scientific Authority, and Conservation: Community Science in the Galápagos Archipelago"
+
+SCHEDULE COMING SOON!
 
 For more information, please see the [PhilEvents listing](http://philevents.org/event/show/27513).
 
