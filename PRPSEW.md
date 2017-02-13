@@ -9,7 +9,7 @@ published: true
 Please join us on **April 8-9, 2017** as the Philosophy Department at the University of Pennsylvania hosts the fifth **Penn-Rutgers-Princeton Social Epistemology Workshop** (PRPSEW5).
 
 ## Registration
-All participants (speakers and audience member) must register.  [Please fill out the form here to register.](https://goo.gl/forms/cxecjVZsUFM4qkLi1)  Registration is free.
+All participants (speakers and audience members) must register.  [Please fill out the form here to register.](https://goo.gl/forms/cxecjVZsUFM4qkLi1)  Registration is free.
 
 ## Schedule
 
