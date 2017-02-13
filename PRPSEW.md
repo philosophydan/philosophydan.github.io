@@ -31,6 +31,8 @@ The Speakers will include:
 - Steve Steward (Syracuse) "Hermeneutical Distortion"
 - Michael Weisberg (Penn) "Trust, Scientific Authority, and Conservation: Community Science in the Galápagos Archipelago"
 
+Mary Morgan (LSE) will serve as the Honorary Discussant
+
 
 SCHEDULE COMING SOON!
 
