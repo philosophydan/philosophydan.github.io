@@ -21,7 +21,7 @@ The Speakers will include:
 - Grace Boey (Penn) "The Social Epistemology of Identifying Oppression"
 - Robin Dembroff (Princeton) "Unethical Truths: Truths that Reinforce Injustice"
 - Karen Frost-Arnold (Hobart and William Smith) "The Epistemic Dangers of Context Collapse Online"
-- Adam Gibbons (Rutgers) "Disagreement Relative to a Domain"
+- Adam Gibbons (Rutgers) "Moral Disagreement and Conciliationism"
 - Alex Guerrero (Rutgers) "Making Votes Epistemically Useful: Identifying and Resolving the Epistemic/Metaphysical Problem of Voting"
 - Pierce Randall (Penn) "A Hawks and Doves Game for Peer Disagreement"
 - Wade Roberts (Juniata) "Knowledge, Judgment and the Limits of Epistocracy"
