@@ -13,7 +13,7 @@ All participants (speakers and audience members) must register.  [Please fill ou
 
 ## Schedule
 
-The Speakers will include:
+The speakers will include:
 
 
 - Olivia Bailey (Harvard) "Empathy, Trust, and Allyship"
@@ -26,7 +26,7 @@ The Speakers will include:
 - Pierce Randall (Penn) "A Hawks and Doves Game for Peer Disagreement"
 - Wade Roberts (Juniata) "Knowledge, Judgment and the Limits of Epistocracy"
 - Pamela Robinson (Rutgers) "Group Knowledge and Defeat"
-- Cat Saint-Croix (Michigan)"Evidential Disparity and Epistemic Norms"
+- Cat Saint-Croix (Michigan) "Evidential Disparity and Epistemic Norms"
 - Michael Schneider (UC Irvine) "The non-epistemic origins of research strongholds"
 - Steve Steward (Syracuse) "Hermeneutical Distortion"
 - Michael Weisberg (Penn) "Trust, Scientific Authority, and Conservation: Community Science in the Galápagos Archipelago"
