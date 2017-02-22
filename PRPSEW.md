@@ -13,6 +13,25 @@ All participants (speakers and audience members) must register.  [Please fill ou
 
 ## Schedule
 
+**Friday, November 11th**  
+> 9:50 AM - 12 PM, Susanna Schellenberg, _Grounding Perceptual Knowledge in Perceptual Capacities_  
+
+&nbsp;&nbsp;&nbsp;&nbsp;5 PM - 6 PM, Department Reception  
+&nbsp;&nbsp;&nbsp;&nbsp;6 PM, Dinner for Participants, Location TBA
+
+**Saturday, November 12th**  
+&nbsp;&nbsp;&nbsp;&nbsp;9:30 AM - 10:30 AM, Breakfast and Lively Discussion, All are welcome  
+&nbsp;&nbsp;&nbsp;&nbsp;10:30 AM - 12 PM, Julia Driver, _The "Consequentialism" in "Epistemic Consequentialism"_  
+&nbsp;&nbsp;&nbsp;&nbsp;12 PM - 2 PM, Lunch, All are welcome  
+&nbsp;&nbsp;&nbsp;&nbsp;2 PM - 3:30 PM, Miriam Schoenfield, _Forming Beliefs Arbitrarily_  
+&nbsp;&nbsp;&nbsp;&nbsp;3:30 PM - 4 PM, Snack, All are welcome  
+&nbsp;&nbsp;&nbsp;&nbsp;4 PM - 5:30 PM, Ram Neta, _The Basing Relation_  
+&nbsp;&nbsp;&nbsp;&nbsp;6 PM, Dinner for Participants, Location TBA  
+
+
+
+
+
 The speakers will include:
 
 
