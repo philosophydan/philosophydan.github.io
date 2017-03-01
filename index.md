@@ -9,13 +9,13 @@ published: true
 
 I am an Assistant Professor of Philosophy at the [University of Pennsylvania](http://philosophy.sas.upenn.edu/), a Faculty Fellow in [Ware College House](https://ware.house.upenn.edu/), and I direct the [Computational Social Philosophy Lab](/CSPL/) with [Patrick Grim](http://www.pgrim.org/).  In Spring 2018, I'll be a [Fellow of the Dartmouth Institute for Cross Disciplinary Engagement](http://ice.dartmouth.edu/fellows-program/daniel-singer).
 
-[My research](http://www.danieljsinger.com/research/) is at the intersections of **epistemology**, **ethics**, and **social philosophy**.  That work is motivated primarily by two questions: (1) how and why epistemic norms apply to us, and (2) how epistemic norms for groups differ from norms for individuals.  I investigate both questions using traditional philosophical methods as well as via agent-based computer simulations.  I also use agent-based computer simulations to investigate questions more squarely in **political philosophy**, **social epistemology**, and **philosophy of science**.
+[My research](http://www.danieljsinger.com/research/) is at the intersections of **epistemology**, **ethics**, and **social philosophy**.  My work is motivated primarily by two questions: (1) how and why epistemic norms apply to us, and (2) how epistemic norms for groups differ from norms for individuals.  I investigate both questions using traditional philosophical methods as well as via agent-based computer simulations.  I also use agent-based computer simulations to investigate questions more squarely in **political philosophy**, **social epistemology**, and **philosophy of science**.
 
 Conferences I organize:  
 [Penn Reasons and Foundations in Epistemology Conference (PeRFECt)](http://www.danieljsinger.com/PeRFECt2/)  
 [Penn-Rutgers-Princeton Social Epistemology Workshop (PRPSEW)](http://www.danieljsinger.com/PRPSEW/)
 
-Before coming to Penn, I received a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/).
+Before coming to Penn, I did a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/).
 </div>
 
 
