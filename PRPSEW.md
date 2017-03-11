@@ -13,8 +13,8 @@ All participants (speakers and audience members) must register.  [Please fill ou
 
 ## Schedule
 
-**Saturday, April 8**
-<ul style="list-style: none; padding-left: 2em; text-indent: -2em;">
+<h4 style="margin-top: 0.35em;">Saturday, April 8</h4>
+<ul style="list-style: none; padding-left: 1em; text-indent: -1em;">
 	<li>9:00 AM</li>	
     <ul style="list-style: none;">
     	<li>Breakfast, Philosophy Dept Lounge</li>
@@ -45,14 +45,23 @@ All participants (speakers and audience members) must register.  [Please fill ou
     	<li>Snack Break, Philosophy Dept Lounge</li>
     </ul>
 	
-
-	<li>3:45 Rima Basu (USC) “Motivating Ethical Demands on Beliefs”</li>
-	<li>4:30 Pierce Randall (Penn) “A Hawks and Doves Game for Peer Disagreement”</li>
-	<li>5:15 Alex Guerrero (Rutgers) “Making Votes Epistemically Useful: Identifying and Resolving the Epistemic/Metaphysical Problem of Voting”</li>
-	<li>6:00 Talks end</li>
-	<li></li>
-	<li>6:30 Dinner somewhere we can eat slowly and chat</li>
-	<li></li>
+    <li>3:45 PM - 6:00 PM</li>
+    <ul style="list-style: none;">
+    	<li>Rima Basu (USC) “Motivating Ethical Demands on Beliefs”</li>
+		<li>Pierce Randall (Penn) “A Hawks and Doves Game for Peer Disagreement”</li>
+		<li>Alex Guerrero (Rutgers) “Making Votes Epistemically Useful: Identifying and Resolving the Epistemic/Metaphysical Problem of Voting”</li>
+    </ul>
+    
+    <li>6:00 PM - 6:10 PM</li>
+    <ul style="list-style: none;">
+    	<li>Mary Morgan (LSE/Penn), Honorary Discussant</li>
+    </ul>
+    
+	<li>6:30 PM</li>
+    <ul style="list-style: none;">
+    	<li>Dinner for Invited Speakers, Participants, and Organizers</li>
+    </ul>
+</ul>
     
     
     
