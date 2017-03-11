@@ -15,10 +15,8 @@ All participants (speakers and audience members) must register.  [Please fill ou
 
 The speakers will include:
 
-
-
-<strong>Saturday, April 8</strong>
 <ul style="list-style: none;">
+<strong>Saturday, April 8</strong>
 	<li>9:00 AM</li>	
     <ul>
     	<li>Breakfast, Philosophy Dept Lounge</li>
