@@ -16,8 +16,13 @@ All participants (speakers and audience members) must register.  [Please fill ou
 The speakers will include:
 
 
+
+<strong>Saturday, April 8</strong>
 <ul style="list-style: none;">
-	<li>Saturday, April 8</li>
+	<li>9:00 AM</li>	
+    <ul>
+    	<li>Breakfast, Philosophy Dept Lounge</li>
+    </ul>	
 	<li>9:45 Cat Saint-Croix (Michigan) “Evidential Disparity and Epistemic Norms”</li>
 	<li>10:30 Steve Steward (Syracuse) “Hermeneutical Distortion”</li>
 	<li>11:15 Adam Gibbons (Rutgers) “Moral Disagreement and Conciliationism”</li>
