@@ -16,6 +16,77 @@ All participants (speakers and audience members) must register.  [Please fill ou
 The speakers will include:
 
 
+<ol>
+	<li>Saturday, April 8</li>
+	<li>9:45 Cat Saint-Croix (Michigan) “Evidential Disparity and Epistemic Norms”</li>
+	<li>10:30 Steve Steward (Syracuse) “Hermeneutical Distortion”</li>
+	<li>11:15 Adam Gibbons (Rutgers) “Moral Disagreement and Conciliationism”</li>
+	<li></li>
+	<li>12 Lunch</li>
+	<li></li>
+	<li>1:00 Karen Frost-Arnold (Hobart and William Smith) “The Epistemic Dangers of Context Collapse Online”</li>
+	<li>1:45 Grace Boey (Penn) “The Social Epistemology of Identifying Oppression”</li>
+	<li>2:30 Pamela Robinson (Rutgers) “Group Knowledge and Defeat”</li>
+	<li></li>
+	<li>3:15 Snack</li>
+	<li></li>
+	<li>3:45 Rima Basu (USC) “Motivating Ethical Demands on Beliefs”</li>
+	<li>4:30 Pierce Randall (Penn) “A Hawks and Doves Game for Peer Disagreement”</li>
+	<li>5:15 Alex Guerrero (Rutgers) “Making Votes Epistemically Useful: Identifying and Resolving the Epistemic/Metaphysical Problem of Voting”</li>
+	<li>6:00 Talks end</li>
+	<li></li>
+	<li>6:30 Dinner somewhere we can eat slowly and chat</li>
+	<li></li>
+	<li>Sunday, April 9</li>
+	<li>10:15 Olivia Bailey (Harvard) “Empathy, Trust, and Allyship”</li>
+	<li>11:00 Wade Roberts (Juniata) “Knowledge, Judgment and the Limits of Epistocracy”</li>
+	<li>11:45 Robin Dembroff (Princeton) “Unethical Truths: Truths that Reinforce Injustice”</li>
+	<li></li>
+	<li>12:30 Lunch</li>
+	<li></li>
+	<li>1:30 Michael Weisberg (Penn) “Trust, Scientific Authority, and Conservation: Community Science in the Galápagos Archipelago”</li>
+	<li>2:15 Michael Schneider (UC Irvine) “The Non-Epistemic Origins of Research Strongholds”</li>
+	<li>3:00 Mary Morgan (LSE/Penn), Honorary Discussant</li>
+	<li></li>
+	<li>~3:20 End</li>
+</ol>
+
+
+
+Saturday, April 8
+9:45 Cat Saint-Croix (Michigan) “Evidential Disparity and Epistemic Norms”
+10:30 Steve Steward (Syracuse) “Hermeneutical Distortion”
+11:15 Adam Gibbons (Rutgers) “Moral Disagreement and Conciliationism”
+
+12 Lunch
+
+1:00 Karen Frost-Arnold (Hobart and William Smith) “The Epistemic Dangers of Context Collapse Online”
+1:45 Grace Boey (Penn) “The Social Epistemology of Identifying Oppression”
+2:30 Pamela Robinson (Rutgers) “Group Knowledge and Defeat”
+
+3:15 Snack
+
+3:45 Rima Basu (USC) “Motivating Ethical Demands on Beliefs”
+4:30 Pierce Randall (Penn) “A Hawks and Doves Game for Peer Disagreement”
+5:15 Alex Guerrero (Rutgers) “Making Votes Epistemically Useful: Identifying and Resolving the Epistemic/Metaphysical Problem of Voting”
+6:00 Talks end
+
+6:30 Dinner somewhere we can eat slowly and chat
+
+Sunday, April 9
+10:15 Olivia Bailey (Harvard) “Empathy, Trust, and Allyship”
+11:00 Wade Roberts (Juniata) “Knowledge, Judgment and the Limits of Epistocracy”
+11:45 Robin Dembroff (Princeton) “Unethical Truths: Truths that Reinforce Injustice”
+
+12:30 Lunch
+
+1:30 Michael Weisberg (Penn) “Trust, Scientific Authority, and Conservation: Community Science in the Galápagos Archipelago”
+2:15 Michael Schneider (UC Irvine) “The Non-Epistemic Origins of Research Strongholds”
+3:00 Mary Morgan (LSE/Penn), Honorary Discussant
+
+~3:20 End
+
+
 - Olivia Bailey (Harvard) "Empathy, Trust, and Allyship"
 - Rima Basu (USC) "Motivating Ethical Demands on Beliefs"
 - Grace Boey (Penn) "The Social Epistemology of Identifying Oppression"
