@@ -14,7 +14,7 @@ All participants (speakers and audience members) must register.  [Please fill ou
 ## Schedule
 
 ### Saturday, April 8
-<ul style="list-style: none;">
+<ul style="list-style: none; padding-left: 2em; text-indent: -2em;">
 	<li>9:00 AM</li>	
     <ul style="list-style: none;">
     	<li>Breakfast, Philosophy Dept Lounge</li>
