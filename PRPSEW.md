@@ -18,21 +18,36 @@ The speakers will include:
 <ul style="list-style: none;">
 <strong>Saturday, April 8</strong>
 	<li>9:00 AM</li>	
-    <ul>
+    <ul style="list-style: none;">
     	<li>Breakfast, Philosophy Dept Lounge</li>
     </ul>	
-	<li>9:45 Cat Saint-Croix (Michigan) “Evidential Disparity and Epistemic Norms”</li>
-	<li>10:30 Steve Steward (Syracuse) “Hermeneutical Distortion”</li>
-	<li>11:15 Adam Gibbons (Rutgers) “Moral Disagreement and Conciliationism”</li>
-	<li></li>
-	<li>12 Lunch</li>
-	<li></li>
-	<li>1:00 Karen Frost-Arnold (Hobart and William Smith) “The Epistemic Dangers of Context Collapse Online”</li>
-	<li>1:45 Grace Boey (Penn) “The Social Epistemology of Identifying Oppression”</li>
-	<li>2:30 Pamela Robinson (Rutgers) “Group Knowledge and Defeat”</li>
-	<li></li>
-	<li>3:15 Snack</li>
-	<li></li>
+    
+    <li>9:45 AM - 12:00 PM</li>
+    <ul style="list-style: none;">
+    	<li>Cat Saint-Croix (Michigan) “Evidential Disparity and Epistemic Norms”</li>
+		<li>Steve Steward (Syracuse) “Hermeneutical Distortion”</li>
+		<li>Adam Gibbons (Rutgers) “Moral Disagreement and Conciliationism”</li>
+    </ul>
+    
+	<li>12:00 PM - 1:00 PM</li>
+    <ul style="list-style: none;">
+    	<li>Lunch, Philosophy Dept Lounge</li>
+    </ul>
+    
+    
+    <li>1:00 PM - 3:15 PM</li>
+    <ul style="list-style: none;">
+    	<li>Karen Frost-Arnold (Hobart and William Smith) “The Epistemic Dangers of Context Collapse Online”</li>
+		<li>Grace Boey (Penn) “The Social Epistemology of Identifying Oppression”</li>
+		<li>Pamela Robinson (Rutgers) “Group Knowledge and Defeat”</li>
+    </ul>
+    
+	<li>3:15 PM - 3:45 PM</li>
+    <ul style="list-style: none;">
+    	<li>Snack Break, Philosophy Dept Lounge</li>
+    </ul>
+	
+
 	<li>3:45 Rima Basu (USC) “Motivating Ethical Demands on Beliefs”</li>
 	<li>4:30 Pierce Randall (Penn) “A Hawks and Doves Game for Peer Disagreement”</li>
 	<li>5:15 Alex Guerrero (Rutgers) “Making Votes Epistemically Useful: Identifying and Resolving the Epistemic/Metaphysical Problem of Voting”</li>
@@ -40,6 +55,13 @@ The speakers will include:
 	<li></li>
 	<li>6:30 Dinner somewhere we can eat slowly and chat</li>
 	<li></li>
+    
+    
+    
+    
+    
+    
+    
 	<li>Sunday, April 9</li>
 	<li>10:15 Olivia Bailey (Harvard) “Empathy, Trust, and Allyship”</li>
 	<li>11:00 Wade Roberts (Juniata) “Knowledge, Judgment and the Limits of Epistocracy”</li>
