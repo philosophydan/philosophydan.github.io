@@ -46,7 +46,7 @@ All of the talks and meals except dinners will take place on the fourth floor of
 We hope to make this event accessible to all who wish to participate.  If you have any special requests for accommodations, please let us know as soon as possible by contacting us at [singerd@phil.upenn.edu](mailto: singerd@phil.upenn.edu).
 
 ## Organizers
-PRPSEW5 is primarily organized by [Daniel J. Singer](http://www.danieljsinger.com/) (Penn), with associate organizer [Max Lewis](https://philosophy.sas.upenn.edu/bio/lewis) (Penn).
+PRPSEW5 is primarily organized by [Daniel J. Singer](http://www.danieljsinger.com/) (Penn), with associate organizers [Max Lewis](https://philosophy.sas.upenn.edu/bio/lewis) (Penn) and [Dylan Manson](https://philosophy.sas.upenn.edu/people/dylan-manson) (Penn).
 
 The series of Penn-Rutgers-Princeton Social Epistemology Workshops is organized by Alvin Goldman (Rutgers), Tom Kelly (Princeton), and Daniel J. Singer (Penn), along with a number of graduate student organizers.
 
