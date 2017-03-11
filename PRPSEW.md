@@ -16,7 +16,7 @@ All participants (speakers and audience members) must register.  [Please fill ou
 The speakers will include:
 
 
-<ol>
+<ul style="list-style: none;">
 	<li>Saturday, April 8</li>
 	<li>9:45 Cat Saint-Croix (Michigan) “Evidential Disparity and Epistemic Norms”</li>
 	<li>10:30 Steve Steward (Syracuse) “Hermeneutical Distortion”</li>
@@ -49,7 +49,7 @@ The speakers will include:
 	<li>3:00 Mary Morgan (LSE/Penn), Honorary Discussant</li>
 	<li></li>
 	<li>~3:20 End</li>
-</ol>
+</ul>
 
 
 
