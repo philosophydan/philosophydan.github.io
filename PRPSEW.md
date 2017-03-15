@@ -38,7 +38,7 @@ All talks will take place in Cohen Hall, Room 402 (directions and accessibility 
     <li>1:00 PM - 3:15 PM</li>
     <ul style="list-style: none;">
     	<li>Karen Frost-Arnold (Hobart and William Smith) “The Epistemic Dangers of Context Collapse Online”</li>
-		<li>Grace Boey (Penn) “The Social Epistemology of Identifying Oppression”</li>
+		<li>Grace Boey (Penn) “Expertise on Oppression”</li>
 		<li>Pamela Robinson (Rutgers) “Group Knowledge and Defeat”</li>
     </ul>
     
