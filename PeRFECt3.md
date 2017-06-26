@@ -1,3 +1,10 @@
+---
+layout: perfect
+title: PeRFECt3
+permalink: /PeRFECt3/
+published: true
+---
+
 ## Welcome!
 
 Please join us on **November 4, 2017** as the Philosophy Department at the University of Pennsylvania hosts the third **Penn Reasons and Foundations of Epistemology Conference (PeRFECt2)**. 
