@@ -8,7 +8,7 @@ There will also be faculty and graduate student commentators-at-large (more info
 
 More information is coming soon, but for urgent requests, please contact [perfect-conf@phil.upenn.edu](mailto: perfect-conf@phil.upenn.edu).
 
-## Schedule (as of 9/26/16) 
+## Schedule
 Information Coming Soon
 
 
@@ -27,11 +27,12 @@ All of the talks and meals except dinners will take place on the fourth floor of
 We hope to make this event accessible to all who wish to participate.  If you have any special requests for accommodations, please let us know as soon as possible by contacting us at [perfect-conf@phil.upenn.edu](mailto: perfect-conf@phil.upenn.edu).
 
 ## Sponsor Information
-We are incredibly thankful to the [Greater Philadelphia Philosophy Consortium](http://www.thegppc.org/) and the [Penn Department of Philosophy](https://philosophy.sas.upenn.edu/) for their support of PeRFECt2.
+We are incredibly thankful to the [Greater Philadelphia Philosophy Consortium](http://www.thegppc.org/) and the [Penn Department of Philosophy](https://philosophy.sas.upenn.edu/) for their support of PeRFECt3.
 
 ## Organizers
 PeRFECt3 is organized by [Errol Lord](http://www.errol-lord.com/), [Lisa Miracchi](http://miracchi.wix.com/lisamiracchi), and [Daniel J. Singer](http://www.danieljsinger.com/).  
 
 ## Information about Previous PeRFECts
 [Go here for information about PeRFECt2 in 2016.](http://www.danieljsinger.com/PeRFECt2/)
+
 [Go here for information about the first PeRFECt in 2015.](http://www.phil.upenn.edu/~singerd/PeRFECt15.html)
