@@ -4,6 +4,8 @@ title: PeRFECt2
 permalink: /PeRFECt2/
 published: true
 ---
+<img src="http://www.danieljsinger.com/images/PeRFECt2.png" alt="PeRFECt Logo" style="margin:20px 0px 0px">
+
 ## Welcome!
 
 Please join us on **November 11-12, 2016** as the Philosophy Department at the University of Pennsylvania hosts the second **Penn Reasons and Foundations of Epistemology Conference (PeRFECt2)**. Our keynote address will be delivered by [Prof. Susanna Schellenberg](http://www.susannaschellenberg.org/). We will also hear papers from [Prof. Julia Driver](https://pages.wustl.edu/jdriver), [Prof. Ram Neta](http://philosophy.unc.edu/people/ram-neta/), and [Prof. Miriam Schoenfield](http://www.miriamschoenfield.com/). There will also be faculty and graduate student commentators-at-large (more information coming soon).
