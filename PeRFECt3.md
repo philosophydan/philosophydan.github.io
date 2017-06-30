@@ -8,7 +8,7 @@ published: true
 
 ## Welcome!
 
-Please join us on **November 4, 2017** as the Philosophy Department at the University of Pennsylvania hosts the third **Penn Reasons and Foundations of Epistemology Conference (PeRFECt3)**. 
+Please join us on **November 4, 2017** as the Philosophy Department at the University of Pennsylvania hosts the third **Penn Reasons and Foundations of Epistemology Conference (PeRFECt3)**: Epistemology and Testimony in the Age of Fake News.
 
 The PeRFECt speakers will be [Prof. Sanford Goldberg](http://www.philosophy.northwestern.edu/people/continuing-faculty/goldberg-sanford.html), [Prof. Michael Lynch](http://michael-lynch.philosophy.uconn.edu/), [Prof. Catherine Elgin](http://elgin.harvard.edu/), and [Prof. Ernest Sosa](http://www.ernestsosa.com/). 
 
