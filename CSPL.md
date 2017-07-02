@@ -9,11 +9,19 @@ The Computational Social Philosophy Lab (CSPL) is an interdisciplanary group of 
 
 Our most recent research uses agent-based computer simulations to model group deliberation and how group polarization can be produced, maintained, and destroyed by various mechanisms. Our research has implications for measuring and understanding the mechanisms of polarization in societies and small groups, the dynamics and optimization of small group discussions, and the roles of diversity and expertise in groups. For more information, contact [Prof. Daniel J. Singer](http://www.danieljsinger.com) ([singerd@phil.upenn.edu](mailto:singerd@phil.upenn.edu)) or [Patrick Grim](http://www.pgrim.org/).
 
+## Selected Current CSPL Projects
+
+- Group Deliberation Dynamics: Using a model of theoretical group deliberation where agents exchange reasons for beliefs and premises in arguments in a non-monotonic logic, we ask how rational deliberation effects epistemic properties of the group (like who knows what and when) and explore how different properties might be optimized (asking, for example, whether a devil's advocate is helpful or whether certain social network structures are conducive to good outcomes).
+
+- Rational Group Polarization: In "Rational Social and Political Polarization" (under review) we show that there is a way that epistemically rational groups of agents can polarize into subgroups that persistantly disagree with each other even after sharing all of their reasons for thier beleifs.  We argue for this using a simple agent-based model of group discussions.
+
+- Aggregating Information in Democracies: In "Votes and Talk" (under review), we use computational models to contrast the epistemic properties of voting-based group decision methods with the epistemic features of Hong-and-Page-style 'talking' models of group problem solving when those models are suppliments with the representational systems that are charateristic of real democracies.  We show that the Hong-and-Page model is resiliant to representation in a way that the voting-based models are not.  In "Diversity, Ability, and Expertise in Epistemic Communities" (under review), we show that the Hong-Page 'diversity trumps ability' does not occur with a particular natural conception of what expertise amounts to.  In that paper and an online suppliment, we also explore a number of other variations of the Hong-Page model.
+
 
 ## Selected Recent CSPL Publications
 
 - Aaron Bramson, Patrick Grim, Daniel J. Singer, William J. Berger, Steven Fisher, Graham
-Sack, and Carissa Flocken. (Forthcoming) “Understanding Polarization: Meanings, Measures,
+Sack, and Carissa Flocken. (2017) “Understanding Polarization: Meanings, Measures,
 and Model Evaluation” **Philosophy of Science**
 
 - Aaron Bramson, Patrick Grim, Daniel J. Singer, Steven Fisher, William J. Berger, Graham
