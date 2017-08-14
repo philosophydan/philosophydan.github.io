@@ -27,7 +27,7 @@ PeRFECt talks do not have comments.  Instead, we have invited a number of facult
 Prof. Emmalon Davis (New School), Prof. Karen Frost-Arnold (HWS), Prof. Allan Hazlett (WashU), Prof. Mellisa Koenig (Minnesota), Prof. Anna-Sara Malmgren (Stanford), and Prof. Deborah Tollefsen (Memphis)
 
 **Graduate Student Commentators-at-Large**  
-The Call for Commentators-at-Large for Grad Students is due Sept. 15.  [More information can be found here.](https://philevents.org/event/show/35006)
+The Call for Commentators-at-Large for Grad Students is **due Sept. 15**.  [More information can be found here.](https://philevents.org/event/show/35006)
 
 ## Accessibility Information
 All of the talks and meals except dinners will take place on the fourth floor of [Cohen Hall](http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia).  [Accessibility information for Cohen Hall can be found here.](http://www.facilities.upenn.edu/sites/default/files/pennaccess/PA0310-CohenHall.pdf)
