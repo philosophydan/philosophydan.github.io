@@ -38,7 +38,7 @@ We hope to make this event accessible to all who wish to participate.  If you ha
 We are incredibly thankful to the [Greater Philadelphia Philosophy Consortium](http://www.thegppc.org/), the Penn Univiersity Research Foundation, the Penn School of Arts and Sciences Dean's Conference Support Fund, and the [Penn Department of Philosophy](https://philosophy.sas.upenn.edu/) for their support of PeRFECt3.
 
 ## Organizers
-PeRFECt3 is organized by [Errol Lord](http://www.errol-lord.com/), [Lisa Miracchi](http://miracchi.wix.com/lisamiracchi), and [Daniel J. Singer](http://www.danieljsinger.com/).  
+PeRFECt3 is organized by [Lisa Miracchi](http://miracchi.wix.com/lisamiracchi), [Daniel J. Singer](http://www.danieljsinger.com/), and [Errol Lord](http://www.errol-lord.com/).
 
 ## Information about Previous PeRFECts
 [Go here for information about PeRFECt2 in 2016.](http://www.danieljsinger.com/PeRFECt2/)
