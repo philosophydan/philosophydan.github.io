@@ -12,9 +12,12 @@ Please join us on **November 4, 2017** as the Philosophy Department at the Unive
 
 The PeRFECt speakers will be [Prof. Sanford Goldberg](http://www.philosophy.northwestern.edu/people/continuing-faculty/goldberg-sanford.html), [Prof. Michael Lynch](http://michael-lynch.philosophy.uconn.edu/), [Prof. Catherine Elgin](http://elgin.harvard.edu/), and [Prof. Ernest Sosa](http://www.ernestsosa.com/). 
 
-There will also be faculty and graduate student commentators-at-large (more information coming soon).
 
 More information is coming soon, but for urgent requests, please contact [perfect-conf@phil.upenn.edu](mailto: perfect-conf@phil.upenn.edu).
+
+## Registration
+**Anyone wishing to attend PeRFECt3 in any capacity must register.**  To register, [fill out the form here.](https://goo.gl/forms/dkfK8SyWV2qill8z1)
+
 
 ## Schedule
 Information Coming Soon
