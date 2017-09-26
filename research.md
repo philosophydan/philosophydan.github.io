@@ -47,7 +47,7 @@ There is a popular idea that epistemic norms all stem from the ultimate goal of 
 
 **Related Papers:**
 
-- "How to be an Epistemic Consequentialist" (under review)
+- "How to be an Epistemic Consequentialist" (Forthcoming in Philosophical Quarterly)
 
 - "Permissible Epistemic Trade-offs" (under review)
 
