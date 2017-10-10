@@ -22,7 +22,7 @@ More information is coming soon, but for urgent requests, please contact [perfec
 ## Schedule
 **Saturday, November 4th**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:45 AM - 10:30 AM, Breakfast and Lively Discussion, All are welcome  
-**&nbsp;&nbsp;&nbsp;&nbsp;10:30 AM - 12 PM, Catherine Elgin**
+**&nbsp;&nbsp;&nbsp;&nbsp;10:30 AM - 12 PM, Catherine Elgin**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12 PM - 1:20 PM, Lunch, All are welcome  
 **&nbsp;&nbsp;&nbsp;&nbsp;1:20 PM - 2:50 PM,Sanford Goldberg**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2:50 PM - 3:15 PM, Afternoon Break 1  
