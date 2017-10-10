@@ -20,7 +20,16 @@ More information is coming soon, but for urgent requests, please contact [perfec
 
 
 ## Schedule
-Information Coming Soon
+Saturday, November 4th
+    9:45 AM - 10:30 AM, Breakfast and Lively Discussion, All are welcome
+    10:30 AM - 12 PM, **Catherine Elgin**
+    12 PM - 1:20 PM, Lunch, All are welcome
+    1:20 PM - 2:50 PM, **Sanford Goldberg** 
+    2:50 PM - 3:15 PM, Afternoon Break 1
+    3:15 - 4:45 PM, **Michael Lynch**
+    4:45 PM - 5:10 PM, Afternoon Break 2
+    5:10 PM - 6:40 PM, **Ernest Sosa** 
+    7 PM, Dinner for Participants, Distrito
 
 
 ## Commentators-at-Large
