@@ -21,15 +21,15 @@ More information is coming soon, but for urgent requests, please contact [perfec
 
 ## Schedule
 **Saturday, November 4th**  
-&nbsp;&nbsp;&nbsp;&nbsp;9:45 AM - 10:30 AM, Breakfast and Lively Discussion, All are welcome  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:45 AM - 10:30 AM, Breakfast and Lively Discussion, All are welcome  
 &nbsp;&nbsp;&nbsp;&nbsp;10:30 AM - 12 PM, **Catherine Elgin**  
-&nbsp;&nbsp;&nbsp;&nbsp;12 PM - 1:20 PM, Lunch, All are welcome  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12 PM - 1:20 PM, Lunch, All are welcome  
 &nbsp;&nbsp;&nbsp;&nbsp;1:20 PM - 2:50 PM, **Sanford Goldberg**   
-&nbsp;&nbsp;&nbsp;&nbsp;2:50 PM - 3:15 PM, Afternoon Break 1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2:50 PM - 3:15 PM, Afternoon Break 1  
 &nbsp;&nbsp;&nbsp;&nbsp;3:15 - 4:45 PM, **Michael Lynch**  
-&nbsp;&nbsp;&nbsp;&nbsp;4:45 PM - 5:10 PM, Afternoon Break 2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4:45 PM - 5:10 PM, Afternoon Break 2  
 &nbsp;&nbsp;&nbsp;&nbsp;5:10 PM - 6:40 PM, **Ernest Sosa**   
-&nbsp;&nbsp;&nbsp;&nbsp;7 PM, Dinner for Confirmed Dinner Participants, [Distrito](http://philadelphia.distritorestaurant.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7 PM, Dinner for Confirmed Dinner Participants, [Distrito](http://philadelphia.distritorestaurant.com/)
 
 ## Commentators-at-Large
 PeRFECt talks do not have comments.  Instead, we have include a number of faculty and graduate students to serve as Commentators-at-Large who are expected to be active participants in the discussion and help drive productive interaction.
