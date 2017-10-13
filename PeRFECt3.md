@@ -29,7 +29,7 @@ More information is coming soon, but for urgent requests, please contact [perfec
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2:50 PM - 3:15 PM, Afternoon Break 1  
 **&nbsp;&nbsp;&nbsp;&nbsp;3:15 - 4:45 PM, Michael Lynch, "Fake News and the Politics of Truth"**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4:45 PM - 5:10 PM, Afternoon Break 2  
-**&nbsp;&nbsp;&nbsp;&nbsp;5:10 PM - 6:40 PM, Ernest Sosa**   
+**&nbsp;&nbsp;&nbsp;&nbsp;5:10 PM - 6:40 PM, Ernest Sosa, "Knowledge and Default, and Testimony"**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7 PM, Dinner for Confirmed Dinner Participants, [Distrito](http://philadelphia.distritorestaurant.com/)
 
 ## Commentators-at-Large
