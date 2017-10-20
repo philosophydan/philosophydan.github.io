@@ -21,7 +21,7 @@ More information is coming soon, but for urgent requests, please contact [perfec
 
 ## Schedule
 **Saturday, November 4th**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:45 AM - 10 AM, Pre-conference Meditation led by Lisa  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:45 AM - 10 AM, Pre-Conference Meditation led by Lisa Miracchi, All are welcome  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 AM - 10:30 AM, Breakfast and Lively Discussion, All are welcome  
 **&nbsp;&nbsp;&nbsp;&nbsp;10:30 AM - 12 PM, Catherine Elgin, "Deweyan Democratic Deliberation"**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12 PM - 1:20 PM, Lunch, All are welcome  
@@ -50,7 +50,7 @@ We hope to make this event accessible to all who wish to participate.  If you ha
 We are incredibly thankful to the [Greater Philadelphia Philosophy Consortium](http://www.thegppc.org/), the Penn Univiersity Research Foundation, the Penn School of Arts and Sciences Dean's Conference Support Fund, and the [Penn Department of Philosophy](https://philosophy.sas.upenn.edu/) for their support of PeRFECt3.
 
 ## Organizers
-PeRFECt3 is organized by [Lisa Miracchi](http://miracchi.wix.com/lisamiracchi), [Daniel J. Singer](http://www.danieljsinger.com/), and [Errol Lord](http://www.errol-lord.com/).
+PeRFECt3 is organized by [Lisa Miracchi](http://www.lisamiracchi.com), [Daniel J. Singer](http://www.danieljsinger.com/), and [Errol Lord](http://www.errol-lord.com/).
 
 The associate organizers are Stephanie Wesson and Ian Pebbles.
 
