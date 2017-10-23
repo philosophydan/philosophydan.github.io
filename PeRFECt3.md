@@ -36,7 +36,7 @@ More information is coming soon, but for urgent requests, please contact [perfec
 PeRFECt talks do not have comments.  Instead, we have include a number of faculty and graduate students to serve as Commentators-at-Large who are expected to be active participants in the discussion and help drive productive interaction.
 
 **Faculty Commentators-at-Large**  
-Prof. Emmalon Davis (New School), Prof. Karen Frost-Arnold (HWS), Prof. Allan Hazlett (WashU), Prof. Mellisa Koenig (Minnesota), Prof. Anna-Sara Malmgren (Stanford), and Prof. Deborah Tollefsen (Memphis)
+Prof. Emmalon Davis (New School), Prof. Karen Frost-Arnold (HWS), Prof. Allan Hazlett (WashU), Prof. Melissa Koenig (Minnesota), Prof. Anna-Sara Malmgren (Stanford), and Prof. Deborah Tollefsen (Memphis)
 
 **Graduate Student Commentators-at-Large**  
 Eric Bayruns (CUNY Grad Center), Arianna Falbo (Simon Fraser University), Carolina Flores (Rutgers), Lauren Leydon-Hardy (Northwestern), Robert Carry Osborne (Northwestern), Walker Page (Saint Louis), Lily Simmons (Springer Nature)
