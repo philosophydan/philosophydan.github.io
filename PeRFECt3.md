@@ -13,8 +13,6 @@ Please join us on **November 4, 2017** as the Philosophy Department at the Unive
 The PeRFECt speakers will be [Prof. Catherine Elgin](http://elgin.harvard.edu/), [Prof. Sanford Goldberg](http://www.philosophy.northwestern.edu/people/continuing-faculty/goldberg-sanford.html), [Prof. Michael Lynch](http://michael-lynch.philosophy.uconn.edu/), and [Prof. Ernest Sosa](http://www.ernestsosa.com/). 
 
 
-More information is coming soon, but for urgent requests, please contact [perfect-conf@phil.upenn.edu](mailto: perfect-conf@phil.upenn.edu).
-
 ## Registration
 **Anyone wishing to attend PeRFECt3 in any capacity must register.**  To register, [fill out the form here.](https://goo.gl/forms/dkfK8SyWV2qill8z1)
 
@@ -32,7 +30,7 @@ More information is coming soon, but for urgent requests, please contact [perfec
 **&nbsp;&nbsp;&nbsp;&nbsp;5:10 PM - 6:40 PM, Ernest Sosa, "Knowledge and Default, and Testimony"**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7 PM, Dinner for Confirmed Dinner Participants, [Distrito](http://philadelphia.distritorestaurant.com/)
 
-All talks will be in Cohen Hall 402, and the meals and snacks will be in the lounge on the 4th floor of Cohen Hall.
+All talks will be in [Cohen Hall](http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia) Room 402, and the meals and snacks will be in the lounge on the 4th floor of Cohen Hall.
 
 ## Commentators-at-Large
 PeRFECt talks do not have comments.  Instead, we have include a number of faculty and graduate students to serve as Commentators-at-Large who are expected to be active participants in the discussion and help drive productive interaction.
