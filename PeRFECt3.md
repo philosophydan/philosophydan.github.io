@@ -23,7 +23,7 @@ The PeRFECt speakers will be [Prof. Catherine Elgin](http://elgin.harvard.edu/),
 
 **&nbsp;&nbsp;&nbsp;&nbsp;10 AM - 10:30 AM,** Breakfast and Lively Discussion, All are welcome
 
-**&nbsp;&nbsp;&nbsp;&nbsp;10:30 AM - 12 PM, Catherine Elgin, "Deweyan Democratic Deliberation" (Chair: [Melissa Jacquart](http://www.melissajacquart.com)) **
+**&nbsp;&nbsp;&nbsp;&nbsp;10:30 AM - 12 PM, Catherine Elgin, "Deweyan Democratic Deliberation" (Chair: [Melissa Jacquart](http://www.melissajacquart.com))**
 
 **&nbsp;&nbsp;&nbsp;&nbsp;12 PM - 1:20 PM,** Lunch, All are welcome
 
