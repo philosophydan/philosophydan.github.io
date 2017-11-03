@@ -19,16 +19,25 @@ The PeRFECt speakers will be [Prof. Catherine Elgin](http://elgin.harvard.edu/),
 
 ## Schedule
 **Saturday, November 4th**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9:45 AM - 10 AM, Pre-Conference Meditation led by Lisa Miracchi, All are welcome  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 AM - 10:30 AM, Breakfast and Lively Discussion, All are welcome  
-**&nbsp;&nbsp;&nbsp;&nbsp;10:30 AM - 12 PM, Catherine Elgin, "Deweyan Democratic Deliberation"**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12 PM - 1:20 PM, Lunch, All are welcome  
-**&nbsp;&nbsp;&nbsp;&nbsp;1:20 PM - 2:50 PM, Sanford Goldberg, "Fake News and Epistemic Rot; or, why we are all in this together."**   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2:50 PM - 3:15 PM, Afternoon Break 1  
-**&nbsp;&nbsp;&nbsp;&nbsp;3:15 - 4:45 PM, Michael Lynch, "Fake News and the Politics of Truth"**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4:45 PM - 5:10 PM, Afternoon Break 2  
-**&nbsp;&nbsp;&nbsp;&nbsp;5:10 PM - 6:40 PM, Ernest Sosa, "Knowledge and Default, and Testimony"**   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7 PM, Dinner for Confirmed Dinner Participants, [Distrito](http://philadelphia.distritorestaurant.com/)
+**&nbsp;&nbsp;&nbsp;&nbsp;9:45 AM - 10 AM,** Pre-Conference Meditation led by Lisa Miracchi, All are welcome
+
+**&nbsp;&nbsp;&nbsp;&nbsp;10 AM - 10:30 AM,** Breakfast and Lively Discussion, All are welcome
+
+**&nbsp;&nbsp;&nbsp;&nbsp;10:30 AM - 12 PM, Catherine Elgin, "Deweyan Democratic Deliberation" (Chair: [Melissa Jacquart](http://www.melissajacquart.com)) **
+
+**&nbsp;&nbsp;&nbsp;&nbsp;12 PM - 1:20 PM,** Lunch, All are welcome
+
+**&nbsp;&nbsp;&nbsp;&nbsp;1:20 PM - 2:50 PM, Sanford Goldberg, "Fake News and Epistemic Rot; or, why we are all in this together." (Chair: [Daniel J. Singer](http://www.danieljsinger.com))**
+ 
+**&nbsp;&nbsp;&nbsp;&nbsp;2:50 PM - 3:15 PM,** Afternoon Break 1  
+
+**&nbsp;&nbsp;&nbsp;&nbsp;3:15 - 4:45 PM, Michael Lynch, "Fake News and the Politics of Truth" (Chair: [Paul Silva](https://paulsilvajr.com/))**  
+
+**&nbsp;&nbsp;&nbsp;&nbsp;4:45 PM - 5:10 PM,** Afternoon Break 2  
+
+**&nbsp;&nbsp;&nbsp;&nbsp;5:10 PM - 6:40 PM, Ernest Sosa, "Knowledge and Default, and Testimony" (Chair: [Lisa Miracchi](http://www.lisamiracchi.com/))**   
+
+**&nbsp;&nbsp;&nbsp;&nbsp;7 PM,** Dinner for Confirmed Dinner Participants, [Distrito](http://philadelphia.distritorestaurant.com/)
 
 All talks will be in [Cohen Hall](http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia) Room 402, and the meals and snacks will be in the lounge on the 4th floor of Cohen Hall.
 
