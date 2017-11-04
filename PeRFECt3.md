@@ -42,7 +42,7 @@ The PeRFECt speakers will be [Prof. Catherine Elgin](http://elgin.harvard.edu/),
 All talks will be in [Cohen Hall](http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia) Room 402, and the meals and snacks will be in the lounge on the 4th floor of Cohen Hall.
 
 ## Commentators-at-Large
-PeRFECt talks do not have comments.  Instead, we have include a number of faculty and graduate students to serve as Commentators-at-Large who are expected to be active participants in the discussion and help drive productive interaction.
+PeRFECt talks do not have comments.  Instead, we include a number of faculty and graduate students to serve as Commentators-at-Large who are expected to be active participants in the discussion and help drive productive interaction.
 
 **Faculty Commentators-at-Large**  
 Prof. Emmalon Davis (New School), Prof. Karen Frost-Arnold (HWS), Prof. Allan Hazlett (WashU), Prof. Melissa Koenig (Minnesota), Prof. Anna-Sara Malmgren (Stanford), and Prof. Deborah Tollefsen (Memphis)
