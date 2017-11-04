@@ -61,7 +61,7 @@ We are incredibly thankful to the [Greater Philadelphia Philosophy Consortium](h
 ## Organizers
 PeRFECt3 is organized by [Lisa Miracchi](http://www.lisamiracchi.com), [Daniel J. Singer](http://www.danieljsinger.com/), and [Errol Lord](http://www.errol-lord.com/).
 
-The associate organizers are Stephanie Wesson and Ian Pebbles.
+The associate organizers are Stephanie Wesson and Ian Peebles.
 
 ## Information about Previous PeRFECts
 [Go here for information about PeRFECt2 in 2016.](http://www.danieljsinger.com/PeRFECt2/)
