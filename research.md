@@ -47,7 +47,7 @@ There is a popular idea that epistemic norms all stem from the ultimate goal of 
 
 **Related Papers:**
 
-- "How to be an Epistemic Consequentialist" (Forthcoming in Philosophical Quarterly)
+- ["How to be an Epistemic Consequentialist" (2018 in Philosophical Quarterly)](https://academic.oup.com/pq/advance-article/doi/10.1093/pq/pqx056/4791179?guestAccessKey=3b2ad95b-bb22-4a63-a900-bf5e940114bd)
 
 - "Permissible Epistemic Trade-offs" (under review)
 
@@ -63,7 +63,7 @@ To defend that account, I show that the constitutivist view is simpler than it i
 
 - "Some Virtues of Constitutivism as Metaphysical Explanation" (under review)
 
-- "Mind the Is-Ought Gap" (2015) in the _Journal of Philosophy_
+- "Mind the Is-Ought Gap" (2015 in the _Journal of Philosophy_)
 
 
 ### Social Epistemology, Political Philosophy, and Philosophy of Science
