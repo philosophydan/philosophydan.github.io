@@ -5,7 +5,7 @@ permalink: /
 published: true
 ---
 <div style="width: 100%;" markdown="1">
-{% include image.html url="images/mephoto.png" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/singer.jpg" caption="" max_width="300px" align="right" %}
 
 I am an Assistant Professor of Philosophy at the [University of Pennsylvania](http://philosophy.sas.upenn.edu/), and I direct the [Computational Social Philosophy Lab](/CSPL/) with [Patrick Grim](http://www.pgrim.org/).  For the Spring 2018 quarter, I'll be a [Fellow of the Dartmouth Institute for Cross Disciplinary Engagement](http://ice.dartmouth.edu/fellows-program/daniel-singer).
 
