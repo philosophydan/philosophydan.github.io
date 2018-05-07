@@ -7,7 +7,7 @@ published: true
 <div style="width: 100%;" markdown="1">
 {% include image.html url="images/singer.jpg" caption="" max_width="300px" align="right" %}
 
-I am an Assistant Professor of Philosophy at the [University of Pennsylvania](http://philosophy.sas.upenn.edu/), and I direct the [Computational Social Philosophy Lab](/CSPL/) with [Patrick Grim](http://www.pgrim.org/).  For the Spring 2018 quarter, I'll be a [Fellow of the Dartmouth Institute for Cross Disciplinary Engagement](http://ice.dartmouth.edu/fellows-program/daniel-singer).
+I am an Assistant Professor of Philosophy at the [University of Pennsylvania](http://philosophy.sas.upenn.edu/), and I direct the [Computational Social Philosophy Lab](/CSPL/) with [Patrick Grim](http://www.pgrim.org/).  For the Spring quarter of 2018, I'm a [Fellow of the Dartmouth Institute for Cross Disciplinary Engagement](http://ice.dartmouth.edu/fellows-program/daniel-singer).
 
 [My research](http://www.danieljsinger.com/research/) is at the intersections of **epistemology**, **ethics**, and **social philosophy**.  My work is motivated primarily by two questions: (1) how and why epistemic norms apply to us, and (2) how epistemic norms for groups differ from norms for individuals.  I investigate both questions using traditional philosophical methods as well as via agent-based computer simulations.  I also use agent-based computer simulations to investigate questions more squarely in **political philosophy**, **social epistemology**, and **philosophy of science**.
 
