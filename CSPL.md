@@ -5,7 +5,7 @@ permalink: /CSPL/
 published: true
 ---
 
-The Computational Social Philosophy Lab (CSPL) is an interdisciplanary group of researchers that investigates questions of **social epistemology**, **philosophy of science**, and **political philosophy** using **agent-based computer models** and an eye toward empirical results.
+The Computational Social Philosophy Lab (CSPL) is an interdisciplinary group of researchers that investigates questions of **social epistemology**, **philosophy of science**, and **political philosophy** using **agent-based computer models** and an eye toward empirical results.
 
 Our most recent research uses agent-based computer simulations to model group deliberation and how group polarization can be produced, maintained, and destroyed by various mechanisms. Our research has implications for measuring and understanding the mechanisms of polarization in societies and small groups, the dynamics and optimization of small group discussions, and the roles of diversity and expertise in groups. For more information, contact [Prof. Daniel J. Singer](http://www.danieljsinger.com) ([singerd@phil.upenn.edu](mailto:singerd@phil.upenn.edu)) or [Patrick Grim](http://www.pgrim.org/).
 
@@ -13,12 +13,17 @@ Our most recent research uses agent-based computer simulations to model group de
 
 - Group Deliberation Dynamics: Using a model of theoretical group deliberation where agents exchange reasons for beliefs and premises in arguments in a non-monotonic logic, we ask how rational deliberation effects epistemic properties of the group (like who knows what and when) and how different properties might be optimized (asking, for example, whether a devil's advocate is helpful or whether certain social network structures are conducive to good outcomes).
 
-- Rational Group Polarization: In "Rational Social and Political Polarization" (under review) we show that there is a way that epistemically rational groups of agents can polarize into subgroups that persistantly disagree with each other even after sharing all of their reasons for their beleifs.  We argue for this using a simple agent-based model of group discussions where agent must rationally manage memory limitations.
+- Rational Group Polarization: In "Rational Social and Political Polarization" (under review) we show that there is a way that epistemically rational groups of agents can polarize into subgroups that persistently disagree with each other even after sharing all of their reasons for their beliefs.  We argue for this using a simple agent-based model of group discussions where agent must rationally manage memory limitations.
 
-- Aggregating Information in Democracies: In "Votes and Talk" (under review), we use computational models to contrast the epistemic properties of voting-based group decision methods with those of Hong-and-Page-style 'talking' models of group problem solving when those models are supplemented with the representational systems that are charateristic of real democracies.  We show that the Hong-and-Page model is resiliant to representation in a way that the voting-based models are not.  In "Diversity, Ability, and Expertise in Epistemic Communities" (under review), we show that the Hong-Page 'diversity trumps ability' result does not occur with a particular natural conception of what expertise amounts to.  In that paper and an online supplement, we also explore a number of other variations of the Hong-Page model.
+- Aggregating Information in Democracies: In "Representation in Models of Epistemic Democracy" (under review), we use computational models to contrast the epistemic properties of voting-based group decision methods with those of Hong-and-Page-style 'talking' models of group problem solving when those models are supplemented with the representational systems that are characteristic of real democracies.  We show that the Hong-and-Page model is resilient to representation in a way that the voting-based models are not.  In "Diversity, Ability, and Expertise in Epistemic Communities" (forthcoming), we show that the Hong-Page 'diversity trumps ability' result does not occur with a particular natural conception of what expertise amounts to.  In that paper and an online supplement, we also explore a number of other variations of the Hong-Page model.
 
 
 ## Selected Recent CSPL Publications
+
+- Daniel J. Singer. (Forthcoming) "Diversity, Not Randomness, Trumps Ability" **Philosophy of Science**
+
+- Patrick Grim, Daniel J. Singer, Aaron Bramson, Bennett Holman,
+Sean McGeehan, and William J. Berger. (Forthcoming) "Diversity, Ability, and Expertise in Epistemic Communities" **Philosophy of Science**
 
 - Aaron Bramson, Patrick Grim, Daniel J. Singer, William J. Berger, Steven Fisher, Graham
 Sack, and Carissa Flocken. (2017) “Understanding Polarization: Meanings, Measures,
@@ -26,7 +31,7 @@ and Model Evaluation” **Philosophy of Science**
 
 - Aaron Bramson, Patrick Grim, Daniel J. Singer, Steven Fisher, William J. Berger, Graham
 Sack, and Carissa Flocken. (2016) “Disambiguation of Social Polarization Concepts
-and Measures” **The Journal of Mathematical Sociology** 40.02 
+and Measures” **The Journal of Mathematical Sociology** 40.02
 
 - Patrick Grim & Daniel J. Singer, Steven Fisher, Christopher Reade. (2015) “Germs, Genes, and Memes: Function and Fitness Dynamics on Information Networks” **Philosophy of Science**, Vol. 82, No. 2, p. 219-243
 
@@ -90,7 +95,7 @@ Question Difficulty, Epistemic Success, and Convergence” **Episteme**, Volume 
 
 
 <img src="http://www.danieljsinger.com/images/Anika.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Anika Ranginani** is an undergraduate at University of Pennsylvania working towards her B.S. in Economics with a concentration in Statistics. Although she is new to academic research, she enjoys thinking about the way models can be used to represent different phenomena in the world. She is currently working on a fantasy novel to practice writing in her free time. 
+**Anika Ranginani** is an undergraduate at University of Pennsylvania working towards her B.S. in Economics with a concentration in Statistics. Although she is new to academic research, she enjoys thinking about the way models can be used to represent different phenomena in the world. She is currently working on a fantasy novel to practice writing in her free time.
 
 
 <br style="clear:both" />
