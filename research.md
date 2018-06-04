@@ -27,11 +27,11 @@ What does a truth-centered epistemology mean for real epistemic agents, groups, 
 
 **Selected CSPL Papers:**
 
+- "Rational Social and Political Polarization" (Forthcoming, _Philosophical Studies_)
+
 - ["Diversity, Not Randomness, Trumps Ability" (Forthcoming, _Philosophy of Science_)](http://www.danieljsinger.com/papers/Singer%20-%20Diverstiy,%20Not%20Randomness,%20Trumps%20Ability%20(draft).pdf)
 
 - "Diversity, Ability, and Expertise in Epistemic Communities" (Forthcoming, _Philosophy of Science_)
-
-- "Rational Social and Political Polarization" (under review)
 
 - "Representation in Models of Epistemic Democracy" (under review)
 
