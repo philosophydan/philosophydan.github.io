@@ -4,7 +4,7 @@ title: PeRFECt4
 permalink: /PeRFECt4/
 published: true
 ---
-<img src="http://www.danieljsinger.com/images/PeRFECt3.png" alt="PeRFECt Logo" style="margin:20px 0px 0px">
+<img src="http://www.danieljsinger.com/images/PeRFECt4.png" alt="PeRFECt Logo" style="margin:20px 0px 0px">
 
 ## Welcome!
 
