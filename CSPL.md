@@ -55,7 +55,7 @@ Question Difficulty, Epistemic Success, and Convergence” **Episteme**, Volume 
 
 
 <img src="http://www.danieljsinger.com/images/Grim.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Prof. Patrick Grim** is Distinguished Teaching Professor of Philosophy at Stony Brook University. He is author of _The Incomplete Universe_, co-author of _The Philosophical Computer_, editor of _Mind and Consciousness: 5 Questions_, and founding co-editor of over 25 volumes of the _Philosopher's Annual_. Grim has produced two lecture series with the Teaching Company: _Questions of Value_ and _Philosophy of Mind_.
+**Prof. Patrick Grim** is Distinguished Teaching Professor of Philosophy Emeritus at Stony Brook University and Philosopher in Residence with the Center for Study of Complex Systems at the University of Michigan. He is author of _The Incomplete Universe_ and co-author of _Beyond Sets_, _Reflexivity: From Paradox to Consciousness_, and _The Philosophical Computer_.  He is editor of _Mind and Consciousness: 5 Questions_, and founding co-editor of over 35 volumes of the _Philosopher’s Annual_. Grim has produced four lecture series with the Teaching Company: _Questions of Value_, _Philosophy of Mind_, _The Philosopher’s Toolkit_ and _Mind-Body Philosophy_.  He publishes widely in scholarly journals across several disciplines, and is soon to step in as editor of the _American Philosophical Quarterly_. 
 
 
 <br style="clear:both" />
