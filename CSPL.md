@@ -69,7 +69,7 @@ Question Difficulty, Epistemic Success, and Convergence” **Episteme**, Volume 
 
 
 <img src="http://www.danieljsinger.com/images/Zev.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Dr. William (Zev) Berger** is a fellow with the Center for the Study of Complex Systems at the University of Michigan and a lecturer at Eastern Michigan University. His research looks at political epistemology in various forms, his dissertation in particular sought to explain how institutions and social norms condition trust and empathy. He also spends a fair amount of time running and trying to stay up on indie music, and once won the Moth by telling a story about his high school experience at a dysfunctional _yeshiva_ (Jewish seminary) in Hamilton, ON.
+**Dr. William (Zev) Berger** is a post-doctoral fellow with the Philosophy, Politics, and Economics program at the University of Pennsylvania. With a PhD in Political Science, his research looks at political epistemology in various forms, attending to matters like affective trust, democratic theory, and political inequality. He also spends a fair amount of time running and trying to stay up on indie music. Don't try to get coffee with him, though. He's annoying about coffee.
 
 
 <br style="clear:both" />
