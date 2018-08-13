@@ -16,6 +16,10 @@ There will also be faculty and graduate student commentators-at-large (more info
 
 More information is coming soon, but for urgent requests, please contact [perfect-conf@phil.upenn.edu](mailto: perfect-conf@phil.upenn.edu).
 
+## Registration
+Registration (free) is required for _anyone_ who wishes to attend PeRFECt4.  Registration information is coming soon.
+
+
 ## Schedule
 Information Coming Soon
 
@@ -27,7 +31,7 @@ PeRFECt talks do not have comments.  Instead, we have include a number of facult
 Information Coming Soon
 
 **Graduate Student Commentators-at-Large**  
-There will be a Call for Commentators-at-Large for Grad Students.  More information is coming soon. 
+See the Call for Graduate Student Commentators-at-Large here: [https://philevents.org/event/show/64562](https://philevents.org/event/show/64562)
 
 ## Accessibility Information
 All of the talks and meals except dinners will take place on the fourth floor of [Cohen Hall](http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia).  [Accessibility information for Cohen Hall can be found here.](http://www.facilities.upenn.edu/sites/default/files/pennaccess/PA0310-CohenHall.pdf)
