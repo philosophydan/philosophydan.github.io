@@ -28,7 +28,7 @@ Information Coming Soon
 PeRFECt talks do not have comments.  Instead, we have include a number of faculty and graduate students to serve as Commentators-at-Large who are expected to be active participants in the discussion and help drive productive interaction.
 
 **Faculty Commentators-at-Large**  
-Information Coming Soon
+[Amelia Hicks](http://ameliajhicks.com/) (Kansas State), [Sukaina Hirji](http://www.sukaina-hirji.com/) (Virginia Tech), [Magdalena Balcerak Jackson](http://www.mbalcerakjackson.net/homepage/index.html) (University of Miami), [Matthew McGrath](https://missouri.academia.edu/MatthewMcGrath) (Rutgers), [Daniel Star](http://www.daniel-star.net/) (Boston University), [Daniel Wodak](https://danielwodak.weebly.com/) (Virginia Tech)
 
 **Graduate Student Commentators-at-Large**  
 See the Call for Graduate Student Commentators-at-Large here: [https://philevents.org/event/show/64562](https://philevents.org/event/show/64562)
