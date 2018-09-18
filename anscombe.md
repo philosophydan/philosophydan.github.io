@@ -4,7 +4,7 @@ title: Anscombe Archive Conference
 permalink: /anscombe/
 published: true
 ---
-<img src="http://www.danieljsinger.com/images/PeRFECt4.png" alt="PeRFECt Logo" style="margin:20px 0px 0px">
+<img src="http://www.danieljsinger.com/images/Anscombe.png" alt="Anscombe Logo" style="margin:20px 0px 0px">
 
 ## Welcome!
 
