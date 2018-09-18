@@ -36,7 +36,7 @@ All of the talks and meals except dinners will take place on the fourth floor of
 We hope to make this event accessible to all who wish to participate.  If you have any special requests for accommodations, please let us know as soon as possible by contacting [Errol Lord](mailto: erlord@phil.upenn.edu).
 
 ## Sponsor Information
-We are incredibly thankful to the [Collegium Institute](http://www.collegiuminstitute.org/) and the [Penn Department of Philosophy](https://philosophy.sas.upenn.edu/) for their support of PeRFECt4.
+We are incredibly thankful to the [Collegium Institute](http://www.collegiuminstitute.org/) and the [Penn Department of Philosophy](https://philosophy.sas.upenn.edu/) for their support of the conference.
 
 ## Organizers
 The first Anscombe Archive conference is being organized by [Errol Lord](http://www.errol-lord.com/).
