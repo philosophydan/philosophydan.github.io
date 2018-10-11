@@ -20,9 +20,20 @@ More information is coming soon, but for urgent requests, please contact [perfec
 Registration (free) is required for _anyone_ who wishes to attend PeRFECt4. To register, [fill out the form here.](https://goo.gl/forms/cZ8f7GgKr9qYOIgC3)
 
 
+## Tentative Schedule (as of 10/10/18) 
+**Friday, November 2nd**  
+&nbsp;&nbsp;&nbsp;&nbsp;3 PM - 5 PM, Sarah McGrath, _Title TBD_  
+&nbsp;&nbsp;&nbsp;&nbsp;5 PM - 6 PM, Department Reception  
+&nbsp;&nbsp;&nbsp;&nbsp;6 PM, Dinner for Participants, Location TBA
 
-## Schedule
-Information Coming Soon
+**Saturday, November 3rd**  
+&nbsp;&nbsp;&nbsp;&nbsp;9:30 AM - 10:30 AM, Breakfast and Lively Discussion, All are welcome  
+&nbsp;&nbsp;&nbsp;&nbsp;10:30 AM - 12 PM, TBD, _Title TBD_  
+&nbsp;&nbsp;&nbsp;&nbsp;12 PM - 2 PM, Lunch, All are welcome  
+&nbsp;&nbsp;&nbsp;&nbsp;2 PM - 3:30 PM, TBD, _Title TBD_  
+&nbsp;&nbsp;&nbsp;&nbsp;3:30 PM - 4 PM, Snack, All are welcome  
+&nbsp;&nbsp;&nbsp;&nbsp;4 PM - 5:30 PM, TBD, _Title TBD_  
+&nbsp;&nbsp;&nbsp;&nbsp;6 PM, Dinner for Participants, Location TBA  
 
 
 ## Commentators-at-Large
@@ -32,7 +43,8 @@ PeRFECt talks do not have comments.  Instead, we have include a number of facult
 [Amelia Hicks](http://ameliajhicks.com/) (Kansas State), [Sukaina Hirji](http://www.sukaina-hirji.com/) (Virginia Tech), [Magdalena Balcerak Jackson](http://www.mbalcerakjackson.net/homepage/index.html) (University of Miami), [Matthew McGrath](https://missouri.academia.edu/MatthewMcGrath) (Rutgers), [Daniel Star](http://www.daniel-star.net/) (Boston University), [Daniel Wodak](https://danielwodak.weebly.com/) (Virginia Tech)
 
 **Graduate Student Commentators-at-Large**  
-See the Call for Graduate Student Commentators-at-Large here: [https://philevents.org/event/show/64562](https://philevents.org/event/show/64562)
+Samuel Fullhart (Princeton), Juan S. Piñeros Glasscock (Yale), Elís Miller (Harvard), Graham Moore (UBC), Daniel Muñoz (MIT), Catherine Rioux (Toronto), and Eric Sampson (UNC)
+
 
 ## Accessibility Information
 All of the talks and meals except dinners will take place on the fourth floor of [Cohen Hall](http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia).  [Accessibility information for Cohen Hall can be found here.](http://www.facilities.upenn.edu/sites/default/files/pennaccess/PA0310-CohenHall.pdf)
