@@ -83,7 +83,7 @@ Question Difficulty, Epistemic Success, and Convergence” **Episteme**, Volume 
 
 
 <img src="http://www.danieljsinger.com/images/Karen.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Karen Kovaka** is a graduate student in Philosophy at the University of Pennsylvania. Her research areas are philosophy of biology, philosophy of science, and environmental ethics and policy. In the philosophy of biology, she is interested in the foundational concepts and processes of evolution, particularly in debates about the concepts of inheritance and biological individuality. She also studies the interface between science, science policy, and public understanding of science, including how public opinion about environmental issues such as climate change may be sensitive to widespread misconceptions about the nature of science. [Learn more about Karen here.](http://philosophy.sas.upenn.edu/bio/kovaka)
+**Karen Kovaka** is an Assistant Professor of Philosophy at Virginia Tech. Her research areas are philosophy of biology, philosophy of science, and environmental ethics and policy. In the philosophy of biology, she is interested in the foundational concepts and processes of evolution, particularly in debates about the concepts of inheritance and biological individuality. She also studies the interface between science, science policy, and public understanding of science, including how public opinion about environmental issues such as climate change may be sensitive to widespread misconceptions about the nature of science. [Learn more about Karen here.](http://karenkovaka.com/)
 
 
 <br style="clear:both" />
