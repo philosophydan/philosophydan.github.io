@@ -62,7 +62,7 @@ Question Difficulty, Epistemic Success, and Convergence” **Episteme**, Volume 
 
 
 <img src="http://www.danieljsinger.com/images/Aaron.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Dr. Aaron Bramson** is a research scientist in the Lab for Symbolic Cognitive Development at the Riken Brain Science Institute in Japan and the Department of General Economics at the University of Gent in Belgium.  He studies the foundations of complexity and specializes in the development of new methodologies and conceptual frameworks for the study of complexity itself and the systems that evoke it.  Outside of research he is an avid cyclist, fashion designer, and musician.
+**Dr. Aaron Bramson** is a research scientist in the Lab for Symbolic Cognitive Development at the Riken Brain Science Institute in Japan and the Department of General Economics at the University of Gent in Belgium as well as an adjunct professor in the Dept of Software and Information Systems of UNCC in the US. He studies the foundations of complexity and specializes in the development of new methodologies and conceptual frameworks for the study of complexity itself and the systems that evoke it. Outside of research he is an avid cyclist, fashion designer, and musician. 
 
 
 <br style="clear:both" />
