@@ -90,7 +90,7 @@ Question Difficulty, Epistemic Success, and Convergence” **Episteme**, Volume 
 
 
 <img src="http://www.danieljsinger.com/images/Jiin.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Jiin Jung** is a doctoral candidate in Social Psychology at the Claremont Graduate University. Her research focuses on uncertainty reduction as an epistemic motive of social identity and self-categorization processes. She is currently studying the impact of identity-uncertainty on group identification, intergroup perceptions, and group integration and schism. Some of her empirical research has been conducted in the context of Korean reunification and Scottish independence, with data collected in Seoul and Stirling. Jiin also examines computational models of social influence processes and uncertainty-related determinants of depersonalization and projection.
+**Jiin Jung** is a doctoral candidate in Social Psychology at the Claremont Graduate University. Her research focuses on uncertainty reduction as an epistemic motive of social identity and self-categorization processes. She is currently studying the impact of identity-uncertainty on group identification, intergroup perceptions, and group integration and schism. Some of her empirical research has been conducted in the context of Korean reunification and Scottish independence, with data collected in Seoul and Stirling. Jiin also examines computational models of social influence processes and uncertainty-related determinants of depersonalization and projection.  [Learn more about Jiin here.](http://jiinjung.com/)
 
 
 <br style="clear:both" />
