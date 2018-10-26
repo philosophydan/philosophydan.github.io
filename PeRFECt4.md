@@ -12,12 +12,12 @@ Please join us on **November 2-3, 2018** as the Philosophy Department at the Uni
 
 This year's PeRFECt speakers will be [Prof. Sarah McGrath](https://www.princeton.edu/~smcgrath/), [Prof. Rima Basu](https://www.rimabasu.com/), [Prof. John Bengson](https://sites.google.com/site/johnbengson/), and [Prof. Michael Milona](http://michaelmilona.com/). 
 
-There will also be faculty and graduate student commentators-at-large (more information coming soon).
+There will also be faculty and graduate student commentators-at-large (more information below).
 
-More information is coming soon, but for urgent requests, please contact [perfect-conf@phil.upenn.edu](mailto: perfect-conf@phil.upenn.edu).
+For issues that aren't addressed below, please contact [perfect-conf@phil.upenn.edu](mailto: perfect-conf@phil.upenn.edu).
 
 ## Registration
-Registration (free) is required for _anyone_ who wishes to attend PeRFECt4. To register, [fill out the form here.](https://goo.gl/forms/cZ8f7GgKr9qYOIgC3)
+Registration (free) is **required** for _anyone_ who wishes to attend PeRFECt4. To register, [fill out the form here.](https://goo.gl/forms/cZ8f7GgKr9qYOIgC3)
 
 
 ## Tentative Schedule (as of 10/10/18) 
