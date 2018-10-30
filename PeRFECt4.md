@@ -22,7 +22,7 @@ Registration (free) is **required** for _anyone_ who wishes to attend PeRFECt4. 
 
 ## Tentative Schedule (as of 10/10/18) 
 **Friday, November 2nd**  
-&nbsp;&nbsp;&nbsp;&nbsp;3 PM - 5 PM, Sarah McGrath, _Title TBD_  
+&nbsp;&nbsp;&nbsp;&nbsp;3 PM - 5 PM, Sarah McGrath, _Moral Knowledge: Experience and Observation_  
 &nbsp;&nbsp;&nbsp;&nbsp;5 PM - 6 PM, Department Reception  
 &nbsp;&nbsp;&nbsp;&nbsp;6 PM, Dinner for Participants, Location TBA
 
