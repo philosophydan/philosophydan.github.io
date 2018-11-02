@@ -27,7 +27,7 @@ Registration (free) is **required** for _anyone_ who wishes to attend PeRFECt4. 
 &nbsp;&nbsp;&nbsp;&nbsp;6 PM, Dinner for Participants, Location TBA
 
 **Saturday, November 3rd**  
-&nbsp;&nbsp;&nbsp;&nbsp;9:30 AM - 10:30 AM, Breakfast and Lively Discussion, All are welcome  
+&nbsp;&nbsp;&nbsp;&nbsp;9:30 AM - 10:30 AM, Breakfast and Lively Discussion (including an optional meditation at 9:45), All are welcome  
 &nbsp;&nbsp;&nbsp;&nbsp;10:30 AM - 12 PM, John Bengson, _Moral Know-how_  
 &nbsp;&nbsp;&nbsp;&nbsp;12 PM - 2 PM, Lunch, All are welcome  
 &nbsp;&nbsp;&nbsp;&nbsp;2 PM - 3:30 PM, Michael Milona, _Sentimental Perceptualism and the Armchair: Toward a Comprehensive Moral Epistemology_  
