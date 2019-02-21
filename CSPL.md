@@ -20,7 +20,6 @@ Our most recent research uses agent-based computer simulations to model group de
 
 ## Selected Recent CSPL Publications
 
-- Daniel J. Singer, Aaron Bramson, Patrick Grim, Bennett Holman, Jiin Jung, Karen Kovaka, Anika Ranginani, and William J. Berger. (2018) "Rational Social and Political Polarization" **Philosophical Studies**
 
 - Daniel J. Singer. (2019) "Diversity, Not Randomness, Trumps Ability" **Philosophy of Science**
 
@@ -28,6 +27,8 @@ Our most recent research uses agent-based computer simulations to model group de
 
 - Patrick Grim, Daniel J. Singer, Aaron Bramson, Bennett Holman,
 Sean McGeehan, and William J. Berger. (2019) "Diversity, Ability, and Expertise in Epistemic Communities" **Philosophy of Science**
+
+- Daniel J. Singer, Aaron Bramson, Patrick Grim, Bennett Holman, Jiin Jung, Karen Kovaka, Anika Ranginani, and William J. Berger. (2018) "Rational Social and Political Polarization" **Philosophical Studies**
 
 - Aaron Bramson, Patrick Grim, Daniel J. Singer, William J. Berger, Steven Fisher, Graham
 Sack, and Carissa Flocken. (2017) “Understanding Polarization: Meanings, Measures,
