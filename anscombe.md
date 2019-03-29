@@ -28,29 +28,29 @@ Below is the timetable. Further details will be posted by mid-April.
 
 Friday April 26th:
 
-10,30-12,00: Talk
-12,00-2,00: Lunch and Reception at the Archive
-2,00-3,30: Talk
-3,30-4,00: Coffee break
-4,00-5,30: Talk
-6,00ish: Dinner
+10,30-12,00: Talk  
+12,00-2,00: Lunch and Reception at the Archive  
+2,00-3,30: Talk  
+3,30-4,00: Coffee break  
+4,00-5,30: Talk  
+6,00ish: Dinner  
 
 Saturday April 27th:
 
-9,30-11: Talk
-11,00-11,30: Break
-11,30-1,00: Talk
-1,00-2,30: Lunch
-2,30-4,00: Talk
-4,00-4,30: Break
-4,30-6,00: Talk
-6,30ish: Dinner
+9,30-11: Talk  
+11,00-11,30: Break  
+11,30-1,00: Talk  
+1,00-2,30: Lunch  
+2,30-4,00: Talk  
+4,00-4,30: Break  
+4,30-6,00: Talk  
+6,30ish: Dinner  
 
 Sunday April 28th:
 
-9,30-11,00: Talk
-11,00-11,30: Break
-11,30-1,00: Talk
+9,30-11,00: Talk  
+11,00-11,30: Break  
+11,30-1,00: Talk  
 
 ## Accessibility Information
 The talks on Saturday and Sunday and all of the meals except dinners will take place on the fourth floor of [Cohen Hall](http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia).  [Accessibility information for Cohen Hall can be found here.](http://www.facilities.upenn.edu/sites/default/files/pennaccess/PA0310-CohenHall.pdf) The talks on Friday will be held in another building that is still TBC. On Friday afternoon there will be a reception at the Archive in Van Pelt Library.
