@@ -24,41 +24,39 @@ Registration (free) is required for _anyone_ who wishes to attend.  Please regis
 
 
 ## Schedule
-Below is the timetable. Further details will be posted by mid-April. 
 
-Friday April 26th:
 
-10,30-12,00: Talk  
-12,00-2,00: Lunch and Reception at the Archive  
-2,00-3,30: Talk  
-3,30-4,00: Coffee break  
-4,00-5,30: Talk  
-6,00ish: Dinner  
+**Friday April 26th**
 
-Saturday April 27th:
+&nbsp;&nbsp;&nbsp;&nbsp;10,30-12,00: Susanna Schellenberg, "In Defense of de hinc Content"
+&nbsp;&nbsp;&nbsp;&nbsp;12,00-2,00: Lunch and Reception at the Archive
+&nbsp;&nbsp;&nbsp;&nbsp;2,00-3,30: Rachael Wiseman, "Linguistic Idealism, Rule-Following & Human Essence"
+&nbsp;&nbsp;&nbsp;&nbsp;3,30-4,00: Coffee break
+&nbsp;&nbsp;&nbsp;&nbsp;4,00-5,30: Michael Bratman, "Intention, Shared Agency, and the Construction of Organized Institutions"
+&nbsp;&nbsp;&nbsp;&nbsp;6,30: Dinner at Louie Louie
 
-9,30-11: Talk  
-11,00-11,30: Break  
-11,30-1,00: Talk  
-1,00-2,30: Lunch  
-2,30-4,00: Talk  
-4,00-4,30: Break  
-4,30-6,00: Talk  
-6,30ish: Dinner  
+**Saturday April 27th**
 
-Sunday April 28th:
+&nbsp;&nbsp;&nbsp;&nbsp;11,30-1,00: John Schwenkler, "The Concept of a Person"
+&nbsp;&nbsp;&nbsp;&nbsp;1,00-2,30: Lunch
+&nbsp;&nbsp;&nbsp;&nbsp;2,30-4,00: Ellen Fridland, "Rethinking Practical Intentions"
+&nbsp;&nbsp;&nbsp;&nbsp;4,00-4,30: Break
+&nbsp;&nbsp;&nbsp;&nbsp;4,30-6,00: Kieran Setiya, "Three Dogmas of Anscombeanism"
+&nbsp;&nbsp;&nbsp;&nbsp;6,30ish: Dinner at Han Dynasty
 
-9,30-11,00: Talk  
-11,00-11,30: Break  
-11,30-1,00: Talk  
+**Sunday April 28th**
+
+&nbsp;&nbsp;&nbsp;&nbsp;9,30-11,00: Jen Frey, "Anscombe on Practical Truth"
+&nbsp;&nbsp;&nbsp;&nbsp;11,00-11,30: Break
+&nbsp;&nbsp;&nbsp;&nbsp;11,30-1,00: Jennifer Hornsby, "Anscombe, Aristotle, and Intention"
 
 ## Accessibility Information
-The talks on Saturday and Sunday and all of the meals except dinners will take place on the fourth floor of [Cohen Hall](http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia).  [Accessibility information for Cohen Hall can be found here.](http://www.facilities.upenn.edu/sites/default/files/pennaccess/PA0310-CohenHall.pdf) The talks on Friday will be held in another building that is still TBC. On Friday afternoon there will be a reception at the Archive in Van Pelt Library.
+The talks on Saturday and Sunday and all of the meals except dinners will take place on the fourth floor of [Cohen Hall](http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia).  [Accessibility information for Cohen Hall can be found here.](http://www.facilities.upenn.edu/sites/default/files/pennaccess/PA0310-CohenHall.pdf) The talks on Friday will be held in Fischer Bennett Hall, room 401 (BENN 401). On Friday afternoon there will be a reception at the Archive in Van Pelt Library.
 
 We hope to make this event accessible to all who wish to participate.  If you have any special requests for accommodations, please let us know as soon as possible by contacting [Errol Lord](mailto: erlord@phil.upenn.edu).
 
 ## Sponsor Information
-We are incredibly thankful to the [Collegium Institute](http://www.collegiuminstitute.org/) and the [Penn Department of Philosophy](https://philosophy.sas.upenn.edu/) for their support.
+We are incredibly thankful to the [Collegium Institute](http://www.collegiuminstitute.org/) the [Penn Department of Philosophy](https://philosophy.sas.upenn.edu/), and [PRRUCS](https://www.prrucs.upenn.edu/) for their support.
 
 ## Organizers
-The first Anscombe Archive conference is being organized by [Errol Lord](http://www.errol-lord.com/).
+The first Anscombe Archive conference is being organized by [Errol Lord](http://www.errol-lord.com/). He is being assisted by Paul Musso and Michael Vazquez. 
