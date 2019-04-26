@@ -25,10 +25,11 @@ Registration (free) is required for _anyone_ who wishes to attend.  Please regis
 
 ## Schedule
 
+_Note the major change of April 25th. There will now be no talks on Sunday and we start at 10,00 on Saturday._
 
 **Friday April 26th**
 
-&nbsp;&nbsp;&nbsp;&nbsp;10,30-12,00: Susanna Schellenberg, "In Defense of de hinc Content"  
+&nbsp;&nbsp;&nbsp;&nbsp;10,30-12,00: Susanna Schellenberg, "The First Person Perspective and de hinc Content"  
 &nbsp;&nbsp;&nbsp;&nbsp;12,00-2,00: Lunch and Reception at the Archive  
 &nbsp;&nbsp;&nbsp;&nbsp;2,00-3,30: Rachael Wiseman, "Linguistic Idealism, Rule-Following & Human Essence"  
 &nbsp;&nbsp;&nbsp;&nbsp;3,30-4,00: Coffee break  
@@ -37,20 +38,18 @@ Registration (free) is required for _anyone_ who wishes to attend.  Please regis
 
 **Saturday April 27th**
 
-&nbsp;&nbsp;&nbsp;&nbsp;11,30-1,00: John Schwenkler, "The Concept of a Person"  
-&nbsp;&nbsp;&nbsp;&nbsp;1,00-2,30: Lunch  
+&nbsp;&nbsp;&nbsp;&nbsp;10,00-11,30: Jen Frey, "Anscombe on Practical Truth"  
+&nbsp;&nbsp;&nbsp;&nbsp;11,30-11,45: Break  
+&nbsp;&nbsp;&nbsp;&nbsp;11,15-1,15: John Schwenkler, "The Concept of a Person"  
+&nbsp;&nbsp;&nbsp;&nbsp;1,15-2,30: Lunch  
 &nbsp;&nbsp;&nbsp;&nbsp;2,30-4,00: Ellen Fridland, "Rethinking Practical Intentions"  
 &nbsp;&nbsp;&nbsp;&nbsp;4,00-4,30: Break  
 &nbsp;&nbsp;&nbsp;&nbsp;4,30-6,00: Kieran Setiya, "Three Dogmas of Anscombeanism"  
 &nbsp;&nbsp;&nbsp;&nbsp;6,30ish: Dinner at Han Dynasty  
 
-**Sunday April 28th**
-
-&nbsp;&nbsp;&nbsp;&nbsp;9,30-11,00: Jen Frey, "Anscombe on Practical Truth"  
-&nbsp;&nbsp;&nbsp;&nbsp;11,00-11,30: Break  
-&nbsp;&nbsp;&nbsp;&nbsp;11,30-1,00: Jennifer Hornsby, "Anscombe, Aristotle, and Intention"  
 
 ## Accessibility Information
+
 The talks on Saturday and Sunday and all of the meals except dinners will take place on the fourth floor of [Cohen Hall](http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia).  [Accessibility information for Cohen Hall can be found here.](http://www.facilities.upenn.edu/sites/default/files/pennaccess/PA0310-CohenHall.pdf) The talks on Friday will be held in Fischer Bennett Hall, room 401 (BENN 401). On Friday afternoon there will be a reception at the Archive in Van Pelt Library.
 
 We hope to make this event accessible to all who wish to participate.  If you have any special requests for accommodations, please let us know as soon as possible by contacting [Errol Lord](mailto: erlord@phil.upenn.edu).
