@@ -29,7 +29,7 @@ _Note the major change of April 25th. There will now be no talks on Sunday and w
 
 **Friday April 26th**
 
-_**LAST MINUTE CHANGE: FRIDAY AFTERNOON TALKS IN COHEN 402**_ 
+_**LAST MINUTE CHANGE: FRIDAY AFTERNOON TALKS IN COHEN 402**_  
 &nbsp;&nbsp;&nbsp;&nbsp;10,30-12,00: Susanna Schellenberg, "The First Person Perspective and de hinc Content"  
 &nbsp;&nbsp;&nbsp;&nbsp;12,00-2,00: Lunch and Reception at the Archive  
 &nbsp;&nbsp;&nbsp;&nbsp;2,00-3,30: Rachael Wiseman, "Linguistic Idealism, Rule-Following & Human Essence"  
