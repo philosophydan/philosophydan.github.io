@@ -29,7 +29,7 @@ _Note the major change of April 25th. There will now be no talks on Sunday and w
 
 **Friday April 26th**
 
-_All Friday Talks in Fisher-Bennett Hall (corner of 34th and Walnut) Room 401_
+_All Friday Talks in Fisher-Bennett Hall (corner of 34th and Walnut) Room 401_  
 &nbsp;&nbsp;&nbsp;&nbsp;10,30-12,00: Susanna Schellenberg, "The First Person Perspective and de hinc Content"  
 &nbsp;&nbsp;&nbsp;&nbsp;12,00-2,00: Lunch and Reception at the Archive  
 &nbsp;&nbsp;&nbsp;&nbsp;2,00-3,30: Rachael Wiseman, "Linguistic Idealism, Rule-Following & Human Essence"  
@@ -39,7 +39,7 @@ _All Friday Talks in Fisher-Bennett Hall (corner of 34th and Walnut) Room 401_
 
 **Saturday April 27th**
 
-_All Saturday Talks in Cohen Hall Room 402_
+_All Saturday Talks in Cohen Hall Room 402_  
 &nbsp;&nbsp;&nbsp;&nbsp;10,00-11,30: Jen Frey, "Anscombe on Practical Truth"  
 &nbsp;&nbsp;&nbsp;&nbsp;11,30-11,45: Break  
 &nbsp;&nbsp;&nbsp;&nbsp;11,15-1,15: John Schwenkler, "The Concept of a Person"  
