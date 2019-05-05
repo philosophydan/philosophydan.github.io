@@ -7,30 +7,30 @@ published: true
 
 Here are the courses I've been teaching at the University of Pennsylvania. If you have any questions [contact me](http://www.danieljsinger.com/#contact).
 
-**Fall 2019**  
+**Fall 2019:**  
 PHIL 231: Knowledge and Reality  
 PHIL 372: Philosophy of Food and Fat  
 
-**Spring 2019**  
+**Spring 2019:**  
 PHIL 001: Introduction to Philosophy  
 PHIL 532: The Edges of Normativity in Epistemology  
 
-**Fall 2018**  
+**Fall 2018:**  
 PHIL 001: Introduction to Philosophy   
 PHIL 600: Proseminar  
 
-**Spring 2018**  
+**Spring 2018:**  
 I was an Institute for Cross-Disciplinary Engagement Fellow at Dartmouth College in Spring 2018 and did not teach any classes.  
 
-**Fall 2017**  
+**Fall 2017:**  
 PHIL 001: Introduction to Philosophy  
 PHIL 532: Traditional and Formal Normativity in Epistemology  
 PHIL 700: Dissertation Seminar  
 
-**Spring 2017**  
+**Spring 2017:**  
 PHIL 532: Social and Political Epistemology  
 
-**Fall 2016**  
+**Fall 2016:**  
 I was at Penn but not teaching any classes in Fall 2016.  
 
 **Spring 2016:**  
