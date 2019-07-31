@@ -10,7 +10,7 @@ published: true
 
 Please join us on **November 15-16, 2019** as the Philosophy Department at the University of Pennsylvania hosts the fifth **Penn Reasons and Foundations of Epistemology Conference (PeRFECt5)**.
 
-This year's PeRFECt speakers will include [Prof. Jennifer Lackey](http://faculty.wcas.northwestern.edu/~jal788/index.html) and three others (TBD). 
+This year's PeRFECt speakers will include [Prof. Jennifer Lackey](http://faculty.wcas.northwestern.edu/~jal788/index.html) (Northwestern), [Lauren Leydon-Hardy](http://www.leydonhardy.net/) (Amherst), [Matt McGrath](https://philosophy.rutgers.edu/people/faculty/details/182-faculty1/faculty-profiles/955-mcgrath-matt) (Rutgers), and [Jonna Vance](https://www.jonnavance.com/) (Northern Arizona).
 
 There will also be faculty and graduate student commentators-at-large (more information below).
 
