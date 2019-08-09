@@ -23,7 +23,7 @@ Our most recent research uses agent-based computer simulations to model group de
 
 - Daniel J. Singer. (2019) "Diversity, Not Randomness, Trumps Ability" **Philosophy of Science**
 
-- Patrick Grim, Aaron Bramson, Daniel J. Singer, William J. Berger, Jiin Jung, and Scott E. Page. (Forthcoming) "Representation in Models of Epistemic Democracy" **Episteme**
+- Patrick Grim, Aaron Bramson, Daniel J. Singer, William J. Berger, Jiin Jung, and Scott E. Page. (2018) "Representation in Models of Epistemic Democracy" **Episteme**
 
 - Patrick Grim, Daniel J. Singer, Aaron Bramson, Bennett Holman,
 Sean McGeehan, and William J. Berger. (2019) "Diversity, Ability, and Expertise in Epistemic Communities" **Philosophy of Science**
