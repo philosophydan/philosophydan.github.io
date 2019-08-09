@@ -13,9 +13,11 @@ It's popular to think that epistemic norms can be understood in terms of an ulti
 
 - ["How to be an Epistemic Consequentialist" (2018, _Philosophical Quarterly_)](https://academic.oup.com/pq/advance-article/doi/10.1093/pq/pqx056/4791179?guestAccessKey=3b2ad95b-bb22-4a63-a900-bf5e940114bd)
 
-- ["Permissible Epistemic Trade-offs" (2018, the _Australasian Journal of Philosophy_)](https://www.tandfonline.com/doi/abs/10.1080/00048402.2018.1465987)
+- "Demoting Promoting Objections to Epistemic Consequentialism" (Forthcoming, _Philosophical Issues_)
 
-- "What Epistemic Reasons are For: Against the Belief-Sandwich Distinction" with Sara Aronowitz (under review)
+- "What Epistemic Reasons are For: Against the Belief-Sandwich Distinction" with Sara Aronowitz (Forthcoming, _Meaning, Decision, and Norms_)
+
+- ["Permissible Epistemic Trade-offs" (2018, the _Australasian Journal of Philosophy_)](https://www.tandfonline.com/doi/abs/10.1080/00048402.2018.1465987)
 
 - "Constitutivist Grounding Explanations and Naturalism" (under review)
 
@@ -27,13 +29,13 @@ What does a truth-centered epistemology mean for real epistemic agents, groups, 
 
 **Selected CSPL Papers:**
 
-- ["Rational Social and Political Polarization" (Forthcoming, _Philosophical Studies_)](https://link.springer.com/article/10.1007/s11098-018-1124-5)
+- ["Rational Social and Political Polarization" (2018, _Philosophical Studies_)](https://link.springer.com/article/10.1007/s11098-018-1124-5)
 
-- ["Diversity, Not Randomness, Trumps Ability" (Forthcoming, _Philosophy of Science_)](http://www.danieljsinger.com/papers/Singer%20-%20Diverstiy,%20Not%20Randomness,%20Trumps%20Ability%20(draft).pdf)
+- ["Diversity, Not Randomness, Trumps Ability" (2019, _Philosophy of Science_)](http://www.danieljsinger.com/papers/Singer%20-%20Diverstiy,%20Not%20Randomness,%20Trumps%20Ability%20(draft).pdf)
 
-- ["Diversity, Ability, and Expertise in Epistemic Communities" (Forthcoming, _Philosophy of Science_)](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/701070)
+- ["Diversity, Ability, and Expertise in Epistemic Communities" (2019, _Philosophy of Science_)](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/701070)
 
-- "Representation in Models of Epistemic Democracy" (Forthcoming, _Episteme_)
+- "Representation in Models of Epistemic Democracy" (2018, _Episteme_)
 
 - ["Understanding Polarization: Meanings, Measures, and Model Evaluation" (2017, _Philosophy of Science_)](https://www.journals.uchicago.edu/doi/abs/10.1086/688938)
 
