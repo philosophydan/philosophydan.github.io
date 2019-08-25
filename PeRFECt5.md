@@ -43,7 +43,7 @@ PeRFECt talks do not have comments.  Instead, we have include a number of facult
 Faculty Commentators-at-Large TBD
 
 **Graduate Student Commentators-at-Large**  
-Look out for a call for Graduate Student Commentators-at-Large coming later this year.
+See the [call for Graduate Student Commentators-at-Large here](https://philevents.org/event/show/75390).
 
 
 ## Accessibility Information
