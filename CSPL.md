@@ -51,7 +51,7 @@ Question Difficulty, Epistemic Success, and Convergence” **Episteme**, Volume 
 ## Members
 
 <img src="http://www.danieljsinger.com/images/mephoto.png" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Prof. Daniel J. Singer** is an Assistant Professor of Philosophy at the University of Pennsylvania.  His primary research revolves around two questions in epistemology and metaethics, namely (1) how and why epistemic norms apply to us, and (2) how epistemic norms change when we look at groups rather than individuals.  You can learn more about his [research here](http://www.danieljsinger.com/research/) and see his [CV here](http://www.danieljsinger.com/cv/).
+**Prof. Daniel J. Singer** is an Associate Professor of Philosophy at the University of Pennsylvania.  His primary research revolves around two questions in epistemology and metaethics, namely (1) how and why epistemic norms apply to us, and (2) how epistemic norms change when we look at groups rather than individuals.  You can learn more about his [research here](http://www.danieljsinger.com/research/) and see his [CV here](http://www.danieljsinger.com/cv/).
 
 
 <br style="clear:both" />
@@ -99,12 +99,6 @@ Question Difficulty, Epistemic Success, and Convergence” **Episteme**, Volume 
 <br style="clear:both" />
 
 
-<img src="http://www.danieljsinger.com/images/Anika.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Anika Ranginani** is an undergraduate at University of Pennsylvania working towards her B.S. in Economics with a concentration in Statistics. Although she is new to academic research, she enjoys thinking about the way models can be used to represent different phenomena in the world. She is currently working on a fantasy novel to practice writing in her free time.
-
-
-<br style="clear:both" />
-
 
 
 
@@ -113,3 +107,4 @@ Question Difficulty, Epistemic Success, and Convergence” **Episteme**, Volume 
 * Graham Sack
 * Steven Fisher
 * Christopher Reade
+* Anika Ranginani
