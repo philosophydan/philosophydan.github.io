@@ -40,7 +40,7 @@ Registration (free) is **required** for _anyone_ who wishes to attend PeRFECt5. 
 PeRFECt talks do not have comments.  Instead, we have include a number of faculty and graduate students to serve as Commentators-at-Large who are expected to be active participants in the discussion and help drive productive interaction.
 
 **Faculty Commentators-at-Large**  
-Faculty Commentators-at-Large TBD
+[Prof. Zoe Johnson King](https://www.zoejohnsonking.com/) (NYU/USC), [Prof. Avery Archer](http://www.averyarcher.com/) (GWU), [Prof. Hilary Kornblith](https://www.umass.edu/philosophy/member/hilary-kornblith) (UMass Amherst), and [Prof. Nate Sharadin](https://www.natesharadin.com/) (TCNJ)
 
 **Graduate Student Commentators-at-Large**  
 See the [call for Graduate Student Commentators-at-Large here](https://philevents.org/event/show/75390).
