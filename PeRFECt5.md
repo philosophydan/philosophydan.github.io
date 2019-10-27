@@ -17,7 +17,7 @@ There will also be faculty and graduate student commentators-at-large (more info
 For issues that aren't addressed below, please contact [perfect-conf@phil.upenn.edu](mailto: perfect-conf@phil.upenn.edu).
 
 ## Registration
-Registration (free) is **required** for _anyone_ who wishes to attend PeRFECt5. To register, check back later for the registration form.
+Registration (free) is **required** for _anyone_ who wishes to attend PeRFECt5. To register, [fill out the form here.](https://forms.gle/CGu7neffrw91hZ1g6)
 
 
 ## Tentative Schedule (as of 6/10/19) 
