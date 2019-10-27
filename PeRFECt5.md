@@ -59,6 +59,8 @@ We are incredibly thankful to the [Greater Philadelphia Philosophy Consortium](h
 ## Organizers
 PeRFECt5 is organized by [Errol Lord](http://www.errol-lord.com/), [Daniel J. Singer](http://www.danieljsinger.com/), and [Lisa Miracchi](http://miracchi.wix.com/lisamiracchi).
 
+This year, we're also joined by graduate students [Vanessa Schipani](https://philosophy.sas.upenn.edu/people/vanessa-schipani) and [Youngbin Yoon](https://philosophy.sas.upenn.edu/people/youngbin-yoon)
+
 ## Information about Previous PeRFECts
 [Go here for information about PeRFECt4 in 2018.](http://www.danieljsinger.com/PeRFECt4/)
 
