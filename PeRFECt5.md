@@ -20,7 +20,7 @@ For issues that aren't addressed below, please contact [perfect-conf@phil.upenn.
 Registration (free) is **required** for _anyone_ who wishes to attend PeRFECt5. To register, [fill out the form here.](https://forms.gle/CGu7neffrw91hZ1g6)
 
 
-## Tentative Schedule (as of 6/10/19) 
+## Tentative Schedule (as of 10/19/19) 
 **Friday, November 15th**  
 &nbsp;&nbsp;&nbsp;&nbsp;3 PM - 5 PM, Jennifer Lackey, _Title TBD_  
 &nbsp;&nbsp;&nbsp;&nbsp;5 PM - 6 PM, Department Reception  
