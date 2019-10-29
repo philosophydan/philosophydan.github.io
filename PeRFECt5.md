@@ -28,7 +28,7 @@ Registration (free) is **required** for _anyone_ who wishes to attend PeRFECt5. 
 
 **Saturday, November 16th**  
 &nbsp;&nbsp;&nbsp;&nbsp;9:30 AM - 10:30 AM, Breakfast and Lively Discussion (including an optional meditation at 9:45), All are welcome  
-&nbsp;&nbsp;&nbsp;&nbsp;10:30 AM - 12 PM, Matt McGrath, _Title TBD_  
+&nbsp;&nbsp;&nbsp;&nbsp;10:30 AM - 12 PM, Matt McGrath, _Suspending Judgment: What is it and how is it Justified?_  
 &nbsp;&nbsp;&nbsp;&nbsp;12 PM - 2 PM, Lunch, All are welcome  
 &nbsp;&nbsp;&nbsp;&nbsp;2 PM - 3:30 PM, Lauren Leydon-Hardy, _Epistemic Infringement_  
 &nbsp;&nbsp;&nbsp;&nbsp;3:30 PM - 4 PM, Snack, All are welcome  
