@@ -32,7 +32,7 @@ Registration (free) is **required** for _anyone_ who wishes to attend PeRFECt5. 
 &nbsp;&nbsp;&nbsp;&nbsp;12 PM - 2 PM, Lunch, All are welcome  
 &nbsp;&nbsp;&nbsp;&nbsp;2 PM - 3:30 PM, Lauren Leydon-Hardy, _Epistemic Infringement_  
 &nbsp;&nbsp;&nbsp;&nbsp;3:30 PM - 4 PM, Snack, All are welcome  
-&nbsp;&nbsp;&nbsp;&nbsp;4 PM - 5:30 PM, Jonna Vance, _Title TBD_  
+&nbsp;&nbsp;&nbsp;&nbsp;4 PM - 5:30 PM, Jonna Vance, _Foundationalism and Deep Learning_  
 &nbsp;&nbsp;&nbsp;&nbsp;6 PM, Dinner for Participants, Location TBA  
 
 
