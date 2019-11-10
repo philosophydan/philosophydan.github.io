@@ -54,7 +54,7 @@ All of the talks and meals except dinners will take place on the fourth floor of
 We hope to make this event accessible to all who wish to participate.  If you have any special requests for accommodations, please let us know as soon as possible by contacting us at [perfect-conf@phil.upenn.edu](mailto: perfect-conf@phil.upenn.edu).
 
 ## Sponsor Information
-We are incredibly thankful to the [Greater Philadelphia Philosophy Consortium](http://www.thegppc.org/) and the [Penn Department of Philosophy](https://philosophy.sas.upenn.edu/) for their support of PeRFECt5.
+We are incredibly thankful to the [Greater Philadelphia Philosophy Consortium](http://www.thegppc.org/), The Wharton School, and the [Penn Department of Philosophy](https://philosophy.sas.upenn.edu/) for their support of PeRFECt5.
 
 ## Organizers
 PeRFECt5 is organized by [Errol Lord](http://www.errol-lord.com/), [Daniel J. Singer](http://www.danieljsinger.com/), and [Lisa Miracchi](http://miracchi.wix.com/lisamiracchi).
