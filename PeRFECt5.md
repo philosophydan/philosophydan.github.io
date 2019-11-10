@@ -22,7 +22,7 @@ Registration (free) is **required** for _anyone_ who wishes to attend PeRFECt5. 
 
 ## Tentative Schedule (as of 10/19/19) 
 **Friday, November 15th**  
-&nbsp;&nbsp;&nbsp;&nbsp;3 PM - 5 PM, Jennifer Lackey, _Title TBD_  
+&nbsp;&nbsp;&nbsp;&nbsp;3 PM - 5 PM, Jennifer Lackey, _False Confessions and Testimonial Injustice_  
 &nbsp;&nbsp;&nbsp;&nbsp;5 PM - 6 PM, Department Reception  
 &nbsp;&nbsp;&nbsp;&nbsp;6 PM, Dinner for Participants, Location TBA
 
