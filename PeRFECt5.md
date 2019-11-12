@@ -43,7 +43,7 @@ PeRFECt talks do not have comments.  Instead, we have include a number of facult
 [Prof. Avery Archer](http://www.averyarcher.com/) (GWU), [Prof. Zoe Johnson King](https://www.zoejohnsonking.com/) (NYU/USC), [Prof. Hilary Kornblith](https://www.umass.edu/philosophy/member/hilary-kornblith) (UMass Amherst), and [Prof. Nate Sharadin](https://www.natesharadin.com/) (TCNJ)
 
 **Graduate Student Commentators-at-Large**  
-Aliosha Celeste Barranco Lopez (UNC), Chuck Goldhaber (Pittsburgh), Annette Martín (NYU), Heather Spradley (Harvard), and Vishnu Sridharan (USC)
+[Aliosha Celeste Barranco Lopez](https://philosophy.unc.edu/people/aliosha-barranco-lopez/) (UNC), [Chuck Goldhaber](http://cgoldhaber.com/) (Pittsburgh), [Annette Martín](https://www.annettemartin.info/) (NYU), [Heather Spradley](https://philosophy.fas.harvard.edu/people/heather-spradley-0) (Harvard), and [Vishnu Sridharan](https://vishnusridharan.com/) (USC)
 
 The [call for Graduate Student Commentators-at-Large](https://philevents.org/event/show/75390) is now closed.
 
