@@ -12,7 +12,8 @@ Here are the courses I've been teaching at the University of Pennsylvania. If yo
 
 **Spring 2020:**  
 PHIL 005: Introduction to Mathematical Logic  
-- PHIL005/LGIC010 is currently full. [To join the waitlist, click here.](https://forms.gle/HdN7JkdFKbd9P8sw7)  
+> PHIL005/LGIC010 is currently full. [To join the waitlist, click here.](https://forms.gle/HdN7JkdFKbd9P8sw7)  
+
 PHIL 532: Graduate Seminar in Legal Epistemology  
 
 **Fall 2019:**  
