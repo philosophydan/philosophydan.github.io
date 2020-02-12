@@ -1,6 +1,7 @@
 ;; Written by Will Braynen (July 2013, modified September 2017)
 ;; Based on work done by Patrick Grim. (See "The Philosophy Computer",
 ;; Grim, Mar, and St. Denis, MIT Press, 1998.)
+;; Modified to run on NetlogoWeb in 2020 by Daniel J. Singer
 
 
 patches-own [
@@ -253,94 +254,128 @@ to increment_cooperated [ inc ]
   set defected (defected + (rounds_to_play - inc))
 end
 
-
 ;; s1 is strategy1
 ;; s2 is strategy2
 to-report payoff [ s1 s2 ]  ;; reporter
   ;; 000
-  if (s1 = 0) [ increment_cooperated (0) ]
-  if (s1 = 0 and s2 = 0) [ report rounds_to_play * payoffs_dd ]
-  if (s1 = 0 and s2 = 1) [ report payoffs_dd + (rounds_to_play - 1) * payoffs_dc ]
-  if (s1 = 0 and s2 = 2) [ report rounds_to_play * payoffs_dd ]
-  if (s1 = 0 and s2 = 3) [ report payoffs_dd + (rounds_to_play - 1) * payoffs_dc ]
-  if (s1 = 0 and s2 = 4) [ report payoffs_dc + (rounds_to_play - 1) * payoffs_dd ]
-  if (s1 = 0 and s2 = 5) [ report rounds_to_play * payoffs_dc ]
-  if (s1 = 0 and s2 = 6) [ report payoffs_dc + (rounds_to_play - 1) * payoffs_dd ]
-  if (s1 = 0 and s2 = 7) [ report rounds_to_play * payoffs_dc ]
+  (ifelse
+    s1 = 0 [report payoff0 s2]
+    s1 = 1 [report payoff1 s2]
+    s1 = 2 [report payoff2 s2]
+    s1 = 3 [report payoff3 s2]
+    s1 = 4 [report payoff4 s2]
+    s1 = 5 [report payoff5 s2]
+    s1 = 6 [report payoff6 s2]
+    s1 = 7 [report payoff7 s2]
+    )
+end
 
-  ;; 001
-  if (s1 = 1 and s2 = 0) [ increment_cooperated (rounds_to_play - 2)  report payoffs_dd + (rounds_to_play - 1) * payoffs_cd ]
-  if (s1 = 1 and s2 = 1) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 2) * payoffs_dd + (rounds_to_play / 2) * payoffs_cc ]
-  if (s1 = 1 and s2 = 2) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 4) * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
-  if (s1 = 1 and s2 = 3) [ increment_cooperated (1)    report payoffs_dd + payoffs_cc + (rounds_to_play - 2) * payoffs_dc ]
-  if (s1 = 1 and s2 = 4) [ increment_cooperated (rounds_to_play - 2)  report payoffs_dc + payoffs_dd + (rounds_to_play - 2) * payoffs_cd ]
-  if (s1 = 1 and s2 = 5) [ increment_cooperated (0)    report rounds_to_play * payoffs_dc ]
-  if (s1 = 1 and s2 = 6) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 4) * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
-  if (s1 = 1 and s2 = 7) [ increment_cooperated (0)    report rounds_to_play * payoffs_dc ]
+to-report payoff0 [s2]
+  increment_cooperated (0)
+  (ifelse
+    (s2 = 0) [ report rounds_to_play * payoffs_dd ]
+    (s2 = 1) [ report payoffs_dd + (rounds_to_play - 1) * payoffs_dc ]
+    (s2 = 2) [ report rounds_to_play * payoffs_dd ]
+    (s2 = 3) [ report payoffs_dd + (rounds_to_play - 1) * payoffs_dc ]
+    (s2 = 4) [ report payoffs_dc + (rounds_to_play - 1) * payoffs_dd ]
+    (s2 = 5) [ report rounds_to_play * payoffs_dc ]
+    (s2 = 6) [ report payoffs_dc + (rounds_to_play - 1) * payoffs_dd ]
+    (s2 = 7) [ report rounds_to_play * payoffs_dc ]
+  )
+end
 
-  ;; 010
-  if (s1 = 2 and s2 = 0) [ increment_cooperated (0)    report rounds_to_play * payoffs_dd ]
-  if (s1 = 2 and s2 = 1) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 4) * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
-  if (s1 = 2 and s2 = 2) [ increment_cooperated (0)    report rounds_to_play * payoffs_dd ]
-  if (s1 = 2 and s2 = 3) [ increment_cooperated (rounds_to_play - 2)  report payoffs_dd + payoffs_dc + (rounds_to_play - 2) * payoffs_cc ]
-  if (s1 = 2 and s2 = 4) [ increment_cooperated (1)    report payoffs_dc + payoffs_cd + (rounds_to_play - 2) * payoffs_dd ]
-  if (s1 = 2 and s2 = 5) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 4) * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
-  if (s1 = 2 and s2 = 6) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 2) * payoffs_dc + (rounds_to_play / 2) * payoffs_cd ]
-  if (s1 = 2 and s2 = 7) [ increment_cooperated (rounds_to_play - 2)  report payoffs_dc + (rounds_to_play - 1) * payoffs_cc ]
+to-report payoff1 [s2]
+  (ifelse
+    (s2 = 0) [ increment_cooperated (rounds_to_play - 2)  report payoffs_dd + (rounds_to_play - 1) * payoffs_cd ]
+    (s2 = 1) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 2) * payoffs_dd + (rounds_to_play / 2) * payoffs_cc ]
+    (s2 = 2) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 4) * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
+    (s2 = 3) [ increment_cooperated (1)    report payoffs_dd + payoffs_cc + (rounds_to_play - 2) * payoffs_dc ]
+    (s2 = 4) [ increment_cooperated (rounds_to_play - 2)  report payoffs_dc + payoffs_dd + (rounds_to_play - 2) * payoffs_cd ]
+    (s2 = 5) [ increment_cooperated (0)    report rounds_to_play * payoffs_dc ]
+    (s2 = 6) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 4) * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
+    (s2 = 7) [ increment_cooperated (0)    report rounds_to_play * payoffs_dc ]
+    )
+end
 
-  ;; 011
-  if (s1 = 3) [ increment_cooperated (rounds_to_play - 1)   ]
-  if (s1 = 3 and s2 = 0) [ report payoffs_dd + (rounds_to_play - 1) * payoffs_cd ]
-  if (s1 = 3 and s2 = 1) [ report payoffs_dd + payoffs_cc + (rounds_to_play - 2) * payoffs_cd ]
-  if (s1 = 3 and s2 = 2) [ report payoffs_dd + payoffs_cd + (rounds_to_play - 2) * payoffs_cc ]
-  if (s1 = 3 and s2 = 3) [ report payoffs_dd + (rounds_to_play - 1) * payoffs_cc ]
-  if (s1 = 3 and s2 = 4) [ report payoffs_dc + (rounds_to_play - 1) * payoffs_cd ]
-  if (s1 = 3 and s2 = 5) [ report payoffs_dc + payoffs_cc + (rounds_to_play - 2) * payoffs_cd ]
-  if (s1 = 3 and s2 = 6) [ report payoffs_dc + payoffs_cd + (rounds_to_play - 2) * payoffs_cc ]
-  if (s1 = 3 and s2 = 7) [ report payoffs_dc + (rounds_to_play - 1) * payoffs_cc ]
+to-report payoff2 [s2]
+  (ifelse
+    (s2 = 0) [ increment_cooperated (0)    report rounds_to_play * payoffs_dd ]
+    (s2 = 1) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 4) * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
+    (s2 = 2) [ increment_cooperated (0)    report rounds_to_play * payoffs_dd ]
+    (s2 = 3) [ increment_cooperated (rounds_to_play - 2)  report payoffs_dd + payoffs_dc + (rounds_to_play - 2) * payoffs_cc ]
+    (s2 = 4) [ increment_cooperated (1)    report payoffs_dc + payoffs_cd + (rounds_to_play - 2) * payoffs_dd ]
+    (s2 = 5) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 4) * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
+    (s2 = 6) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 2) * payoffs_dc + (rounds_to_play / 2) * payoffs_cd ]
+    (s2 = 7) [ increment_cooperated (rounds_to_play - 2)  report payoffs_dc + (rounds_to_play - 1) * payoffs_cc ]
+    )
+end
 
-  ;; 100
-  if (s1 = 4) [ increment_cooperated (1) ]
-  if (s1 = 4 and s2 = 0) [ report payoffs_cd + (rounds_to_play - 1) * payoffs_dd ]
-  if (s1 = 4 and s2 = 1) [ report payoffs_cd + payoffs_dd + (rounds_to_play - 2) * payoffs_dc ]
-  if (s1 = 4 and s2 = 2) [ report payoffs_cd + payoffs_dc + (rounds_to_play - 2) * payoffs_dd ]
-  if (s1 = 4 and s2 = 3) [ report payoffs_cd + (rounds_to_play - 1) * payoffs_dc ]
-  if (s1 = 4 and s2 = 4) [ report payoffs_cc + (rounds_to_play - 1) * payoffs_dd ]
-  if (s1 = 4 and s2 = 5) [ report payoffs_cc + payoffs_dd + (rounds_to_play - 2) * payoffs_dc ]
-  if (s1 = 4 and s2 = 6) [ report payoffs_cc + payoffs_dc + (rounds_to_play - 2) * payoffs_dd ]
-  if (s1 = 4 and s2 = 7) [ report payoffs_cc + (rounds_to_play - 1) * payoffs_dc ]
+to-report payoff3 [s2]
+  increment_cooperated (rounds_to_play - 1)
+  (ifelse
+    (s2 = 0) [ report payoffs_dd + (rounds_to_play - 1) * payoffs_cd ]
+    (s2 = 1) [ report payoffs_dd + payoffs_cc + (rounds_to_play - 2) * payoffs_cd ]
+    (s2 = 2) [ report payoffs_dd + payoffs_cd + (rounds_to_play - 2) * payoffs_cc ]
+    (s2 = 3) [ report payoffs_dd + (rounds_to_play - 1) * payoffs_cc ]
+    (s2 = 4) [ report payoffs_dc + (rounds_to_play - 1) * payoffs_cd ]
+    (s2 = 5) [ report payoffs_dc + payoffs_cc + (rounds_to_play - 2) * payoffs_cd ]
+    (s2 = 6) [ report payoffs_dc + payoffs_cd + (rounds_to_play - 2) * payoffs_cc ]
+    (s2 = 7) [ report payoffs_dc + (rounds_to_play - 1) * payoffs_cc ]
+    )
+end
 
-  ;; 101
-  if (s1 = 5 and s2 = 0) [ increment_cooperated (rounds_to_play)  report rounds_to_play * payoffs_cd ]
-  if (s1 = 5 and s2 = 1) [ increment_cooperated (rounds_to_play)  report rounds_to_play * payoffs_cd ]
-  if (s1 = 5 and s2 = 2) [ increment_cooperated (rounds_to_play / 2)  report 50 * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
-  if (s1 = 5 and s2 = 3) [ increment_cooperated (2)    report payoffs_cd + payoffs_cc + (rounds_to_play - 2) * payoffs_dc ]
-  if (s1 = 5 and s2 = 4) [ increment_cooperated (rounds_to_play - 2)  report payoffs_cc + payoffs_dd + (rounds_to_play - 2) * payoffs_cd ]
-  if (s1 = 5 and s2 = 5) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 2) * payoffs_cc + (rounds_to_play / 2) * payoffs_dd ]
-  if (s1 = 5 and s2 = 6) [ increment_cooperated (rounds_to_play / 2)  report 50 * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
-  if (s1 = 5 and s2 = 7) [ increment_cooperated (1)    report payoffs_cc + (rounds_to_play - 1) * payoffs_dc ]
+to-report payoff4 [s2]
+  increment_cooperated (1)
+  (ifelse
+    (s2 = 0) [ report payoffs_cd + (rounds_to_play - 1) * payoffs_dd ]
+    (s2 = 1) [ report payoffs_cd + payoffs_dd + (rounds_to_play - 2) * payoffs_dc ]
+    (s2 = 2) [ report payoffs_cd + payoffs_dc + (rounds_to_play - 2) * payoffs_dd ]
+    (s2 = 3) [ report payoffs_cd + (rounds_to_play - 1) * payoffs_dc ]
+    (s2 = 4) [ report payoffs_cc + (rounds_to_play - 1) * payoffs_dd ]
+    (s2 = 5) [ report payoffs_cc + payoffs_dd + (rounds_to_play - 2) * payoffs_dc ]
+    (s2 = 6) [ report payoffs_cc + payoffs_dc + (rounds_to_play - 2) * payoffs_dd ]
+    (s2 = 7) [ report payoffs_cc + (rounds_to_play - 1) * payoffs_dc ]
+    )
+end
 
-  ;; 110
-  if (s1 = 6 and s2 = 0) [ increment_cooperated (1)    report payoffs_cd + (rounds_to_play - 1) * payoffs_dd ]
-  if (s1 = 6 and s2 = 1) [ increment_cooperated (rounds_to_play / 2)  report 50 * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
-  if (s1 = 6 and s2 = 2) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 2) * payoffs_cd + (rounds_to_play / 2) * payoffs_dc ]
-  if (s1 = 6 and s2 = 3) [ increment_cooperated (rounds_to_play - 1)  report payoffs_cd + payoffs_dc + (rounds_to_play - 2) * payoffs_cc ]
-  if (s1 = 6 and s2 = 4) [ increment_cooperated (2)    report payoffs_cc + payoffs_cd + (rounds_to_play - 2) * payoffs_dd ]
-  if (s1 = 6 and s2 = 5) [ increment_cooperated (rounds_to_play / 2)  report 50 * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
-  if (s1 = 6 and s2 = 6) [ increment_cooperated (rounds_to_play)  report rounds_to_play * payoffs_cc ]
-  if (s1 = 6 and s2 = 7) [ increment_cooperated (rounds_to_play)  report rounds_to_play * payoffs_cc ]
+to-report payoff5 [s2]
+  (ifelse
+    (s2 = 0) [ increment_cooperated (rounds_to_play)  report rounds_to_play * payoffs_cd ]
+    (s2 = 1) [ increment_cooperated (rounds_to_play)  report rounds_to_play * payoffs_cd ]
+    (s2 = 2) [ increment_cooperated (rounds_to_play / 2)  report 50 * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
+    (s2 = 3) [ increment_cooperated (2)    report payoffs_cd + payoffs_cc + (rounds_to_play - 2) * payoffs_dc ]
+    (s2 = 4) [ increment_cooperated (rounds_to_play - 2)  report payoffs_cc + payoffs_dd + (rounds_to_play - 2) * payoffs_cd ]
+    (s2 = 5) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 2) * payoffs_cc + (rounds_to_play / 2) * payoffs_dd ]
+    (s2 = 6) [ increment_cooperated (rounds_to_play / 2)  report 50 * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
+    (s2 = 7) [ increment_cooperated (1)    report payoffs_cc + (rounds_to_play - 1) * payoffs_dc ]
+    )
+end
 
-  ;; 111
-  if (s1 = 7) [ increment_cooperated (rounds_to_play) ]
-  if (s1 = 7 and s2 = 0) [ report rounds_to_play * payoffs_cd ]
-  if (s1 = 7 and s2 = 1) [ report rounds_to_play * payoffs_cd ]
-  if (s1 = 7 and s2 = 2) [ report payoffs_cd + (rounds_to_play - 1) * payoffs_cc ]
-  if (s1 = 7 and s2 = 3) [ report payoffs_cd + (rounds_to_play - 1) * payoffs_cc ]
-  if (s1 = 7 and s2 = 4) [ report payoffs_cc + (rounds_to_play - 1) * payoffs_cd ]
-  if (s1 = 7 and s2 = 5) [ report payoffs_cc + (rounds_to_play - 1) * payoffs_cd ]
-  if (s1 = 7 and s2 = 6) [ report rounds_to_play * payoffs_cc ]
-  if (s1 = 7 and s2 = 7) [ report rounds_to_play * payoffs_cc ]
+to-report payoff6 [s2]
+  (ifelse
+    (s2 = 0) [ increment_cooperated (1)    report payoffs_cd + (rounds_to_play - 1) * payoffs_dd ]
+    (s2 = 1) [ increment_cooperated (rounds_to_play / 2)  report 50 * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
+    (s2 = 2) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 2) * payoffs_cd + (rounds_to_play / 2) * payoffs_dc ]
+    (s2 = 3) [ increment_cooperated (rounds_to_play - 1)  report payoffs_cd + payoffs_dc + (rounds_to_play - 2) * payoffs_cc ]
+    (s2 = 4) [ increment_cooperated (2)    report payoffs_cc + payoffs_cd + (rounds_to_play - 2) * payoffs_dd ]
+    (s2 = 5) [ increment_cooperated (rounds_to_play / 2)  report 50 * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
+    (s2 = 6) [ increment_cooperated (rounds_to_play)  report rounds_to_play * payoffs_cc ]
+    (s2 = 7) [ increment_cooperated (rounds_to_play)  report rounds_to_play * payoffs_cc ]
+    )
+end
 
+to-report payoff7 [s2]
+  increment_cooperated (rounds_to_play)
+  (ifelse
+    (s2 = 0) [ report rounds_to_play * payoffs_cd ]
+    (s2 = 1) [ report rounds_to_play * payoffs_cd ]
+    (s2 = 2) [ report payoffs_cd + (rounds_to_play - 1) * payoffs_cc ]
+    (s2 = 3) [ report payoffs_cd + (rounds_to_play - 1) * payoffs_cc ]
+    (s2 = 4) [ report payoffs_cc + (rounds_to_play - 1) * payoffs_cd ]
+    (s2 = 5) [ report payoffs_cc + (rounds_to_play - 1) * payoffs_cd ]
+    (s2 = 6) [ report rounds_to_play * payoffs_cc ]
+    (s2 = 7) [ report rounds_to_play * payoffs_cc ]
+    )
 end
 @#$#@#$#@
 GRAPHICS-WINDOW
