@@ -364,8 +364,8 @@ GRAPHICS-WINDOW
 32
 -32
 32
-0
-0
+1
+1
 1
 ticks
 30.0
@@ -517,7 +517,7 @@ rounds_to_play
 rounds_to_play
 4
 200
-50.0
+200.0
 2
 1
 NIL
@@ -591,7 +591,7 @@ SWITCH
 14
 155
 153
-189
+188
 Strategy-010
 Strategy-010
 0
@@ -602,7 +602,7 @@ SWITCH
 13
 191
 152
-225
+224
 Strategy-011
 Strategy-011
 0
@@ -613,7 +613,7 @@ SWITCH
 13
 226
 152
-260
+259
 Strategy-100
 Strategy-100
 0
@@ -624,7 +624,7 @@ SWITCH
 13
 262
 152
-296
+295
 Strategy-101
 Strategy-101
 0
@@ -635,7 +635,7 @@ SWITCH
 13
 297
 152
-331
+330
 Strategy-110
 Strategy-110
 0
@@ -646,7 +646,7 @@ SWITCH
 13
 333
 152
-367
+366
 Strategy-111
 Strategy-111
 0
