@@ -449,7 +449,7 @@ rounds_to_play
 rounds_to_play
 4
 200
-4.0
+50.0
 2
 1
 NIL
