@@ -1,8 +1,7 @@
 ;; Written by Will Braynen (July 2013, modified September 2017)
 ;; Based on work done by Patrick Grim. (See "The Philosophy Computer",
 ;; Grim, Mar, and St. Denis, MIT Press, 1998.)
-;; Modified to run on NetlogoWeb in 2020 by Daniel J. Singer
-
+;; Rewritten and Modified to run on NetlogoWeb in 2020 by Daniel J. Singer
 
 patches-own [
   strategy
@@ -19,6 +18,7 @@ globals [
   total_defected
   stratlist
 ]
+
 
 ;;  This procedure sets up the patches and patches
 to setup
@@ -81,13 +81,6 @@ to init-patch-counters  ;; patch procedure
   set score 0
   set cooperated 0
   set defected 0
-end
-
-
-;; maps ethnicity e1 to color
-to-report etchnicity-to-color [ e1 ]
-  if (0 = e1) [ report red ]
-  if (1 = e1) [ report green ]
 end
 
 ;; maps strategy s1 to color
@@ -206,11 +199,9 @@ end
 
 to-report play-with [ x y ] ;; patch procedure
 
-  ;; what is my strategy?
-  let s1 (my-strategy x y)
   let s2 (neighbor-strategy x y)
 
-  report payoff s1 s2
+  report payoff strategy s2
 end
 
 ;;
@@ -219,15 +210,6 @@ end
 to-report neighbor-strategy [ x y ]
 
   report ([strategy] of patch-at x y)
-
-end
-
-;;
-;; x and y are coordinates of the neighbor I want to play with
-;;
-to-report my-strategy [ x y ]
-
-  report strategy
 
 end
 
@@ -250,139 +232,54 @@ to evolve ;; patch procedure
 end
 
 to increment_cooperated [ inc ]
-  set cooperated (cooperated + inc)
-  set defected (defected + (rounds_to_play - inc))
+  ifelse inc = 1 [set cooperated (cooperated + 1)]
+  [set defected (defected + 1)]
 end
 
-;; s1 is strategy1
-;; s2 is strategy2
-to-report payoff [ s1 s2 ]  ;; reporter
-  ;; 000
-  (ifelse
-    s1 = 0 [report payoff0 s2]
-    s1 = 1 [report payoff1 s2]
-    s1 = 2 [report payoff2 s2]
-    s1 = 3 [report payoff3 s2]
-    s1 = 4 [report payoff4 s2]
-    s1 = 5 [report payoff5 s2]
-    s1 = 6 [report payoff6 s2]
-    s1 = 7 [report payoff7 s2]
-    )
+
+to-report payoff [s1 s2]
+  let thisscore 0
+  let move1 ifelse-value s1 > 3.5 [1] [0]
+  let move2 ifelse-value s2 > 3.5 [1] [0]
+  repeat rounds_to_play [
+    increment_cooperated (move1)
+    set thisscore thisscore + play_result move1 move2
+    let move1temp calc_my_next_move s1 move2
+    let move2temp calc_my_next_move s2 move1
+    set move1 move1temp
+    set move2 move2temp
+  ]
+  report thisscore
 end
 
-to-report payoff0 [s2]
-  increment_cooperated (0)
-  (ifelse
-    (s2 = 0) [ report rounds_to_play * payoffs_dd ]
-    (s2 = 1) [ report payoffs_dd + (rounds_to_play - 1) * payoffs_dc ]
-    (s2 = 2) [ report rounds_to_play * payoffs_dd ]
-    (s2 = 3) [ report payoffs_dd + (rounds_to_play - 1) * payoffs_dc ]
-    (s2 = 4) [ report payoffs_dc + (rounds_to_play - 1) * payoffs_dd ]
-    (s2 = 5) [ report rounds_to_play * payoffs_dc ]
-    (s2 = 6) [ report payoffs_dc + (rounds_to_play - 1) * payoffs_dd ]
-    (s2 = 7) [ report rounds_to_play * payoffs_dc ]
-  )
+
+to-report calc_my_next_move [s nmove]
+  ifelse nmove = 1 [
+    ifelse (member? s [2 3 6 7]) [
+    report 1] [
+    report 0]
+  ][
+    ifelse (member? s [1 3 5 7])  [
+    report 1] [
+    report 0]
+  ]
 end
 
-to-report payoff1 [s2]
-  (ifelse
-    (s2 = 0) [ increment_cooperated (rounds_to_play - 2)  report payoffs_dd + (rounds_to_play - 1) * payoffs_cd ]
-    (s2 = 1) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 2) * payoffs_dd + (rounds_to_play / 2) * payoffs_cc ]
-    (s2 = 2) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 4) * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
-    (s2 = 3) [ increment_cooperated (1)    report payoffs_dd + payoffs_cc + (rounds_to_play - 2) * payoffs_dc ]
-    (s2 = 4) [ increment_cooperated (rounds_to_play - 2)  report payoffs_dc + payoffs_dd + (rounds_to_play - 2) * payoffs_cd ]
-    (s2 = 5) [ increment_cooperated (0)    report rounds_to_play * payoffs_dc ]
-    (s2 = 6) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 4) * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
-    (s2 = 7) [ increment_cooperated (0)    report rounds_to_play * payoffs_dc ]
-    )
-end
 
-to-report payoff2 [s2]
+to-report play_result [move1 move2]
   (ifelse
-    (s2 = 0) [ increment_cooperated (0)    report rounds_to_play * payoffs_dd ]
-    (s2 = 1) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 4) * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
-    (s2 = 2) [ increment_cooperated (0)    report rounds_to_play * payoffs_dd ]
-    (s2 = 3) [ increment_cooperated (rounds_to_play - 2)  report payoffs_dd + payoffs_dc + (rounds_to_play - 2) * payoffs_cc ]
-    (s2 = 4) [ increment_cooperated (1)    report payoffs_dc + payoffs_cd + (rounds_to_play - 2) * payoffs_dd ]
-    (s2 = 5) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 4) * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
-    (s2 = 6) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 2) * payoffs_dc + (rounds_to_play / 2) * payoffs_cd ]
-    (s2 = 7) [ increment_cooperated (rounds_to_play - 2)  report payoffs_dc + (rounds_to_play - 1) * payoffs_cc ]
-    )
-end
-
-to-report payoff3 [s2]
-  increment_cooperated (rounds_to_play - 1)
-  (ifelse
-    (s2 = 0) [ report payoffs_dd + (rounds_to_play - 1) * payoffs_cd ]
-    (s2 = 1) [ report payoffs_dd + payoffs_cc + (rounds_to_play - 2) * payoffs_cd ]
-    (s2 = 2) [ report payoffs_dd + payoffs_cd + (rounds_to_play - 2) * payoffs_cc ]
-    (s2 = 3) [ report payoffs_dd + (rounds_to_play - 1) * payoffs_cc ]
-    (s2 = 4) [ report payoffs_dc + (rounds_to_play - 1) * payoffs_cd ]
-    (s2 = 5) [ report payoffs_dc + payoffs_cc + (rounds_to_play - 2) * payoffs_cd ]
-    (s2 = 6) [ report payoffs_dc + payoffs_cd + (rounds_to_play - 2) * payoffs_cc ]
-    (s2 = 7) [ report payoffs_dc + (rounds_to_play - 1) * payoffs_cc ]
-    )
-end
-
-to-report payoff4 [s2]
-  increment_cooperated (1)
-  (ifelse
-    (s2 = 0) [ report payoffs_cd + (rounds_to_play - 1) * payoffs_dd ]
-    (s2 = 1) [ report payoffs_cd + payoffs_dd + (rounds_to_play - 2) * payoffs_dc ]
-    (s2 = 2) [ report payoffs_cd + payoffs_dc + (rounds_to_play - 2) * payoffs_dd ]
-    (s2 = 3) [ report payoffs_cd + (rounds_to_play - 1) * payoffs_dc ]
-    (s2 = 4) [ report payoffs_cc + (rounds_to_play - 1) * payoffs_dd ]
-    (s2 = 5) [ report payoffs_cc + payoffs_dd + (rounds_to_play - 2) * payoffs_dc ]
-    (s2 = 6) [ report payoffs_cc + payoffs_dc + (rounds_to_play - 2) * payoffs_dd ]
-    (s2 = 7) [ report payoffs_cc + (rounds_to_play - 1) * payoffs_dc ]
-    )
-end
-
-to-report payoff5 [s2]
-  (ifelse
-    (s2 = 0) [ increment_cooperated (rounds_to_play)  report rounds_to_play * payoffs_cd ]
-    (s2 = 1) [ increment_cooperated (rounds_to_play)  report rounds_to_play * payoffs_cd ]
-    (s2 = 2) [ increment_cooperated (rounds_to_play / 2)  report 50 * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
-    (s2 = 3) [ increment_cooperated (2)    report payoffs_cd + payoffs_cc + (rounds_to_play - 2) * payoffs_dc ]
-    (s2 = 4) [ increment_cooperated (rounds_to_play - 2)  report payoffs_cc + payoffs_dd + (rounds_to_play - 2) * payoffs_cd ]
-    (s2 = 5) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 2) * payoffs_cc + (rounds_to_play / 2) * payoffs_dd ]
-    (s2 = 6) [ increment_cooperated (rounds_to_play / 2)  report 50 * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
-    (s2 = 7) [ increment_cooperated (1)    report payoffs_cc + (rounds_to_play - 1) * payoffs_dc ]
-    )
-end
-
-to-report payoff6 [s2]
-  (ifelse
-    (s2 = 0) [ increment_cooperated (1)    report payoffs_cd + (rounds_to_play - 1) * payoffs_dd ]
-    (s2 = 1) [ increment_cooperated (rounds_to_play / 2)  report 50 * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
-    (s2 = 2) [ increment_cooperated (rounds_to_play / 2)  report (rounds_to_play / 2) * payoffs_cd + (rounds_to_play / 2) * payoffs_dc ]
-    (s2 = 3) [ increment_cooperated (rounds_to_play - 1)  report payoffs_cd + payoffs_dc + (rounds_to_play - 2) * payoffs_cc ]
-    (s2 = 4) [ increment_cooperated (2)    report payoffs_cc + payoffs_cd + (rounds_to_play - 2) * payoffs_dd ]
-    (s2 = 5) [ increment_cooperated (rounds_to_play / 2)  report 50 * (payoffs_cc + payoffs_cd + payoffs_dc + payoffs_dd) ]
-    (s2 = 6) [ increment_cooperated (rounds_to_play)  report rounds_to_play * payoffs_cc ]
-    (s2 = 7) [ increment_cooperated (rounds_to_play)  report rounds_to_play * payoffs_cc ]
-    )
-end
-
-to-report payoff7 [s2]
-  increment_cooperated (rounds_to_play)
-  (ifelse
-    (s2 = 0) [ report rounds_to_play * payoffs_cd ]
-    (s2 = 1) [ report rounds_to_play * payoffs_cd ]
-    (s2 = 2) [ report payoffs_cd + (rounds_to_play - 1) * payoffs_cc ]
-    (s2 = 3) [ report payoffs_cd + (rounds_to_play - 1) * payoffs_cc ]
-    (s2 = 4) [ report payoffs_cc + (rounds_to_play - 1) * payoffs_cd ]
-    (s2 = 5) [ report payoffs_cc + (rounds_to_play - 1) * payoffs_cd ]
-    (s2 = 6) [ report rounds_to_play * payoffs_cc ]
-    (s2 = 7) [ report rounds_to_play * payoffs_cc ]
+    (move1 = 1 and move2 = 1) [report payoffs_cc]
+    (move1 = 1 and move2 = 0) [report payoffs_cd]
+    (move1 = 0 and move2 = 1) [report payoffs_dc]
+    (move1 = 0 and move2 = 0) [report payoffs_dd]
     )
 end
 @#$#@#$#@
 GRAPHICS-WINDOW
 259
 14
-722
-478
+554
+310
 -1
 -1
 7.0
@@ -395,10 +292,10 @@ GRAPHICS-WINDOW
 1
 1
 1
--32
-32
--32
-32
+-20
+20
+-20
+20
 1
 1
 1
@@ -440,10 +337,10 @@ NIL
 1
 
 SLIDER
-759
-14
-931
-47
+572
+17
+744
+50
 payoffs_cc
 payoffs_cc
 0
@@ -455,10 +352,10 @@ NIL
 HORIZONTAL
 
 SLIDER
-760
-50
-932
-83
+573
+53
+745
+86
 payoffs_cd
 payoffs_cd
 0
@@ -470,10 +367,10 @@ NIL
 HORIZONTAL
 
 SLIDER
-761
-86
-933
-119
+574
+89
+746
+122
 payoffs_dc
 payoffs_dc
 0
@@ -485,10 +382,10 @@ NIL
 HORIZONTAL
 
 SLIDER
-762
-123
-934
-156
+575
+126
+747
+159
 payoffs_dd
 payoffs_dd
 0
@@ -501,16 +398,16 @@ HORIZONTAL
 
 PLOT
 31
-503
+387
 397
-729
+613
 Strategies
 tick
 strategies
 0.0
 30.0
 0.0
-5000.0
+1800.0
 true
 true
 "" ""
@@ -526,16 +423,16 @@ PENS
 
 PLOT
 405
-504
+388
 734
-729
+613
 Behavior
 tick
 moves
 0.0
 30.0
 0.0
-3000000.0
+60000.0
 true
 true
 "" ""
@@ -544,25 +441,25 @@ PENS
 "D" 1.0 0 -10899396 true "" ""
 
 SLIDER
-52
-433
-224
-466
+368
+334
+540
+367
 rounds_to_play
 rounds_to_play
 4
 200
-200.0
+4.0
 2
 1
 NIL
 HORIZONTAL
 
 SLIDER
-54
-388
-232
-421
+169
+334
+347
+367
 imitation_radius
 imitation_radius
 1
