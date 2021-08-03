@@ -20,6 +20,8 @@ Conferences I organize:
 Before coming to Penn, I did a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/). I started at Penn as an Assistant Professor in January of 2013, and I received tenure and a promotion to Associate Professor in July 2019.
 </div>
 
+{% include image.html url="images/singer-2.jpg" href="https://www.instagram.com/philosophydan/" caption="" max_width="260px" align="right" %}
+
 
 <a id="contact"></a>
 <h2>Contact Me:</h2>
