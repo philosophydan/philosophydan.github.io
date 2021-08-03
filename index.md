@@ -48,4 +48,4 @@ Before coming to Penn, I did a Ph.D. in Philosophy at the [University of Michig
   </div>
 </div>
 
-{% include image.html url="images/insta.png" href="https://www.instagram.com/philosophydan/" caption="" max_width="260px" align="center" %}
+{% include image.html url="images/insta.png" href="https://www.instagram.com/philosophydan/" caption="If you like pictures of birds, check out my Instagram." max_width="260px" align="center" %}
