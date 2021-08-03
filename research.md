@@ -4,12 +4,21 @@ permalink: /research/
 title: Research
 published: true
 ---
-I research many topics in **Epistemology**, **Metaethics**, and **Social Epistemology** (including where they intersect with **Political Philosophy** and **Philosophy of Science**). Here are some short descriptions of my major research projects.  For more information about my research, see my [CV](http://www.danieljsinger.com/cv/) or [contact me](http://www.danieljsinger.com/#contact).
+My research is organized around the question of what we should believe, both as individuals and as groups. This research touches on many topics in **Epistemology**, **Metaethics**, and **Social Epistemology** (including where they intersect with **Political Philosophy** and **Philosophy of Science**). 
+
+I'm currently working on a book tentatively titled _Right Belief and True Belief_ that's under contract with Oxford University Press. The book advances a truth-loving epistemic consequentialist view of what we should believe. According to this view, the right belief (or credence) is the belief (or credence) that best conduces to having true belief and not having false beliefs (or having accurate credences). Truth-loving epistemic consequentialism is well-motivated by intuitions about the role of truth in determining what we should believe, but many theorists have taken the view to be a complete non-starter. The second chapter of the book works out the motivation for the view, and most of the remaining chapters defend truth-loving epistemic consequentialism from a long list of objections. Truth-loving epistemic consequentialism, I argue, is uniquely positioned to vindicate the idea that what we ought to believe is determined by the truth. I have several publications defending this view already, but the book works out the idea more in depth.
+
+A second part of my research uses agent-based computer models to better understand how groups of people can and should reason together. This work has resulted in a number of insights about topics like diversity and polarization in groups, the nature of expertise, how information moves in groups, how democracies can improve or hinder information flow, and how representative and direct democracies compare. My co-authors and I are currently thinking a lot about the dynamics of juries, the role of diversity in juries, and how scientific instuitions should be structured to better advance scientific aims. I describe some of that work below, but for more information, see the page for the [Computational Social Philosophy Lab](/CSPL/).
+
+Below are some short descriptions of my major research projects.  For more information about my research, see my [CV](http://www.danieljsinger.com/cv/) or [contact me](http://www.danieljsinger.com/#contact).
+
 
 ### Truth-Centered Epistemology and the Source of Epistemic Norms
-It's intuitive to think that epistemic norms can be understood in terms of an ultimate goal of having true beliefs and avoiding false ones.  This kind of epistemic consequentialism has been subject to many objections in the literature.  I defend a version of true-belief-maximizing epistemic act-consequentialism that I term "Sophisticated Epistemic Consequentialism." The view captures the intuitive motivation behind the truth-centered views, clarifies the place of objective and subjective epistemic oughts in theorizing, and takes seriously the complex structure of epistemic values and the intricacies of human motivation. I also defend the ultimate goal epistemic goal as being constitutive of our agency, which (metaphysically) explains why we're subject to epistemic norms.
+It's natural to think that we can make sense of epistemic norms in terms of an ultimate goal of having true beliefs and avoiding false ones. While I think that's right, this kind of goal-oriented epistemology is subject to many objections that have motivated most theorists to abandon the view. I defend a version of true-belief-maximizing epistemic act-consequentialism that I term "Truth-Loving Epistemic Consequentialism." The view captures the intuitive motivation behind the truth-focused views, clarifies the place of different epistemic normative notions, and takes seriously the complexities and limitations of real human reasoners. I also argue that we should think of the truth goal as being constitutive of our agency, which explains why we're subject to epistemic norms.
 
-**Selected Related Papers:**
+**Selected Related Publications:**
+
+- _Right Belief and True Belief_ (forthcoming, Oxford University Press)
 
 - ["How to be an Epistemic Consequentialist" (2018, _Philosophical Quarterly_)](https://academic.oup.com/pq/advance-article/doi/10.1093/pq/pqx056/4791179?guestAccessKey=3b2ad95b-bb22-4a63-a900-bf5e940114bd)
 
