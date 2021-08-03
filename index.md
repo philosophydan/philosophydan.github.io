@@ -6,6 +6,7 @@ published: true
 ---
 <div style="width: 100%;" markdown="1">
 {% include image.html url="images/singer-2.jpg" caption="" max_width="260px" align="right" %}
+
 {% include image.html url="images/insta.png" href="https://www.instagram.com/philosophydan/" caption="" max_width="260px" align="right" %}
 
 I am an Associate Professor of [Philosophy at the University of Pennsylvania](http://philosophy.sas.upenn.edu/), I am the Undergraduate Chair of the Philosophy Department, and I direct the [Computational Social Philosophy Lab](/CSPL/).  I also have a secondary appointment as an Associate Professor of [Legal Studies and Business Ethics in the Wharton School of Business](https://lgst.wharton.upenn.edu/). During the Spring quarter of 2018, I was a [Fellow of the Dartmouth Institute for Cross Disciplinary Engagement](http://ice.dartmouth.edu/fellows-program/daniel-singer).
