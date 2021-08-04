@@ -5,7 +5,13 @@ permalink: /
 published: true
 ---
 <div style="width: 100%;" markdown="1">
-{% include image.html url="images/singer-2.jpg" caption="" max_width="260px" align="right" %}
+
+<dl class="captioned-img alignright" style="max-width:260px">
+  
+  <dt><img src="images/singer-2.jpg" alt="Picture of Daniel J. Singer" /></a></dt>
+  
+  <dt><a target="_blank" href="https://www.instagram.com/philosophydan/"><img src="http://www.danieljsinger.com/images/insta.png" alt="Picture link to Instagram" /></a></dt>
+</dl>
 
 I am an Associate Professor and Undergraduate Chair of [Philosophy at the University of Pennsylvania](http://philosophy.sas.upenn.edu/), and I direct the [Computational Social Philosophy Lab](/CSPL/). 
 
@@ -49,4 +55,4 @@ When I'm not working, I like to run and take [pictures of birds](https://www.ins
 
 
 
-<a target="_blank" href="https://www.instagram.com/philosophydan/"><img src="http://www.danieljsinger.com/images/insta.png" alt="Picture link to Instagram" /></a>
+
