@@ -46,16 +46,11 @@ When I'm not working, I like to run and take [pictures of birds](https://www.ins
     </div>
     <div class="col-2" style="padding-top: 1em;">
       <p><b>Phone:</b> +1 920-4Singer</p>
-      <br />
       <p><a href="http://www.danieljsinger.com/anonmessage/">Send Me an Anonymous Message</a></p>
+      <p>Check Out My Instagram <a target="_blank" href="https://www.instagram.com/philosophydan/"><img src="http://www.danieljsinger.com/images/instaicon.png" /></a>
     </div>
   </div>
 </div>
-
-<dl class="captioned-img alignright" style="max-width:260px">  
-  <dt><a target="_blank" href="https://www.instagram.com/philosophydan/"><img src="http://www.danieljsinger.com/images/insta.png" alt="Picture link to Instagram" /></a></dt>
-  <dd>If you like pictures of birds, check out my instagram!"</dd>
-</dl>
 
 
 
