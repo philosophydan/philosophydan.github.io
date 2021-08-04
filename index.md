@@ -8,9 +8,8 @@ published: true
 
 <dl class="captioned-img alignright" style="max-width:260px">
   
-  <dt><img src="images/singer-2.jpg" alt="Picture of Daniel J. Singer" /></a></dt>
+  <dt><img src="images/singer-2.jpg" alt="Picture of Daniel J. Singer" /></dt>
   
-  <dt><a target="_blank" href="https://www.instagram.com/philosophydan/"><img src="http://www.danieljsinger.com/images/insta.png" alt="Picture link to Instagram" /></a></dt>
 </dl>
 
 I am an Associate Professor and Undergraduate Chair of [Philosophy at the University of Pennsylvania](http://philosophy.sas.upenn.edu/), and I direct the [Computational Social Philosophy Lab](/CSPL/). 
@@ -53,6 +52,10 @@ When I'm not working, I like to run and take [pictures of birds](https://www.ins
   </div>
 </div>
 
+<dl class="captioned-img alignright" style="max-width:260px">  
+  <dt><a target="_blank" href="https://www.instagram.com/philosophydan/"><img src="http://www.danieljsinger.com/images/insta.png" alt="Picture link to Instagram" /></a></dt>
+  <dd>If you like pictures of birds, check out my instagram!"</dd>
+</dl>
 
 
 
