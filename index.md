@@ -25,7 +25,7 @@ Conferences I organize:
 Before coming to Penn, I did a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/). I started at Penn as an Assistant Professor in January of 2013, and I received tenure and a promotion to Associate Professor in July 2019.
 </div>
 
-When I'm not working, I like to run and take [pictures of birds](https://www.instagram.com/philosophydan/).
+When I'm not working, I like to run and take <a target="_blank" href="https://www.instagram.com/philosophydan/">pictures of birds  <img style="height:1em;" src="http://www.danieljsinger.com/images/instaicon.png" /></a>
 
 
 <a id="contact"></a>
@@ -46,8 +46,8 @@ When I'm not working, I like to run and take [pictures of birds](https://www.ins
     </div>
     <div class="col-2" style="padding-top: 1em;">
       <p><b>Phone:</b> +1 920-4Singer</p>
+      <br />
       <p><a href="http://www.danieljsinger.com/anonmessage/">Send Me an Anonymous Message</a></p>
-      <p><a target="_blank" href="https://www.instagram.com/philosophydan/">Check Out My Instagram  <img style="height:1em;" src="http://www.danieljsinger.com/images/instaicon.png" /></a></p>
     </div>
   </div>
 </div>
