@@ -47,4 +47,6 @@ When I'm not working, I like to run and take [pictures of birds](https://www.ins
   </div>
 </div>
 
-{% include image.html url="images/insta.png" href="https://www.instagram.com/philosophydan/" caption="If you like pictures of birds, check out my Instagram." max_width="260px" align="center" %}
+
+
+<a target="_blank" href="https://www.instagram.com/philosophydan/"><img src="http://www.danieljsinger.com/images/insta.png" alt="Picture link to Instagram" /></a>
