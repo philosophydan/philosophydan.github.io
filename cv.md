@@ -12,7 +12,4 @@ You can [click here to download PDF version of my CV](https://www.dropbox.com/s/
 
 
 <script type="text/javascript" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="zw8340newza5h8s"></script>
-<a 
-  href="https://www.dropbox.com/s/xzoj6paht8aqhbn/CV.pdf?dl=0" 
-  class="dropbox-embed"
-></a>
+<a href="https://www.dropbox.com/s/xzoj6paht8aqhbn/CV.pdf?dl=0" class="dropbox-embed"></a>
