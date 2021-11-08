@@ -39,7 +39,7 @@ Our work has resulted in a number of insights about topics like diversity and po
 
 **Selected Related Papers:**
 
-- ["Rational Social and Political Polarization" (2018, _Philosophical Studies_)](https://link.springer.com/article/10.1007/s11098-018-1124-5)
+- ["Rational Social and Political Polarization" (2019, _Philosophical Studies_)](https://link.springer.com/article/10.1007/s11098-018-1124-5)
 
 - ["Diversity, Not Randomness, Trumps Ability" (2019, _Philosophy of Science_)](http://www.danieljsinger.com/papers/Singer%20-%20Diverstiy,%20Not%20Randomness,%20Trumps%20Ability%20(draft).pdf)
 
