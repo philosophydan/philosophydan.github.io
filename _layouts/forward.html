@@ -35,10 +35,10 @@
     {% if page.message %}
     <p>{{ page.message }}</p>
     {% else %}
-    <p>This document has moved!</p>
+    <p>This page should forward you to the course dropbox folder in {{ time }} seconds.</p>
     {% endif %}
 
-    <p>Redirecting to <a href="{{ page.target }}">{{ targetname }}</a> in {{ time }} seconds.</p>
+    <p>If it doesn't work, go <a href="{{ page.target }}">here: {{ targetname }}</a> </p>
 
 </body>
 </html>
