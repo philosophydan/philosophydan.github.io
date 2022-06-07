@@ -12,11 +12,13 @@ published: true
   
 </dl>
 
+**_Beginning July 1, 2022, I’ll be stepping away from Penn to pursue an exciting new opportunity outside of academia. During this time, I will retain my appointments at Penn, but I will not be doing any teaching or university service._**
+
+---
+
 I am on leave from being an Associate Professor of [Philosophy at the University of Pennsylvania](http://philosophy.sas.upenn.edu/). My research is on **epistemology (including traditional, formal, and social epistemology)**, **the nature of normativity in ethics and epistemology**, and **social philosophy** with a focus on **diversity** and **polarization**. 
 
 I have a secondary appointment as an Associate Professor of [Legal Studies and Business Ethics in the Wharton School of Business](https://lgst.wharton.upenn.edu/). During the Spring quarter of 2018, I was a [Fellow of the Dartmouth Institute for Cross Disciplinary Engagement](http://ice.dartmouth.edu/fellows-program/daniel-singer).
-
-**_Beginning July 1, 2022, I’ll be stepping away from Penn to pursue an exciting new opportunity outside of academia. During this time, I will retain my appointments at Penn, but I will not be doing any teaching or university service._**
 
 A large part of [my research](http://www.danieljsinger.com/research/) is about what we should believe. I recently finished writing book titled _Right Belief and True Belief_ that's under contract with Oxford University Press. The book argues for a general truth-loving epistemic consequentialist theory of what we should believe. The view says we should believe (but also set up groups, use decision-making procedures, arrange access to schooling, etc.) so as to promote having more true belief. 
 
