@@ -14,7 +14,7 @@ published: true
 
 **_Beginning July 1, 2022, I’ll be stepping away from Penn to pursue an exciting new opportunity outside of academia. During this time, I will retain my appointments at Penn, but I will not be doing any teaching or university service._**
 
----
+  
 
 I am on leave from being an Associate Professor of [Philosophy at the University of Pennsylvania](http://philosophy.sas.upenn.edu/). My research is on **epistemology (including traditional, formal, and social epistemology)**, **the nature of normativity in ethics and epistemology**, and **social philosophy** with a focus on **diversity** and **polarization**. 
 
