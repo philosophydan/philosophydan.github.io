@@ -26,7 +26,13 @@ Welcome! I am an Associate Professor (tenured) at the [University of Pennsylvani
 - **the question of what we should believe** (in both metaethics and epistemology, including traditional, formal, and social)
 - **social philosophy**, focusing on the sources and effects of **diversity** and **polarization** 
 
-My first book, [Right Belief and True Belief](https://global.oup.com/academic/product/right-belief-and-true-belief-9780197660386?cc=us&lang=en&) (Oxford, Oct. 2023) argues for a general truth-loving epistemic consequentialist theory of what we should believe  
+My first book, [Right Belief and True Belief](https://global.oup.com/academic/product/right-belief-and-true-belief-9780197660386?cc=us&lang=en&) (Oxford, Oct. 2023) argues for a general truth-loving epistemic consequentialist theory of what we should believe
+
+<dl class="captioned-img alignright" style="max-width:160px">
+  
+  <dt><img src="images/RBTB.jpg" alt="Picture of Right Belief and True Belief" /></dt>
+  
+</dl>
 
 Much of my research about social philosophy is done with the [Computational Social Philosophy Lab](/CSPL/), an interdisciplinary research group that uses an empirically-informed approach to using agent-based models to investigate questions in social epistemology, political philosophy, and philosophy of science 
 
