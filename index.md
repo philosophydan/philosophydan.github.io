@@ -19,9 +19,11 @@ I am on leave from my role as an Associate Professor (tenured) at the [Universit
  - [Philosophy, School of Arts and Sciences](http://philosophy.sas.upenn.edu/)
  - [Legal Studies and Business Ethics, Wharton School of Business](https://lgst.wharton.upenn.edu/) (secondary)
 
+
 [My research](http://www.danieljsinger.com/research/) is primarily about
 - **the question of what we should believe** (in both metaethics and epistemology, including traditional, formal, and social)
 - **social philosophy**, focusing on the sources and effects of **diversity** and **polarization** 
+
 
 My first book, [Right Belief and True Belief](https://global.oup.com/academic/product/right-belief-and-true-belief-9780197660386?cc=us&lang=en&) (Oxford, Oct. 2023) argues for a general truth-loving epistemic consequentialist theory of what we should believe
 
