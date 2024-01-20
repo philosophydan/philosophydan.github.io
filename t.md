@@ -13,7 +13,7 @@ published: true
 </dl>
 
 <h2>Welcome!</h2>
-I am currently a Consultant with the Boston Consulting Group and an [Ambassador to the BCG Henderson Institute](https://bcghendersoninstitute.com/contributors/dan-singer/)
+I am currently a Consultant with the Boston Consulting Group, where I am an [Ambassador at the BCG Henderson Institute](https://bcghendersoninstitute.com/contributors/dan-singer/)
 
 I am on leave from my role as an Associate Professor (tenured) at the [University of Pennsylvania](https://www.upenn.edu/) with appointments in
  - [Philosophy, School of Arts and Sciences](http://philosophy.sas.upenn.edu/)
