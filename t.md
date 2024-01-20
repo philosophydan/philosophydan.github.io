@@ -14,7 +14,7 @@ published: true
 
 <dl class="captioned-img alignright" style="max-width:260px">
   
-  <dt><img src="images/RBTB.jpeg" alt="Picture of Right Belief and True Belief" /></dt>
+  <dt><img src="images/RBTB.jpg" alt="Picture of Right Belief and True Belief" /></dt>
   
 </dl>
 
