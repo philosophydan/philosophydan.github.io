@@ -8,7 +8,7 @@ My research is largely organized around the question of what we should believe, 
 
 <dl class="captioned-img alignright" style="max-width:260px">
   
-  <dt><a href="https://global.oup.com/academic/product/right-belief-and-true-belief-9780197660386?cc=us&lang=en&"><img src="images/RBTB.jpg" alt="Picture of Right Belief and True Belief" /></a></dt>
+  <dt><a href="https://global.oup.com/academic/product/right-belief-and-true-belief-9780197660386?cc=us&lang=en&"><img src="/images/RBTB.jpg" alt="Picture of Right Belief and True Belief" /></a></dt>
   
 </dl>
 
