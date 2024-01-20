@@ -12,17 +12,16 @@ published: true
   
 </dl>
 
-Welcome! I am an Associate Professor at the University of Pennsylvania with appoints in
+Welcome! I am an Associate Professor (tenured) at the University of Pennsylvania with appointments in
 
- - Philosophy, School of Arts and Sciences
- - Legal Studies and Business Ethics, Wharton School of Business (secondary)
+ - [Philosophy, School of Arts and Sciences](http://philosophy.sas.upenn.edu/)
+ - [Legal Studies and Business Ethics, Wharton School of Business](https://lgst.wharton.upenn.edu/) (secondary)
 
-  
-I am currently a Consultant with the Boston Consulting Group and an Ambassador in the BCG Henderson Group.
+[My research](http://www.danieljsinger.com/research/) is primarily about:
+- the question of what we should believe (in both metaethics and epistemology, including traditional, formal, and social)
+- social philosophy, focusing on the sources and effects of diversity and polarization 
 
-I am on leave from being an Associate Professor (with tenure) of [Philosophy at the University of Pennsylvania](http://philosophy.sas.upenn.edu/). My research is on **epistemology (including traditional, formal, and social epistemology)**, **the nature of normativity in ethics and epistemology**, and **social philosophy** with a focus on **diversity** and **polarization**. 
 
-I have a secondary appointment as an Associate Professor of [Legal Studies and Business Ethics in the Wharton School of Business](https://lgst.wharton.upenn.edu/). During the Spring quarter of 2018, I was a [Fellow of the Dartmouth Institute for Cross Disciplinary Engagement](http://ice.dartmouth.edu/fellows-program/daniel-singer).
 
 A large part of [my research](http://www.danieljsinger.com/research/) is about what we should believe. I recently finished writing book titled [_Right Belief and True Belief_](https://global.oup.com/academic/product/right-belief-and-true-belief-9780197660386?cc=us&lang=en&) that's forthcoming from Oxford University Press. The book argues for a general truth-loving epistemic consequentialist theory of what we should believe. The view says we should believe (but also set up groups, use decision-making procedures, arrange access to schooling, etc.) so as to promote having more true belief. 
 
