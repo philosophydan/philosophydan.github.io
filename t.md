@@ -22,13 +22,13 @@ Welcome! I am an Associate Professor (tenured) at the University of Pennsylvania
 
 My first book, [_Right Belief and True Belief_](https://global.oup.com/academic/product/right-belief-and-true-belief-9780197660386?cc=us&lang=en&) (Oxford, Oct. 2023) argues for a general truth-loving epistemic consequentialist theory of what we should believe  
 
-I do a lot of my research about social philosophy with the [Computational Social Philosophy Lab](/CSPL/), an interdisciplinary and international research group that takes an empirically-informed approach to using agent-based computer models to investigate questions in social epistemology, political philosophy, and philosophy of science 
+I do a lot of my research about social philosophy with the [Computational Social Philosophy Lab](/CSPL/), an interdisciplinary research group that takes an empirically-informed approach to using agent-based models to investigate questions in social epistemology, political philosophy, and philosophy of science 
 
 I help organize
 - [Penn Reasons and Foundations in Epistemology Conference (PeRFECt)](http://www.danieljsinger.com/PeRFECt5/)  
 - [Penn-Rutgers-Princeton Social Epistemology Workshop (PRPSEW)](http://www.danieljsinger.com/PRPSEW/)
 
-I started at Penn as an Assistant Professor in January of 2013, and I received tenure and a promotion to Associate Professor in July 2019. Before coming to Penn, I received a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/).
+I started at Penn as an Assistant Professor in January of 2013, and I received tenure and a promotion to Associate Professor in July 2019. Before coming to Penn, I received a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/)
 
 When I'm not working, I like to run and take <a target="_blank" href="https://www.instagram.com/philosophydan/">pictures of birds  <img style="height:.8em;vertical-align:baseline;" src="http://www.danieljsinger.com/images/instaicon.png" /></a>.
 
