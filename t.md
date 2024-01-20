@@ -12,8 +12,10 @@ published: true
   
 </dl>
 
- - Associate Professor of Philosophy, School of Arts and Sciences
- - Associate Professor of Legal Studies and Business Ethics, Wharton School of Business
+Welcome! I am an Associate Professor at the University of Pennsylvania with appoints in
+
+ - Philosophy, School of Arts and Sciences
+ - Legal Studies and Business Ethics, Wharton School of Business (secondary)
 
   
 I am currently a Consultant with the Boston Consulting Group and an Ambassador in the BCG Henderson Group.
