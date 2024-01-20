@@ -48,7 +48,6 @@
 @include media-query($mobile) {
     .alignleft, .alignright .alignrightstack {
         display: block;
-        clear: none;
         margin-left: auto;
         margin-right: auto;
         float: none;
