@@ -38,15 +38,8 @@
     margin-left: 1em;
     margin-bottom: 0.75em;
 }
-.alignrightstack {
-    float: right;
-    clear: right;
-    margin-top: 0;
-    margin-left: 1em;
-    margin-bottom: 1em;
-}
 @include media-query($mobile) {
-    .alignleft, .alignright .alignrightstack {
+    .alignleft, .alignright {
         display: block;
         margin-left: auto;
         margin-right: auto;
