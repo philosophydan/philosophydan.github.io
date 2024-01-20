@@ -6,7 +6,7 @@ published: true
 ---
 <div style="width: 100%;" markdown="1">
 
-<dl class="captioned-img alignright" style="max-width:260px">
+<dl class="captioned-img alignrightstack" style="max-width:260px">
   
   <dt><img src="images/DanSinger2023web.jpeg" alt="Picture of Daniel J. Singer" /></dt>
   
@@ -20,7 +20,7 @@ Welcome! I am an Associate Professor (tenured) at the [University of Pennsylvani
 - **the question of what we should believe** (in both metaethics and epistemology, including traditional, formal, and social)
 - **social philosophy**, focusing on the sources and effects of **diversity** and **polarization** 
 
-<dl class="captioned-img alignright" style="max-width:160px">
+<dl class="captioned-img alignrightstack" style="max-width:160px">
   
   <dt><a href="https://global.oup.com/academic/product/right-belief-and-true-belief-9780197660386?cc=us&lang=en&"><img src="images/RBTB.jpg" alt="Picture of Right Belief and True Belief" /></a></dt>
   
