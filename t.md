@@ -6,14 +6,14 @@ published: true
 ---
 <div style="width: 100%;" markdown="1">
 
-<dl class="captioned-img alignleft" style="max-width:260px">
+<dl class="captioned-img alignright" style="max-width:260px">
   
   <dt><img src="images/DanSinger2023web.jpeg" alt="Picture of Daniel J. Singer" /></dt>
   
 </dl>
 
- - ### Associate Professor of Philosophy, School of Arts and Sciences
- - ### Associate Professor of Legal Studies and Business Ethics, Wharton School of Business
+ - Associate Professor of Philosophy, School of Arts and Sciences
+ - Associate Professor of Legal Studies and Business Ethics, Wharton School of Business
 
   
 I am currently a Consultant with the Boston Consulting Group and an Ambassador in the BCG Henderson Group.
