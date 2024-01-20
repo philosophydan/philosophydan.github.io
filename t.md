@@ -12,7 +12,8 @@ published: true
   
 </dl>
 
-Welcome! I am an Associate Professor (tenured) at the [University of Pennsylvania](https://www.upenn.edu/) with appointments in
+<h2>Welcome!</h2>
+I am an Associate Professor (tenured) at the [University of Pennsylvania](https://www.upenn.edu/) with appointments in
  - [Philosophy, School of Arts and Sciences](http://philosophy.sas.upenn.edu/)
  - [Legal Studies and Business Ethics, Wharton School of Business](https://lgst.wharton.upenn.edu/) (secondary)
 
