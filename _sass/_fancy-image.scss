@@ -43,11 +43,12 @@
     clear: right;
     margin-top: 0;
     margin-left: 1em;
-    margin-bottom: 0.75em;
+    margin-bottom: 1em;
 }
 @include media-query($mobile) {
     .alignleft, .alignright .alignrightstack {
         display: block;
+        clear: none;
         margin-left: auto;
         margin-right: auto;
         float: none;
