@@ -12,24 +12,22 @@ published: true
   
 </dl>
 
-**_Beginning July 1, 2022, I’ll be stepping away from Penn to pursue an exciting new opportunity outside of academia. During this time, I will retain my appointments at Penn, but I will not be doing any teaching or university service._**
+<h2>Welcome!</h2>
+I am currently a Consultant with the Boston Consulting Group, where I am an [Ambassador at the BCG Henderson Institute](https://bcghendersoninstitute.com/contributors/dan-singer/)
 
-  
+I am on leave from my role as an Associate Professor (tenured) at the [University of Pennsylvania](https://www.upenn.edu/) with appointments in
+ - [Philosophy, School of Arts and Sciences](http://philosophy.sas.upenn.edu/)
+ - [Legal Studies and Business Ethics, Wharton School of Business](https://lgst.wharton.upenn.edu/) (secondary)
 
-I am on leave from being an Associate Professor (with tenure) of [Philosophy at the University of Pennsylvania](http://philosophy.sas.upenn.edu/). My research is on **epistemology (including traditional, formal, and social epistemology)**, **the nature of normativity in ethics and epistemology**, and **social philosophy** with a focus on **diversity** and **polarization**. 
+[My research](http://www.danieljsinger.com/research/) is primarily about
+- **the question of what we should believe** (in both metaethics and epistemology, including traditional, formal, and social)
+- **social philosophy**, focusing on the sources and effects of **diversity** and **polarization** 
 
-I have a secondary appointment as an Associate Professor of [Legal Studies and Business Ethics in the Wharton School of Business](https://lgst.wharton.upenn.edu/). During the Spring quarter of 2018, I was a [Fellow of the Dartmouth Institute for Cross Disciplinary Engagement](http://ice.dartmouth.edu/fellows-program/daniel-singer).
+My first book, [Right Belief and True Belief](https://global.oup.com/academic/product/right-belief-and-true-belief-9780197660386?cc=us&lang=en&) (Oxford, Oct. 2023) argues for a general truth-loving epistemic consequentialist theory of what we should believe
 
-A large part of [my research](http://www.danieljsinger.com/research/) is about what we should believe. I recently finished writing book titled [_Right Belief and True Belief_](https://global.oup.com/academic/product/right-belief-and-true-belief-9780197660386?cc=us&lang=en&) that's forthcoming from Oxford University Press. The book argues for a general truth-loving epistemic consequentialist theory of what we should believe. The view says we should believe (but also set up groups, use decision-making procedures, arrange access to schooling, etc.) so as to promote having more true belief. 
+Much of my research about social philosophy is done with the [Computational Social Philosophy Lab](/CSPL/), an interdisciplinary research group that uses an empirically-informed approach to using agent-based models to investigate questions in social epistemology, political philosophy, and philosophy of science 
 
-Another large part of my [my research](http://www.danieljsinger.com/research/) is about diversity and its effects on group deliberation and problem-solving. Most of this research is done with the [Computational Social Philosophy Lab](/CSPL/), an interdisciplinary and international research group that takes an empirically-informed approach to using agent-based computer models to investigate questions in social epistemology, political philosophy, and philosophy of science. Most of the group's work focuses on topics like diversity and polarization in groups, the nature of expertise, how the structure of groups (like scientific lab groups) affects what information the group receives, how democracies can improve or hinder information flow, and how groups like juries can be better constructed to achieve their aims. 
-
-Conferences I organize:  
-[Penn Reasons and Foundations in Epistemology Conference (PeRFECt)](http://www.danieljsinger.com/PeRFECt5/)  
-[Penn-Rutgers-Princeton Social Epistemology Workshop (PRPSEW)](http://www.danieljsinger.com/PRPSEW/)
-
-Before coming to Penn, I did a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/). I started at Penn as an Assistant Professor in January of 2013, and I received tenure and a promotion to Associate Professor in July 2019.
-</div>
+I started at Penn as an Assistant Professor in January of 2013, and I received tenure and a promotion to Associate Professor in July 2019. Before coming to Penn, I received a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/)
 
 When I'm not working, I like to run and take <a target="_blank" href="https://www.instagram.com/philosophydan/">pictures of birds  <img style="height:.8em;vertical-align:baseline;" src="http://www.danieljsinger.com/images/instaicon.png" /></a>.
 
