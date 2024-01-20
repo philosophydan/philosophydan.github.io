@@ -12,7 +12,8 @@ published: true
   
 </dl>
 
-**_Beginning July 1, 2022, I’ll be stepping away from Penn to pursue an exciting new opportunity outside of academia. During this time, I will retain my appointments at Penn, but I will not be doing any teaching or university service._**
+ - ### Associate Professor of Philosophy, School of Arts and Sciences
+ - ### Associate Professor of Legal Studies and Business Ethics, Wharton School of Business
 
   
 I am currently a Consultant with the Boston Consulting Group and an Ambassador in the BCG Henderson Group.
@@ -27,9 +28,9 @@ Another large part of my [my research](http://www.danieljsinger.com/research/) i
 
 Conferences I organize:  
 [Penn Reasons and Foundations in Epistemology Conference (PeRFECt)](http://www.danieljsinger.com/PeRFECt5/)  
-[Penn-Rutgers-Princeton Social Epistemology Workshop (PRPSEW)](http://www.danieljsinger.com/PRPSEW/)
+[Penn-Rutgers-Princeton Social Epistemology Workshop (PRPSEW)](http://www.danieljsinger.com/PRPSEW/)
 
-Before coming to Penn, I did a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/). I started at Penn as an Assistant Professor in January of 2013, and I received tenure and a promotion to Associate Professor in July 2019.
+Before coming to Penn, I did a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/). I started at Penn as an Assistant Professor in January of 2013, and I received tenure and a promotion to Associate Professor in July 2019.
 </div>
 
 When I'm not working, I like to run and take <a target="_blank" href="https://www.instagram.com/philosophydan/">pictures of birds  <img style="height:.8em;vertical-align:baseline;" src="http://www.danieljsinger.com/images/instaicon.png" /></a>.
