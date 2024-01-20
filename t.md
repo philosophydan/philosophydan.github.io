@@ -6,7 +6,7 @@ published: true
 ---
 <div style="width: 100%;" markdown="1">
 
-<dl class="captioned-img alignright" style="max-width:260px">
+<dl class="captioned-img alignleft" style="max-width:260px">
   
   <dt><img src="images/DanSinger2023web.jpeg" alt="Picture of Daniel J. Singer" /></dt>
   
