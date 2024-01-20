@@ -6,7 +6,7 @@ published: true
 ---
 My research is largely organized around the question of what we should believe, both as individuals and as groups. This research touches on many topics in **epistemology (including traditional, formal, and social epistemology)**, **the nature of normativity in ethics and epistemology**, and **social philosophy** with particular emphases on **diversity** and **polarization**. Below are some short descriptions of my major research projects.  For more information about my research, see my [CV](http://www.danieljsinger.com/cv/) or [contact me](http://www.danieljsinger.com/#contact).
 
-### Truth-Loving Epistemology and the Source of Epistemic Norms
+<u>### Truth-Loving Epistemology and the Source of Epistemic Norms</u>
 
 <dl class="captioned-img alignright" style="max-width:200px">
   
@@ -36,7 +36,7 @@ _Right Belief and True Belief_ defends the first-order normative aspects of a th
 
 
 
-### Diversity, Polarization, and Social Networks
+<u>### Diversity, Polarization, and Social Networks</u>
 
 A second major part of my research involves theorizing about diversity and polarization and the effects they can have on groups. I approach this research using minimal models of diversity, polarization, and expertise in group problem solving and deliberation (usually instantiated in agent-based computer models). To get the idea of how this works, consider how scientists use simple models to understand complex phenomena. In the same way that a simple harmonic oscillator model can help physicists understand the movement of springs by focusing them on the features and mechanisms of springs that are the most fundamental to their motion, so too can minimal models of diverse and polarized groups help us understand the various kinds of effects diversity and polarization can have on group problem solving and deliberation. But unlike the motion of springs, the scientific community is currently far from having a strong grasp on how diversity and polarization affects groups. For example, as I show in “Diversity, Not Randomness, Trumps Ability” (2019, Philosophy of Science), even measuring diversity in our best models is difficult and in need of further analysis. This part of my research develops and uses simple agent-based models of group deliberation and problem solving to attempt to gain basic insights into diversity and polarization.
 
