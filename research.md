@@ -36,7 +36,7 @@ _Right Belief and True Belief_ defends the first-order normative aspects of a th
 
 
 
-<u><h3>Diversity, Polarization, and Social Networks</h3></u>
+<h3><u>Diversity, Polarization, and Social Networks</u></h3>
 
 A second major part of my research involves theorizing about diversity and polarization and the effects they can have on groups. I approach this research using minimal models of diversity, polarization, and expertise in group problem solving and deliberation (usually instantiated in agent-based computer models). To get the idea of how this works, consider how scientists use simple models to understand complex phenomena. In the same way that a simple harmonic oscillator model can help physicists understand the movement of springs by focusing them on the features and mechanisms of springs that are the most fundamental to their motion, so too can minimal models of diverse and polarized groups help us understand the various kinds of effects diversity and polarization can have on group problem solving and deliberation. But unlike the motion of springs, the scientific community is currently far from having a strong grasp on how diversity and polarization affects groups. For example, as I show in “Diversity, Not Randomness, Trumps Ability” (2019, Philosophy of Science), even measuring diversity in our best models is difficult and in need of further analysis. This part of my research develops and uses simple agent-based models of group deliberation and problem solving to attempt to gain basic insights into diversity and polarization.
 
