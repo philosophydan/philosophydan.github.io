@@ -13,7 +13,9 @@ published: true
 </dl>
 
 <h2>Welcome!</h2>
-I am an Associate Professor (tenured) at the [University of Pennsylvania](https://www.upenn.edu/) with appointments in
+I am currently a Consultant with the Boston Consulting Group and an [Ambassador to the BCG Henderson Institute](https://bcghendersoninstitute.com/contributors/dan-singer/)
+
+I am on leave from my role as an Associate Professor (tenured) at the [University of Pennsylvania](https://www.upenn.edu/) with appointments in
  - [Philosophy, School of Arts and Sciences](http://philosophy.sas.upenn.edu/)
  - [Legal Studies and Business Ethics, Wharton School of Business](https://lgst.wharton.upenn.edu/) (secondary)
 
