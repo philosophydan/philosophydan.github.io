@@ -22,10 +22,10 @@ I am on leave from my role as an Associate Professor (tenured) at the [Universit
 
 [My research](http://www.danieljsinger.com/research/) is primarily about
 - **the question of what we should believe** (in both metaethics and epistemology, including traditional, formal, and social)
-- **social philosophy**, focusing on the sources and effects of **diversity** and **polarization** 
+- the sources and effects of **diversity** and **polarization** in groups 
 
 
-My first book, [Right Belief and True Belief](https://global.oup.com/academic/product/right-belief-and-true-belief-9780197660386?cc=us&lang=en&) (Oxford, Oct. 2023) argues for a general truth-loving epistemic consequentialist theory of what we should believe
+My first book, [Right Belief and True Belief](https://global.oup.com/academic/product/right-belief-and-true-belief-9780197660386?cc=us&lang=en&) (Oxford, Oct. 2023), argues for a general truth-loving epistemic consequentialist theory of what we should believe
 
 Much of my research about social philosophy is done with the [Computational Social Philosophy Lab](/CSPL/), an interdisciplinary research group that uses an empirically-informed approach to using agent-based models to investigate questions in social epistemology, political philosophy, and philosophy of science 
 
