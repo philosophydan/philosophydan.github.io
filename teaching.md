@@ -10,13 +10,13 @@ In 2018, I was awarded the **Dean’s Award for Distinguished Teaching by an Ass
 ## Courses:
 
 
-**Fall 2024:**
-PHIL 2620: Knowledge and Reality
-PHIL 5620: Graduate Seminar in Epistemology (topic TBD)
+**Fall 2024:**  
+PHIL 2620: Knowledge and Reality  
+PHIL 5620: Graduate Seminar in Epistemology (topic TBD)  
 
-**Spring 2022:**
-PHIL 231: Knowledge and Reality
-PHIL 532: Graduate Seminar on the Value of Diversity
+**Spring 2022:**  
+PHIL 231: Knowledge and Reality  
+PHIL 532: Graduate Seminar on the Value of Diversity  
 
 **Fall 2021:**  
 PHIL 001: Introduction to Philosophy  
