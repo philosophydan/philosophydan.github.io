@@ -5,13 +5,16 @@ permalink: /CSPL/
 published: true
 ---
 
-The Computational Social Philosophy Lab (CSPL) is an interdisciplinary group of researchers that investigates questions of **social epistemology**, **philosophy of science**, and **political philosophy** using **agent-based computer models** with an eye toward empirical results. CSPL is structured roughly like a scientific lab group, but it involves several faculty in different disciplines (including philosophy, political science, psychology, and complex systems) at different institutions. 
+The Computational Social Philosophy Lab (CSPL) is an interdisciplinary group of researchers that investigates questions of **social epistemology**, **philosophy of science**, and **political philosophy** using **agent-based computer models** with an eye toward empirical results. CSPL is structured roughly like a scientific lab group, but it involves several faculty in different disciplines (including philosophy, political science, psychology, and complex systems) at different institutions. Working together since 2009, our research has resulted in a number of insights about diversity and polarization in groups, the nature of expertise, how information moves in groups, how democracies can improve or hinder information flow, and how representative and direct democracies compare.
 
-Our most recent research uses agent-based computer simulations to model diversity, group deliberation, and how group polarization can be produced, maintained, and destroyed by various mechanisms. Our research has implications for measuring and understanding the mechanisms of diversity and polarization in societies and small groups, the dynamics and optimization of small group discussions, and the roles of diversity and expertise in groups. For more information, contact [Prof. Daniel J. Singer](http://www.danieljsinger.com) ([singerd@phil.upenn.edu](mailto:singerd@phil.upenn.edu)) or [Patrick Grim](http://www.pgrim.org/).
+Recently, we've been thinking a lot about the dynamics of juries, the role of diversity in teams and larger groups, the dynamics of representational democracies, and how scientific institutions should be structured to better advance scientific aims. This research uses agent-based computer simulations to model diversity and expertise in group deliberation, and how group polarization can be produced, maintained, and destroyed by various mechanisms. Our research has implications for measuring and understanding the mechanisms of diversity and polarization in societies and small groups, the dynamics and optimization of small group discussions, and the roles of diversity and expertise in groups. 
 
-## Selected Current CSPL Projects
+For more information, contact [Prof. Daniel J. Singer](http://www.danieljsinger.com) ([singerd@phil.upenn.edu](mailto:singerd@phil.upenn.edu)) or [Patrick Grim](http://www.pgrim.org/).
 
-- Diversity and its Effects on Group Deliberation: Using a model of group deliberation where agents exchange reasons for beliefs, we investigate how diversity can affect group deliberation. In a paper under review, we show that diversity in juries can affect jury outcomes in four distinct ways. In a project in progress, we show that social diversity can have permanent epistemic benefits for groups, in contrast to much of the extant work on diversity in groups that focuses on functional and transient diversity.
+
+## Sample CSPL Projects
+
+- Diversity and its Effects on Group Deliberation: Using a model of group deliberation where agents exchange reasons for beliefs, we investigate how diversity can affect group deliberation. In a recent paper, we show that diversity in juries can affect jury outcomes in four distinct ways. In a project in progress, we show that social diversity can have permanent epistemic benefits for groups, in contrast to much of the extant work on diversity in groups that focuses on functional and transient diversity.
 
 - Group Deliberation Dynamics: Using a model of theoretical group deliberation where agents exchange reasons for beliefs and premises in arguments in a simple non-monotonic logic, we ask how  deliberation effects epistemic properties of the group (like who knows what and when) and how different properties might be optimized (asking, for example, whether a devil's advocate is helpful or whether certain social network structures are conducive to good outcomes).
 
@@ -26,8 +29,7 @@ Our most recent research uses agent-based computer simulations to model diversit
 
 - Patrick Grim, Aaron Bramson, Daniel J. Singer, William J. Berger, Jiin Jung, and Scott E. Page. (2020) "Representation in Models of Epistemic Democracy" **Episteme**
 
-- Patrick Grim, Daniel J. Singer, Aaron Bramson, Bennett Holman,
-Sean McGeehan, and William J. Berger. (2019) "Diversity, Ability, and Expertise in Epistemic Communities" **Philosophy of Science**
+- Patrick Grim, Daniel J. Singer, Aaron Bramson, Bennett Holman, Sean McGeehan, and William J. Berger. (2019) "Diversity, Ability, and Expertise in Epistemic Communities" **Philosophy of Science**
 
 - Daniel J. Singer, Aaron Bramson, Patrick Grim, Bennett Holman, Jiin Jung, Karen Kovaka, Anika Ranginani, and William J. Berger. (2018) "Rational Social and Political Polarization" **Philosophical Studies**
 
@@ -52,7 +54,7 @@ Question Difficulty, Epistemic Success, and Convergence” **Episteme**, Volume 
 ## Members
 
 <img src="http://www.danieljsinger.com/images/mephoto.png" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Prof. Daniel J. Singer** is an Associate Professor and Chair of the Undergraduate Program in Philosophy at the University of Pennsylvania with a secondary appointment in Legal Studies and Business Ethics in the Wharton School of Business. He researchs epistemology (including traditional, formal, and social epistemology), the nature of normativity in ethics and epistemology, and social philosophy with an emphasis on diversity and polarization. He directs and organizes the CPSL. You can learn more about his [research here](http://www.danieljsinger.com/research/) and see his [CV here](http://www.danieljsinger.com/cv/).
+**Prof. Daniel J. Singer** is an Associate Professor at the University of Pennsylvania with a secondary appointment in Legal Studies and Business Ethics in the Wharton School of Business. He researchs epistemology (including traditional, formal, and social epistemology), the nature of normativity in ethics and epistemology, and social philosophy with an emphasis on diversity and polarization. He directs and organizes the CPSL. You can learn more about his [research here](http://www.danieljsinger.com/research/) and see his [CV here](http://www.danieljsinger.com/cv/).
 
 
 <br style="clear:both" />
@@ -86,13 +88,6 @@ Question Difficulty, Epistemic Success, and Convergence” **Episteme**, Volume 
 <br style="clear:both" />
 
 
-<img src="http://www.danieljsinger.com/images/Karen.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Karen Kovaka** is an Assistant Professor of Philosophy at Virginia Tech. Her research areas are philosophy of biology, philosophy of science, and environmental ethics and policy. In the philosophy of biology, she is interested in the foundational concepts and processes of evolution, particularly in debates about the concepts of inheritance and biological individuality. She also studies the interface between science, science policy, and public understanding of science, including how public opinion about environmental issues such as climate change may be sensitive to widespread misconceptions about the nature of science. [Learn more about Karen here.](http://karenkovaka.com/)
-
-
-<br style="clear:both" />
-
-
 <img src="http://www.danieljsinger.com/images/Jiin.jpg" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
 **Jiin Jung** is a postdoctoral researcher in the Department of Psychology at New York University, where she is affiliated with the Motivation Lab. Her research focuses on the social psychology of belief dynamics. She studies how people construct beliefs about self, others, groups, and a society when facing uncertainty and disagreement, and how macro-level collective behaviors such as social change, diversity, and polarization emerge from these micro-level psychological processes in various social network structures. She particularly focuses on the role of minority dissent in these processes. To investigate multilevel causal links and iterations over time, she weaves together social psychology and other social science with a complex adaptive systems approach. She uses laboratory and field experiments, surveys, network analysis, and agent-based computational modeling. [Learn more about Jiin here.](http://jiinjung.com/)
 
@@ -104,6 +99,7 @@ Question Difficulty, Epistemic Success, and Convergence” **Episteme**, Volume 
 
 
 ### Former Members
+* [Karen Kovaka](http://karenkovaka.com/)
 * Carissa Flocken
 * Graham Sack
 * Steven Fisher
