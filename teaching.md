@@ -5,9 +5,18 @@ permalink: /teaching/
 published: true
 ---
 
-In 2018, I was awarded the **Dean’s Award for Distinguished Teaching by an Assistant Professor** from the School of Arts and Sciences. It's an award that "recognizes one member of the junior faculty who demonstrates unusual promise as an educator." In the words of Dean Fluharty, "Dr. Singer is highly lauded by faculty and students for his talents as a dynamic lecturer, his ability to make difficult material accessible and stimulate interest in philosophy, and his accessibility and commitment to students."
+In 2018, I was awarded the **Dean’s Award for Distinguished Teaching by an Assistant Professor** from the School of Arts and Sciences. It's an award that "recognizes one member of the junior faculty who demonstrates unusual promise as an educator." In the words of Dean Fluharty, "Dr. Singer is highly lauded by faculty and students for his talents as a dynamic lecturer, his ability to make difficult material accessible and stimulate interest in philosophy, and his accessibility and commitment to students." If you have any questions about my teaching, [contact me](http://www.danieljsinger.com/#contact).
 
-Here are the courses I've been teaching at the University of Pennsylvania. If you have any questions [contact me](http://www.danieljsinger.com/#contact).
+## Courses:
+
+
+**Fall 2024:**
+PHIL 2620: Knowledge and Reality
+PHIL 5620: Graduate Seminar in Epistemology (topic TBD)
+
+**Spring 2022:**
+PHIL 231: Knowledge and Reality
+PHIL 532: Graduate Seminar on the Value of Diversity
 
 **Fall 2021:**  
 PHIL 001: Introduction to Philosophy  
