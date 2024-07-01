@@ -13,9 +13,8 @@ published: true
 </dl>
 
 <h2>Welcome!</h2>
-I am currently a Consultant with the Boston Consulting Group, where I am an [Ambassador at the BCG Henderson Institute](https://bcghendersoninstitute.com/contributors/dan-singer/)
 
-I am on leave from my role as an Associate Professor (tenured) at the [University of Pennsylvania](https://www.upenn.edu/) with appointments in
+I am an Associate Professor (tenured) at the [University of Pennsylvania](https://www.upenn.edu/) with appointments in
  - [Philosophy, School of Arts and Sciences](http://philosophy.sas.upenn.edu/)
  - [Legal Studies and Business Ethics, Wharton School of Business](https://lgst.wharton.upenn.edu/) (secondary)
 
@@ -30,6 +29,8 @@ My first book, [Right Belief and True Belief](https://global.oup.com/academic/pr
 Much of my research about social philosophy is done with the [Computational Social Philosophy Lab](/CSPL/), an interdisciplinary research group that uses an empirically-informed approach to using agent-based models to investigate questions in social epistemology, political philosophy, and philosophy of science 
 
 I started at Penn as an Assistant Professor in January of 2013, and I received tenure and a promotion to Associate Professor in July 2019. Before coming to Penn, I received a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/)
+
+From 2022 to 2024, I was a Consultant with the Boston Consulting Group, where I was also an [Ambassador at the BCG Henderson Institute](https://bcghendersoninstitute.com/contributors/dan-singer/). My consulting work there focused primarily on corporate strategy, organizational efficiency, and DEI, with clients mostly in higher education, the public sector, and industrial goods.
 
 When I'm not working, I like to run and take <a target="_blank" href="https://www.instagram.com/philosophydan/">pictures of birds  <img style="height:.8em;vertical-align:baseline;" src="http://www.danieljsinger.com/images/instaicon.png" /></a>.
 
