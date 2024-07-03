@@ -21,7 +21,8 @@ I am an Associate Professor (tenured) at the [University of Pennsylvania](https:
 
 [My research](http://www.danieljsinger.com/research/) is primarily about
 - **the question of what we should believe** (in both metaethics and epistemology, including traditional, formal, and social)
-- the sources and effects of **diversity** and **polarization** in groups 
+- how **information flow and control** in groups and organizations affects agency and the ability to contribute
+- the meaning and effects of **diversity** and **polarization** in groups 
 
 
 My first book, [Right Belief and True Belief](https://global.oup.com/academic/product/right-belief-and-true-belief-9780197660386?cc=us&lang=en&) (Oxford, Oct. 2023), argues for a general truth-loving epistemic consequentialist theory of what we should believe
