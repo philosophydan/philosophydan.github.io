@@ -31,7 +31,7 @@ Much of my research about social philosophy is done with the [Computational Soci
 
 I started at Penn as an Assistant Professor in January of 2013, and I received tenure and a promotion to Associate Professor in July 2019. Before coming to Penn, I received a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/)
 
-From 2022 to 2024, I was a Consultant with the Boston Consulting Group, where I was also an [Ambassador at the BCG Henderson Institute](https://bcghendersoninstitute.com/). My consulting work there focused primarily on corporate strategy, organizational efficiency, and DEI, with clients mostly in higher education, the public sector, and industrial goods.
+From 2022 to 2024, I was a **Consultant with the Boston Consulting Group**, where I was also an [Ambassador at the BCG Henderson Institute](https://bcghendersoninstitute.com/). My consulting work there focused primarily on corporate strategy, organizational efficiency, and DEI, with clients mostly in higher education, the public sector, and industrial goods.
 
 When I'm not working, I like to run and take <a target="_blank" href="https://www.instagram.com/philosophydan/">pictures of birds  <img style="height:.8em;vertical-align:baseline;" src="http://www.danieljsinger.com/images/instaicon.png" /></a>.
 
