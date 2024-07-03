@@ -13,8 +13,8 @@ published: true
 </dl>
 
 Hi! I am an Associate Professor (tenured) at the [University of Pennsylvania](https://www.upenn.edu/) with appointments in
- - [Philosophy, School of Arts and Sciences](http://philosophy.sas.upenn.edu/)
- - [Legal Studies and Business Ethics, Wharton School of Business](https://lgst.wharton.upenn.edu/) (secondary)
+ - [Philosophy](http://philosophy.sas.upenn.edu/), School of Arts and Sciences
+ - [Legal Studies and Business Ethics](https://lgst.wharton.upenn.edu/), Wharton School of Business (secondary)
 
 
 [My research](http://www.danieljsinger.com/research/) is primarily about
