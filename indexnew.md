@@ -18,7 +18,7 @@ I am an **Associate Professor (tenured) at the [University of Pennsylvania](http
 
 From 2022 to 2024, I was a **Consultant with the Boston Consulting Group**, where I worked primarily on corporate strategy, organizational efficiency, and DEI, with clients mostly in higher education, the public sector, and industrial goods. I also served as an [Ambassador at the BCG Henderson Institute](https://bcghendersoninstitute.com/). 
 
-## Research
+### Research
 
 [My research](http://www.danieljsinger.com/research/) primarily focuses on **knowledge and information in complex social systems** (like corporations and juries), **theories of epistemology**, and **social philosophy**. Since returning to academia in 2024, my research has focused more on corporations and similar organizations. I've written extensively on the question of what we should believe, how information flow and control in groups and organizations affects agency and the ability to contribute, and the meaning and effects of diversity and polarization
 
@@ -26,7 +26,7 @@ My first book, [Right Belief and True Belief](https://global.oup.com/academic/pr
 
 Much of my research about social philosophy is done with the [Computational Social Philosophy Lab](/CSPL/), an interdisciplinary research group that uses an empirically-informed approach to using agent-based models to investigate questions in social epistemology, political philosophy, and philosophy of science 
 
-## Background
+### Background
 
 I started at Penn as an Assistant Professor in January of 2013, and I received tenure and a promotion to Associate Professor in July 2019. From 2022 to 2024, I was on leave from Penn and worked as a consultant at the Boston Consulting Group. Before coming to Penn, I received a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/)
 
