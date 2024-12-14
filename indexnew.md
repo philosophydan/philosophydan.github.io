@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ''
-permalink: /
+permalink: /test
 published: true
 ---
 <div style="width: 100%;" markdown="1">
