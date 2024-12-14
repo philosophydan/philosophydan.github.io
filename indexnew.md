@@ -12,25 +12,23 @@ published: true
   
 </dl>
 
-Hi! I am an **Associate Professor (tenured) at the [University of Pennsylvania]**(https://www.upenn.edu/) with appointments in
- - [Philosophy](http://philosophy.sas.upenn.edu/), School of Arts and Sciences
- - [Legal Studies and Business Ethics](https://lgst.wharton.upenn.edu/), Wharton School of Business (secondary)
+I am an **Associate Professor (tenured) at the [University of Pennsylvania](https://www.upenn.edu/)** with appointments in
+ - [Philosophy](http://philosophy.sas.upenn.edu/) (School of Arts and Sciences)
+ - [Legal Studies and Business Ethics](https://lgst.wharton.upenn.edu/) (Wharton School of Business, secondary)
 
-I've been faculty at Penn since January 2013, but from 2022 to 2024, I was a **Consultant with the Boston Consulting Group**, where I was also an [Ambassador at the BCG Henderson Institute](https://bcghendersoninstitute.com/). My consulting work there focused primarily on corporate strategy, organizational efficiency, and DEI, with clients mostly in higher education, the public sector, and industrial goods.
+From 2022 to 2024, I was a **Consultant with the Boston Consulting Group**, where I worked primarily on corporate strategy, organizational efficiency, and DEI, with clients mostly in higher education, the public sector, and industrial goods. I also served as an [Ambassador at the BCG Henderson Institute](https://bcghendersoninstitute.com/). 
 
 ## Research
 
-[My research](http://www.danieljsinger.com/research/) primarily focuses on **knowledge and information in complex social systems** (like corporations and juries), **theories of epistemology**, and **social philosophy**. I've written extensively on the question of what we should believe, how information flow and control in groups and organizations affects agency and the ability to contribute, and the meaning and effects of diversity and polarization.
+[My research](http://www.danieljsinger.com/research/) primarily focuses on **knowledge and information in complex social systems** (like corporations and juries), **theories of epistemology**, and **social philosophy**. Since returning to academia in 2024, my research has focused more on corporations and similar organizations. I've written extensively on the question of what we should believe, how information flow and control in groups and organizations affects agency and the ability to contribute, and the meaning and effects of diversity and polarization
 
 My first book, [Right Belief and True Belief](https://global.oup.com/academic/product/right-belief-and-true-belief-9780197660386?cc=us&lang=en&) (Oxford, Oct. 2023), argues for a general truth-loving epistemic consequentialist theory of what we should believe
 
 Much of my research about social philosophy is done with the [Computational Social Philosophy Lab](/CSPL/), an interdisciplinary research group that uses an empirically-informed approach to using agent-based models to investigate questions in social epistemology, political philosophy, and philosophy of science 
 
-## Experience
+## Background
 
 I started at Penn as an Assistant Professor in January of 2013, and I received tenure and a promotion to Associate Professor in July 2019. From 2022 to 2024, I was on leave from Penn and worked as a consultant at the Boston Consulting Group. Before coming to Penn, I received a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/)
-
-## Outside of work
 
 When I'm not working, I like to run and take <a target="_blank" href="https://www.instagram.com/philosophydan/">pictures of birds  <img style="height:.8em;vertical-align:baseline;" src="http://www.danieljsinger.com/images/instaicon.png" /></a>.
 
