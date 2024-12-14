@@ -26,6 +26,10 @@ My first book, [Right Belief and True Belief](https://global.oup.com/academic/pr
 
 Much of my research about social philosophy is done with the [Computational Social Philosophy Lab](/CSPL/), an interdisciplinary research group that uses an empirically-informed approach to using agent-based models to investigate questions in social epistemology, political philosophy, and philosophy of science 
 
+### Teaching
+
+I [teach](/teaching/) both undergrad and graduate classes, including regularly teaching Penn's Introduction to Epistemology and Metaphysics, Introduction to Mathematical Logic, and Wharton's Ethics and Social Responsibility. In 2018, I won the **Dean’s Award for Distinguished Teaching by an Assistant Professor** from the School of Arts and Sciences and was lauded for the "sheer number of students who say that Singer is the best professor they've ever had."
+
 ### Background
 
 I started at Penn as an Assistant Professor in January of 2013, and I received tenure and a promotion to Associate Professor in July 2019. From 2022 to 2024, I was on leave from Penn and worked as a consultant at the Boston Consulting Group. Before coming to Penn, I received a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/)
