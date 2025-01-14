@@ -9,10 +9,13 @@ In 2018, I was awarded the **Dean’s Award for Distinguished Teaching by an Ass
 
 ## Courses:
 
+**Spring 2025:**  
+PHIL 1710/5710: Introduction to Mathematical Logic (Grad & Undergrad)    
+PHIL 5332: Graduate Seminar on Meaningful Jobs and Work
 
 **Fall 2024:**  
 PHIL 2620: Knowledge and Reality  
-PHIL 5620: Graduate Seminar in Epistemology (topic TBD)  
+PHIL 5620: Graduate Seminar on Epistemic Architectures
 
 **Spring 2022:**  
 PHIL 231: Knowledge and Reality  
