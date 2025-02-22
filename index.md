@@ -22,7 +22,7 @@ From 2022 to 2024, I was a **Consultant with the Boston Consulting Group**, wher
 
 ### Research
 
-[My research](http://www.danieljsinger.com/research/) primarily focuses on **knowledge and information in complex social systems** (like corporations and juries), **theories of epistemology**, and **social philosophy**. Since returning to academia in 2024, my research has focused more on corporations and similar organizations. I've written extensively on the question of what we should believe, how information flow and control in groups and organizations affects agency and the ability to contribute, and the meaning and effects of diversity and polarization
+[My research](http://www.danieljsinger.com/research/) primarily focuses on **knowledge and information in complex social systems** (like corporations and juries), **theories of epistemology**, and **social philosophy**. Since returning to academia in 2024, my research has focused more on **corporations and similar organizations** including **philosophy of work**, the **role of information in corporations** and the **nature of employment**. I've written extensively on the question of what we should believe, how information flow and control in groups and organizations affects agency and the ability to contribute, and the meaning and effects of diversity and polarization
 
 My first book, [Right Belief and True Belief](https://global.oup.com/academic/product/right-belief-and-true-belief-9780197660386?cc=us&lang=en&) (Oxford, Oct. 2023), argues for a general truth-loving epistemic consequentialist theory of what we should believe
 
