@@ -14,7 +14,7 @@ published: true
 
 ### Who am I?
 
-I am an **Associate Professor (tenured) at the [University of Pennsylvania](https://www.upenn.edu/)** with appointments in
+I am an **Associate Professor with tenure at the [University of Pennsylvania](https://www.upenn.edu/)** with appointments in
  - [Philosophy](http://philosophy.sas.upenn.edu/) (School of Arts and Sciences)
  - [Legal Studies and Business Ethics](https://lgst.wharton.upenn.edu/) (Wharton School of Business, secondary)
 
