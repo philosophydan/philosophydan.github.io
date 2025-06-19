@@ -14,11 +14,11 @@
         <copyright>Yuta copyright 2016</copyright>
         <item>
           <title>Episode Name 2</title>
-          <link>https://dl.dropbox.com/s/dff56030336b/YourVideoAudioFile.mp4</link>
+          <link>https://dl.dropboxusercontent.com/scl/fi/52y8it99sh3xwu81o7s6s/David-Sedaris-The-Best-of-Me.mp3?raw=1</link>
           <pubDate>Sat, 02 Jan 2020 16:00:00 PDT</pubDate>
           <description>The full length episode 2 description</description>
           <enclosure url="https://dl.dropboxusercontent.com/scl/fi/52y8it99sh3xwu81o7s6s/David-Sedaris-The-Best-of-Me.mp3?raw=1" length="36715125" type="audio/mpeg"/>
-          <guid>https://dl.dropbox.com/s/dff56030336b/YourVideoAudioFile.mp4</guid>
+          <guid>https://dl.dropboxusercontent.com/scl/fi/52y8it99sh3xwu81o7s6s/David-Sedaris-The-Best-of-Me.mp3?raw=1</guid>
         </item>
     </channel>
 </rss>
