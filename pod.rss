@@ -17,7 +17,7 @@
           <link>https://dl.dropbox.com/s/dff56030336b/YourVideoAudioFile.mp4</link>
           <pubDate>Sat, 02 Jan 2020 16:00:00 PDT</pubDate>
           <description>The full length episode 2 description</description>
-          <enclosure url="https://www.dropbox.com/scl/fi/52y8it99sh3xwu81o7s6s/David-Sedaris-The-Best-of-Me.mp3?rlkey=gpg0pe282klfd5bqfxm604q4f&dl=1" length="36715125" type="audio/mpeg"/>
+          <enclosure url="https://dl.dropboxusercontent.com/scl/fi/52y8it99sh3xwu81o7s6s/David-Sedaris-The-Best-of-Me.mp3?raw=1" length="36715125" type="audio/mpeg"/>
           <guid>https://dl.dropbox.com/s/dff56030336b/YourVideoAudioFile.mp4</guid>
         </item>
     </channel>
