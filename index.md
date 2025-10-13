@@ -8,7 +8,7 @@ published: true
 
 <dl class="captioned-img alignright" style="max-width:260px">
   
-  <dt><img src="images/DanSinger2024web.jpg" alt="Picture of Daniel J. Singer" /></dt>
+  <dt><img src="images/DanSinger2025web.jpeg" alt="Picture of Daniel J. Singer" /></dt>
   
 </dl>
 
