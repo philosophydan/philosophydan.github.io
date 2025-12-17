@@ -23,9 +23,9 @@ From 2022 to 2024, I was a **Consultant with the Boston Consulting Group**, wher
 ### Research
 
 My most recent research has been primarily in the burgeoning subfield of **philosophy of work**, focusing on questions like
-  - what a good relationship between a manager and employee looks like
-  - how does information flow affect firms and their workers
-  - why we have employment in the first place. 
+  - What does a good relationship between a manager and employee looks like?
+  - How does information flow affect firms and their workers?
+  - Why do we have employment in the first place?
 
 Before returning to academia in 2024, my research focused more squarely on **epistemology** and **social philosophy**. I've written extensively on the question of what we should believe, information flow and control in groups, and the meaning and effects of diversity and polarization
 
