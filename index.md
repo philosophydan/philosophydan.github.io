@@ -50,7 +50,7 @@ When I'm not working, I like to run and take <a target="_blank" href="https://ww
 <div class="grid-container outline">
   <div class="row" style="padding-bottom: 0em">
 
-    <div class="col-2" style="padding-top: 1em;">
+    <div class="col-2" style="padding-top: 0em;">
       <p><b>Email:</b> <a href="mailto:singerd@phil.upenn.edu">singerd@phil.upenn.edu</a></p>
       <p><b>Office:</b> 461 <a href="http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia">Cohen Hall</a></p>
     </div>
