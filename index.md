@@ -49,21 +49,22 @@ When I'm not working, I like to run and take <a target="_blank" href="https://ww
 
 <div class="grid-container outline">
   <div class="row" style="padding-bottom: 1em">
+
+    <div class="col-2" style="padding-top: 1em;">
+      <p><b>Email:</b> <a href="mailto:singerd@phil.upenn.edu">singerd@phil.upenn.edu</a></p>
+      <p><b>Office:</b> 461 <a href="http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia">Cohen Hall</a></p>
+    </div>
+    
     <div class="col-2" style="padding-top: 1em;">
     <p><b>Physical Mail:</b><br />
-      Department of Philosophy<br />
       433 Cohen Hall<br />
       Philadelphia, PA 19104-6304</p>
     </div>
-    <div class="col-2" style="padding-top: 1em;">
-      <p><b>Email:</b> <a href="mailto:singerd@phil.upenn.edu">singerd@phil.upenn.edu</a></p>
-      <br />
-      <p><b>Office:</b> 461 <a href="http://www.facilities.upenn.edu/maps/locations/cohen-hall-claudia">Cohen Hall</a></p>
-    </div>
+
     <div class="col-2" style="padding-top: 1em;">
       <p><b>Phone:</b> +1 920-4Singer</p>
-      <br />
       <p><a href="http://www.danieljsinger.com/anonmessage/">Send Me an Anonymous Message</a></p>
     </div>
+    
   </div>
 </div>
