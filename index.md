@@ -56,7 +56,7 @@ When I'm not working, I like to run and take <a target="_blank" href="https://ww
     </div>
     
     <div class="col-2" style="padding-top: 1em;">
-    <p><b>Physical Mail:</b><br />
+    <p><b>
       433 Cohen Hall<br />
       Philadelphia, PA 19104-6304</p>
     </div>
