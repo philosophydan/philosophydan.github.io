@@ -9,6 +9,14 @@ In 2018, I was awarded the **Dean’s Award for Distinguished Teaching by an Ass
 
 ## Courses:
 
+**Spring 2026:**  
+PHIL 1710/5710: Introduction to Mathematical Logic (Grad & Undergrad)    
+PHIL 5562: Graduate Seminar on Philosophy of Work (with Jennifer Morton)
+
+**Fall 2025:**  
+PHIL 2620: Knowledge and Reality  
+PHIL 3991: AI in Work, School, and Research (Undergrad Seminar)
+
 **Spring 2025:**  
 PHIL 1710/5710: Introduction to Mathematical Logic (Grad & Undergrad)    
 PHIL 5332: Graduate Seminar on Meaningful Jobs and Work
