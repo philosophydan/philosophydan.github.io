@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-published: true
+published: false
 ---
 My research is largely organized around the question of what we should believe, both as individuals and as groups, and how diversity, network structures, and expertise affects this. This research touches on many topics in **epistemology (including traditional, formal, and social epistemology)**, **the nature of normativity in ethics and epistemology**, and **social philosophy** with particular emphases on **diversity** and **polarization**. Below are some short descriptions of my major research projects.  For more information about my research, see my [CV](http://www.danieljsinger.com/cv/) or [contact me](http://www.danieljsinger.com/#contact).
 
