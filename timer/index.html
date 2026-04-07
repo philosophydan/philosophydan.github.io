@@ -318,14 +318,15 @@
 
     // ── Core tick ─────────────────────────────────────────────────────────
     function tick() {
-      const secsRemaining = Math.round((endTime - Date.now()) / 1000);
-      render(secsRemaining);
-      checkMilestones(secsRemaining);
-      updateClock();
+      const rawDiff = endTime - Date.now();
+      // ceilSecs syncs seconds display with the clock face
+      const ceilSecs = Math.max(0, Math.ceil(rawDiff / 1000));
+      render(rawDiff, ceilSecs);
+      checkMilestones(ceilSecs);
     }
 
     // ── Render countdown display ──────────────────────────────────────────
-    function render(secs) {
+    function render(rawDiff, secs) {
       if (secs <= 0) {
         countdownNum.textContent = "TIME'S UP";
         countdownNum.classList.add('timesup');
@@ -337,15 +338,21 @@
 
       countdownNum.classList.remove('timesup');
 
-      if (secs <= 60) {
-        // Show 0:SS
-        const s = String(secs).padStart(2, '0');
-        countdownNum.textContent = `0:${s}`;
-        countdownLabel.textContent = 'seconds remaining';
+      if (rawDiff < 60000) {
+        // Last minute: show M:SS — ceil keeps seconds in sync with clock face
+        showClockSeconds = true;
+        const m = Math.floor(secs / 60);
+        const s = String(secs % 60).padStart(2, '0');
+        countdownNum.textContent = `${m}:${s}`;
+        countdownLabel.textContent = 'remaining';
         countdownNum.classList.add('urgent');
       } else {
-        // Show whole minutes (rounded up)
-        const mins = Math.ceil(secs / 60);
+        // Minutes phase: ceil so the number matches what a student computes from
+        // the HH:MM clock (stays constant for the full minute, changes exactly
+        // when the clock's minute digit ticks over).
+        // Hide clock seconds so there's nothing sub-minute to compare against.
+        showClockSeconds = false;
+        const mins = Math.ceil(rawDiff / 60000);
         countdownNum.textContent = String(mins);
         countdownLabel.textContent = mins === 1 ? 'minute remaining' : 'minutes remaining';
         countdownNum.classList.remove('urgent');
@@ -373,11 +380,18 @@
     }
 
     // ── Update current time display ───────────────────────────────────────
+    let showClockSeconds = false;
+
     function updateClock() {
-      currentTimeEl.textContent = new Date().toLocaleTimeString([], {
-        hour: 'numeric', minute: '2-digit', second: '2-digit'
-      });
+      const opts = showClockSeconds
+        ? { hour: 'numeric', minute: '2-digit', second: '2-digit' }
+        : { hour: 'numeric', minute: '2-digit' };
+      currentTimeEl.textContent = new Date().toLocaleTimeString([], opts);
     }
+
+    // Clock runs independently so it keeps ticking after TIME'S UP
+    updateClock();
+    setInterval(updateClock, 1000);
 
     // ── Recover from tab sleep ────────────────────────────────────────────
     document.addEventListener('visibilitychange', () => {
