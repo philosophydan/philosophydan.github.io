@@ -22,7 +22,7 @@ From 2022 to 2024, I was a **Consultant with the Boston Consulting Group**, wher
 
 ### Research
 
-My most recent research is primarily on **philosophy of work** and **philosophy of AI**, focusing on questions like
+My most recent [research](/research/) is primarily on **philosophy of work** and **philosophy of AI**, focusing on questions like
   - What does a good manager look like?
   - How does information flow / AI in firms affect productivity?
   - What's the point of employment in the first place?
