@@ -32,6 +32,8 @@ The publications below give a snapshot of my research, but they may not be compl
 
 ## Papers
 
+<br>
+
 <div class="paper-list">
 
 <p class="paper-year-label" style="margin-top: 0.5em;">Forthcoming, Under Review &amp; In Preparation</p>
