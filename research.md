@@ -305,7 +305,7 @@ The publications below give a snapshot of my research, but they may not be compl
   <summary><span class="paper-toggle"></span><span class="paper-title">"Philosophical Analysis in Modeling Polarization: Notes from a Work in Progress"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>APA Newsletter on Philosophy and Computers</em></span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Grim, Bramson, Fisher, Flocken, and Berger</p>
-    <p class="paper-abstract">[Abstract placeholder]</p>
+    <p class="paper-abstract">Abstract unavailable</p>
     <p><em>Updated and reprinted in Youngman &amp; Hadzikadic (eds.), <em>Complexity and the Human Experience</em>, Pan Stanford Press, 2014.</em></p>
   </div>
 </details>
