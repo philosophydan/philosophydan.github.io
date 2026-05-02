@@ -32,8 +32,6 @@ The publications below give a snapshot of my research, but they may not be compl
 
 ## Papers
 
-*Click any title to expand the abstract and a link to the paper. Listed from most to least recent.*
-
 <div class="paper-list">
 
 <p class="paper-year-label" style="margin-top: 0.5em;">Forthcoming, Under Review &amp; In Preparation</p>
