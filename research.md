@@ -32,11 +32,9 @@ The publications below give a snapshot of my research, but they may not be compl
 
 ## Papers
 
-<br>
-
 <div class="paper-list">
 
-<p class="paper-year-label" style="margin-top: 0.5em;">Forthcoming, Under Review &amp; In Preparation</p>
+<p class="paper-year-label" style="margin-top: 1.2em;">Forthcoming, Under Review &amp; In Preparation</p>
 
 <details class="paper-item">
   <summary><span class="paper-toggle"></span><span class="paper-title">"What is AI Slop (and Why It Matters)"</span><span class="paper-venue">&ensp;&mdash;&ensp;In preparation</span></summary>
