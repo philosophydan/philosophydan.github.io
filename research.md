@@ -72,7 +72,7 @@ The publications below give a snapshot of my research, but they may not be compl
 <details class="paper-item">
   <summary><span class="paper-toggle"></span><span class="paper-title">"It's Not Always Wrong to Gaslight Employees"</span><span class="paper-venue">&ensp;&mdash;&ensp;Under review</span></summary>
   <div class="paper-expand">
-    <p class="paper-abstract">The standard view is that gaslighting --- a form of deception that makes victims doubt their own perspectives --- is invariably wrong. This paper challenges the consensus by arguing that it's sometimes permissible for an employer to gaslight an employee. Drawing on three examples of management relationships, I show that managers can be justified in gaslighting employees to fulfill supervening obligations, such as protecting the firm from significant risks or fostering an employee's professional development. The permissibility of gaslighting in these situations stems from the inherently asymmetric structure of employment relationships, which does not always require the same kind of mutual respect demanded in symmetric relationships like friendships, I argue. This teaches us something directly about managerial ethics. But it also shows us something deeper about the ethics of asymmetric relationships (e.g., teacher-student and parent-child relationships), and it suggests a need for further theorizing about the broader normative structure of business and management. </p>
+    <p class="paper-abstract">The standard view is that gaslighting — a form of deception that makes victims doubt their own perspectives — is invariably wrong. This paper challenges the consensus by arguing that it's sometimes permissible for an employer to gaslight an employee. Drawing on three examples of management relationships, I show that managers can be justified in gaslighting employees to fulfill supervening obligations, such as protecting the firm from significant risks or fostering an employee's professional development. The permissibility of gaslighting in these situations stems from the inherently asymmetric structure of employment relationships, which does not always require the same kind of mutual respect demanded in symmetric relationships like friendships, I argue. This teaches us something directly about managerial ethics. But it also shows us something deeper about the ethics of asymmetric relationships (e.g., teacher-student and parent-child relationships), and it suggests a need for further theorizing about the broader normative structure of business and management. </p>
   </div>
 </details>
 
@@ -127,7 +127,7 @@ The publications below give a snapshot of my research, but they may not be compl
 </details>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">Review of Sanford Goldberg's <em>To the Best of Our Knowledge</em></span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Philosophical Review</em>, Vol. 130, No. 2</span></summary>
+  <summary><span class="paper-toggle"></span><span class="paper-title">Review of Sanford Goldberg's <em>To the Best of Our Knowledge</em></span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Philosophical Review</em></span></summary>
   <div class="paper-expand">
     <p class="paper-abstract">This review highlights Goldberg's effort to bridge the internalist/externalist divide in epistemology in a way that takes seriously the intuitions on both sides. Goldberg aims to give an extensionally adequate theory of epistemic justification while addressing hard questions about the nature of epistemic normativity, arguing that our epistemic obligations are rooted in the expectations we have of each other.</p>
     <p class="paper-links"><a href="https://read.dukeupress.edu/the-philosophical-review/article-abstract/130/2/323/173782/To-the-Best-of-Our-Knowledge">Read the review →</a></p>
@@ -174,7 +174,7 @@ The publications below give a snapshot of my research, but they may not be compl
 </details>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"A Multidisciplinary Understanding of Polarization"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>American Psychologist</em>, Vol. 74, No. 3</span></summary>
+  <summary><span class="paper-toggle"></span><span class="paper-title">"A Multidisciplinary Understanding of Polarization"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>American Psychologist</em></span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Jung, Grim, Bramson, Berger, Holman, and Kovaka</p>
     <p class="paper-abstract">This article describes a decade of collaborative scientific work on polarization and collective problem-solving by a multidisciplinary research team comprising members from social psychology, political science, social philosophy/epistemology, and complex systems science. It emphasizes challenges caused by disciplinary differences in terminology, units of analysis, methodology, and theoretical assumptions, and explains how work disambiguating the concepts of polarization and developing an integrative theoretical and methodological framework with complex systems perspectives has helped overcome these challenges.</p>
@@ -200,7 +200,7 @@ The publications below give a snapshot of my research, but they may not be compl
 </details>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"Diversity, Ability, and Expertise in Epistemic Communities"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Philosophy of Science</em>, Vol. 86, No. 1</span></summary>
+  <summary><span class="paper-toggle"></span><span class="paper-title">"Diversity, Ability, and Expertise in Epistemic Communities"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Philosophy of Science</em></span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Grim, Bramson, Holman, McGeehan, and Berger</p>
     <p class="paper-abstract">The Hong and Page 'diversity trumps ability' result has been used to argue for the more general claim that a diverse set of agents is epistemically superior to a comparable group of experts. Here we extend Hong and Page's model to landscapes of different degrees of randomness and demonstrate the sensitivity of the 'diversity trumps ability' result. This analysis offers a more nuanced picture of how diversity, ability, and expertise may relate. Although models of this sort can indeed be suggestive for diversity policies, we advise against interpreting such results overly broadly.</p>
@@ -222,7 +222,7 @@ The publications below give a snapshot of my research, but they may not be compl
 </details>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"Diversity and Democracy: Agent-based Modeling in Political Philosophy"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Historical Social Research</em>, Vol. 43, No. 1</span></summary>
+  <summary><span class="paper-toggle"></span><span class="paper-title">"Diversity and Democracy: Agent-based Modeling in Political Philosophy"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Historical Social Research</em></span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Holman, Berger, Grim, and Bramson</p>
     <p class="paper-abstract">Agent-based models have played a prominent role in recent debates about the merits of democracy, particularly the Hong-Page "diversity trumps ability" result, which has been seen to support the epistemic virtues of democracy over epistocracy. This paper identifies the modeling choices in the original formal model and critiques the application of the Hong-Page results to philosophical debates on democracy, arguing that the "best-performing agents" in the Hong-Page model should not be interpreted as experts. The paper explores a modified model where such agents are more plausibly seen as experts and shows that the diversity trumps ability result fails to hold in that setting.</p>
@@ -230,7 +230,7 @@ The publications below give a snapshot of my research, but they may not be compl
 </details>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"How to be an Epistemic Consequentialist"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Philosophical Quarterly</em>, Vol. 68, No. 272</span></summary>
+  <summary><span class="paper-toggle"></span><span class="paper-title">"How to be an Epistemic Consequentialist"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Philosophical Quarterly</em></span></summary>
   <div class="paper-expand">
     <p class="paper-abstract">Epistemic consequentialists think that epistemic norms are about believing the truth and avoiding error. Recently, a number of authors have rejected epistemic consequentialism on the basis that it incorrectly sanctions tradeoffs of epistemic goodness. Here, I argue that epistemic consequentialists should borrow two lessons from ethical consequentialists to respond to these worries. Epistemic consequentialists should construe their view as an account of right belief, which they distinguish from other notions like rational and justified belief. Epistemic consequentialists should also make their view 'sophisticated,' in the sense of Railton. Epistemic consequentialism, I conclude, is best construed as sharing much of its structure with prominent act-consequentialist views in ethics. Epistemic consequentialism has an advantage over its ethical counterpart though: the key claim of the view is practically universally accepted, which gives us an additional reason to think it's true.</p>
     <p class="paper-links"><a href="https://academic.oup.com/pq/article-abstract/68/272/580/4791179">Read the paper →</a></p>
@@ -240,7 +240,7 @@ The publications below give a snapshot of my research, but they may not be compl
 <p class="paper-year-label">2017</p>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"Understanding Polarization: Meanings, Measures, and Model Evaluation"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Philosophy of Science</em>, Vol. 84, No. 1</span></summary>
+  <summary><span class="paper-toggle"></span><span class="paper-title">"Understanding Polarization: Meanings, Measures, and Model Evaluation"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Philosophy of Science</em></span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Grim, Bramson, Berger, Sack, Fisher, and Flocken</p>
     <p class="paper-abstract">Polarization is a topic of intense interest among social scientists, but there is significant disagreement regarding the character of the phenomenon and little understanding of its underlying mechanics. A first problem is that polarization appears in the literature as not one concept but many. In the first part of the article, the authors distinguish nine phenomena that may be considered polarization, with suggestions of appropriate measures for each. In the second part, they apply this analysis to evaluate the types of polarization generated by the three major families of computational models proposing specific mechanisms of opinion polarization.</p>
@@ -251,7 +251,7 @@ The publications below give a snapshot of my research, but they may not be compl
 <p class="paper-year-label">2016</p>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"Disambiguation of Social Polarization Concepts and Measures"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Journal of Mathematical Sociology</em>, Vol. 40, No. 2</span></summary>
+  <summary><span class="paper-toggle"></span><span class="paper-title">"Disambiguation of Social Polarization Concepts and Measures"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Journal of Mathematical Sociology</em></span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Bramson, Grim, Fisher, Sack, Berger, and Flocken</p>
     <p class="paper-abstract">This article distinguishes nine senses of polarization and provides formal measures for each one to refine the methodology used to describe polarization in distributions of attitudes. By clearly separating these distinct senses of polarization, the paper provides a foundation for more rigorous empirical and computational research into when and how populations polarize.</p>
@@ -262,7 +262,7 @@ The publications below give a snapshot of my research, but they may not be compl
 <p class="paper-year-label">2015</p>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"Mind the Is-Ought Gap"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Journal of Philosophy</em>, Vol. 112, No. 4</span></summary>
+  <summary><span class="paper-toggle"></span><span class="paper-title">"Mind the Is-Ought Gap"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Journal of Philosophy</em></span></summary>
   <div class="paper-expand">
     <p class="paper-abstract">The is-ought gap is Hume's claim that we can't get an 'ought' from just 'is's. Prior (1960) showed that the most straightforward formulation of this claim fails. Many authors attempt to resurrect it by restricting its domain syntactically or by reformulating it in terms of models of deontic logic, but those attempts prove to be complex, incomplete, or incorrect. This paper provides a simple reformulation of the is-ought gap that closely fits Hume's description of it. The new formulation avoids the proposed counterexamples from Prior, offers a natural explanation of why they seem compelling, and is guaranteed by standard theories of the semantics of normative terms—providing a more general reason to accept the gap.</p>
     <p class="paper-links"><a href="https://www.pdcnet.org/jphil/content/jphil_2015_0112_0004_0193_0210">Read the paper →</a></p>
@@ -270,7 +270,7 @@ The publications below give a snapshot of my research, but they may not be compl
 </details>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"Germs, Genes, and Memes: Function and Fitness Dynamics on Information Networks"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Philosophy of Science</em>, Vol. 82, No. 2</span></summary>
+  <summary><span class="paper-toggle"></span><span class="paper-title">"Germs, Genes, and Memes: Function and Fitness Dynamics on Information Networks"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Philosophy of Science</em></span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Grim, Fisher, and Reade</p>
     <p class="paper-abstract">Understanding the dynamics of information is crucial to many areas of research, both inside and outside of philosophy. Using computer simulations of three kinds of information—germs, genes, and memes—we show that the mechanism of information transfer often swamps network structure in terms of its effects on both the dynamics and the fitness of the information. This insight has both obvious and subtle implications for a number of questions in philosophy, including questions about the nature of information, whether there is genetic information, and how to arrange scientific communities.</p>
@@ -281,7 +281,7 @@ The publications below give a snapshot of my research, but they may not be compl
 <p class="paper-year-label">2014</p>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"Sleeping Beauty Should be Imprecise"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Synthese</em>, Vol. 191, No. 14</span></summary>
+  <summary><span class="paper-toggle"></span><span class="paper-title">"Sleeping Beauty Should be Imprecise"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Synthese</em></span></summary>
   <div class="paper-expand">
     <p class="paper-abstract">The traditional solutions to the Sleeping Beauty problem say that Beauty should have either a sharp 1/3 or sharp 1/2 credence that the coin flip was heads when she wakes. But Beauty's evidence is incomplete so that it doesn't warrant a precise credence. Instead, Beauty ought to have a properly imprecise credence when she wakes. In particular, her representor ought to assign R(Heads) = [0, 1/2]. The solution can account for many of the intuitions that motivate the traditional solutions. The paper also offers a new objection to Elga's restricted version of the principle of indifference, which an opponent may try to use to collapse the imprecision.</p>
     <p class="paper-links"><a href="https://link.springer.com/article/10.1007/s11229-014-0429-y">Read the paper →</a></p>
@@ -291,7 +291,7 @@ The publications below give a snapshot of my research, but they may not be compl
 <p class="paper-year-label">2013</p>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"Scientific Networks on Data Landscapes: Question Difficulty, Epistemic Success, and Convergence"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Episteme</em>, Vol. 10, No. 4</span></summary>
+  <summary><span class="paper-toggle"></span><span class="paper-title">"Scientific Networks on Data Landscapes: Question Difficulty, Epistemic Success, and Convergence"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Episteme</em>/span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Grim, Fisher, Bramson, Berger, Reade, Flocken, and Sales</p>
     <p class="paper-abstract">A scientific community can be modeled as a collection of epistemic agents attempting to answer questions, in part by communicating about their hypotheses and results. When we treat the pathways of scientific communication as a network, it becomes clear that the interaction between the structure of the network and the nature of the question under investigation affects epistemic desiderata, including accuracy and speed to community consensus. This paper introduces a "fiendishness index" to quantify problem difficulty and investigates how different communication networks affect whether the community finds the best answer. A striking trade-off emerges: ring and small-world networks excel at discovering correct answers but take longer to reach consensus, while fully connected networks reach consensus quickly but find inferior solutions more often.</p>
@@ -302,7 +302,7 @@ The publications below give a snapshot of my research, but they may not be compl
 <p class="paper-year-label">2012</p>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"Philosophical Analysis in Modeling Polarization: Notes from a Work in Progress"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>APA Newsletter on Philosophy and Computers</em>, Vol. 12, No. 1</span></summary>
+  <summary><span class="paper-toggle"></span><span class="paper-title">"Philosophical Analysis in Modeling Polarization: Notes from a Work in Progress"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>APA Newsletter on Philosophy and Computers</em></span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Grim, Bramson, Fisher, Flocken, and Berger</p>
     <p class="paper-abstract">[Abstract placeholder]</p>
@@ -333,7 +333,7 @@ The publications below give a snapshot of my research, but they may not be compl
 <p class="paper-year-label">2010</p>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"What You Believe Travels Differently: Information and Infection Dynamics Across Sub-Networks"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Connections</em>, Vol. 30, No. 2</span></summary>
+  <summary><span class="paper-toggle"></span><span class="paper-title">"What You Believe Travels Differently: Information and Infection Dynamics Across Sub-Networks"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Connections</em></span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Grim, Reade, Fisher, and Majewicz</p>
     <p class="paper-abstract">To understand the transmission of a disease across a population, one must understand both the dynamics of contact infection and the transfer of health-care beliefs and resulting health-care behaviors across that population. This paper examines the contrasting roles of linkage and isolation between sub-networks in these two processes, showing that beliefs and infections travel differently across the same network structures—with important implications for understanding how public health interventions can target both information flow and behavioral change.</p>
