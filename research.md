@@ -291,7 +291,7 @@ The publications below give a snapshot of my research, but they may not be compl
 <p class="paper-year-label">2013</p>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"Scientific Networks on Data Landscapes: Question Difficulty, Epistemic Success, and Convergence"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Episteme</em>/span></summary>
+  <summary><span class="paper-toggle"></span><span class="paper-title">"Scientific Networks on Data Landscapes: Question Difficulty, Epistemic Success, and Convergence"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Episteme</em></span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Grim, Fisher, Bramson, Berger, Reade, Flocken, and Sales</p>
     <p class="paper-abstract">A scientific community can be modeled as a collection of epistemic agents attempting to answer questions, in part by communicating about their hypotheses and results. When we treat the pathways of scientific communication as a network, it becomes clear that the interaction between the structure of the network and the nature of the question under investigation affects epistemic desiderata, including accuracy and speed to community consensus. This paper introduces a "fiendishness index" to quantify problem difficulty and investigates how different communication networks affect whether the community finds the best answer. A striking trade-off emerges: ring and small-world networks excel at discovering correct answers but take longer to reach consensus, while fully connected networks reach consensus quickly but find inferior solutions more often.</p>
@@ -345,7 +345,7 @@ The publications below give a snapshot of my research, but they may not be compl
   <summary><span class="paper-toggle"></span><span class="paper-title">"Robustness Across the Structure of Sub-Networks: The Contrast Between Infection and Information Dynamics"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Proceedings, AAAI Fall Symposium on Complex Systems</em></span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Grim, Reade, Fisher, and Majewicz</p>
-    <p class="paper-abstract">[Abstract placeholder]</p>
+    <p class="paper-abstract">Abstract unavailable</p>
   </div>
 </details>
 
