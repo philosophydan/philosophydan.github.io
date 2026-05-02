@@ -9,7 +9,7 @@ My recent research focuses on **philosophy of work** and **philosophy of AI**, e
 
 Before returning to academia in 2024, my research focused more squarely on **epistemology** and **social philosophy**. I've written extensively on what we should believe, information flow and control in groups, and the meaning and effects of **diversity** and **polarization**. Much of this work is done with the [Computational Social Philosophy Lab](/CSPL/), an interdisciplinary research group that uses agent-based models to investigate questions in social epistemology, political philosophy, and philosophy of science.
 
-The publications below give a snapshot of my research, but they may not be complete or fully up to date. For a full list of publications with complete citation details, please see my [CV](/cv/).
+The publications below give a snapshot of my research, but they may not be complete or fully up to date. For a full list of publications, see my [CV](/cv/).
 
 ---
 
@@ -40,23 +40,17 @@ The publications below give a snapshot of my research, but they may not be compl
 <details class="paper-item">
   <summary><span class="paper-toggle"></span><span class="paper-title">"What is AI Slop (and Why It Matters)"</span><span class="paper-venue">&ensp;&mdash;&ensp;In preparation</span></summary>
   <div class="paper-expand">
-    <p class="paper-abstract">[Abstract placeholder]</p>
+    <p class="paper-abstract">Abstract coming soon!</p>
   </div>
 </details>
 
 <details class="paper-item">
   <summary><span class="paper-toggle"></span><span class="paper-title">"Should Employees Have Voice at Work?"</span><span class="paper-venue">&ensp;&mdash;&ensp;In preparation</span></summary>
   <div class="paper-expand">
-    <p class="paper-abstract">[Abstract placeholder]</p>
+    <p class="paper-abstract">Recent work in political philosophy argues that workers are owed a formal voice in the governance of their firms, typically through codetermination, works councils, or worker cooperatives. I argue that this view rests on weak foundations. The existing defenses fall into two camps. The instrumental defense, which holds that mandated participation produces better wages, higher productivity, and more dignified workers, is not well supported by the transaction-cost theory of the firm or by the best empirical evidence on codetermination and worker ownership. The intrinsic defense, which holds that workers have a moral right to participate in the rules governing them, faces a distinctly liberal cost: mandating voice commits us to a perfectionist and paternalist conception of how workers should relate to their firms, which liberal political theory has traditionally taught us to avoid. I close by sketching a more modest alternative: task-level autonomy for workers who want it, a plurality of firm types to choose among, and a legal regime that keeps the floor on worker treatment high.</p>
   </div>
 </details>
 
-<details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"Employment is a Relationship, Not an Exchange"</span><span class="paper-venue">&ensp;&mdash;&ensp;In preparation</span></summary>
-  <div class="paper-expand">
-    <p class="paper-abstract">[Abstract placeholder]</p>
-  </div>
-</details>
 
 <details class="paper-item">
   <summary><span class="paper-toggle"></span><span class="paper-title">"The Future of AI Is Many, Not One"</span><span class="paper-venue">&ensp;&mdash;&ensp;Under review</span></summary>
@@ -71,14 +65,14 @@ The publications below give a snapshot of my research, but they may not be compl
   <summary><span class="paper-toggle"></span><span class="paper-title">"The Epistemic Advantages of Representative Deliberation"</span><span class="paper-venue">&ensp;&mdash;&ensp;Under review</span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Berger, Grim, Bramson, Holman, and Jung</p>
-    <p class="paper-abstract">[Abstract placeholder]</p>
+    <p class="paper-abstract">It is widely thought that deliberative quality improves with the number of participants: the more voices in the room, the better the collective judgment. This “wisdom of the crowds” intuition suggests that representative deliberation — in which a subset of deliberators acts on behalf of the larger group — should be epistemically inferior to full plenary deliberation. We test this using a computational agent-based model in which deliberators exchange evidence for and against a proposition and are evaluated on how accurately their collective beliefs track an objective truth. Varying four conditions — the length of deliberation, the distribution of available evidence, problem difficulty, and agents’ memory capacity — we find that representative deliberation frequently matches or outperforms full deliberation. This advantage does not stem from any superior epistemic ability of the representatives themselves. Rather, it emerges from two structural features of the two-tier process: the selective triage of the strongest available evidence, and the periodic resetting of polarized or entrenched beliefs that a second phase of deliberation enables. Our findings suggest that representative structure can be an epistemic asset rather than a liability — not despite, but because of the constraints it imposes.</p>
   </div>
 </details>
 
 <details class="paper-item">
   <summary><span class="paper-toggle"></span><span class="paper-title">"It's Not Always Wrong to Gaslight Employees"</span><span class="paper-venue">&ensp;&mdash;&ensp;Under review</span></summary>
   <div class="paper-expand">
-    <p class="paper-abstract">[Abstract placeholder]</p>
+    <p class="paper-abstract">The standard view is that gaslighting --- a form of deception that makes victims doubt their own perspectives --- is invariably wrong. This paper challenges the consensus by arguing that it's sometimes permissible for an employer to gaslight an employee. Drawing on three examples of management relationships, I show that managers can be justified in gaslighting employees to fulfill supervening obligations, such as protecting the firm from significant risks or fostering an employee's professional development. The permissibility of gaslighting in these situations stems from the inherently asymmetric structure of employment relationships, which does not always require the same kind of mutual respect demanded in symmetric relationships like friendships, I argue. This teaches us something directly about managerial ethics. But it also shows us something deeper about the ethics of asymmetric relationships (e.g., teacher-student and parent-child relationships), and it suggests a need for further theorizing about the broader normative structure of business and management. </p>
   </div>
 </details>
 
@@ -86,7 +80,7 @@ The publications below give a snapshot of my research, but they may not be compl
   <summary><span class="paper-toggle"></span><span class="paper-title">"How Diversity Helps Jury Decisions"</span><span class="paper-venue">&ensp;&mdash;&ensp;Forthcoming, <em>Agent-Based Modeling for Research on Groups, Networks, and Organizations</em> (APA)</span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Grim, Bramson, Holman, Jung, and Berger</p>
-    <p class="paper-abstract">[Abstract placeholder]</p>
+    <p class="paper-abstract">Abstract unavailable</p>
   </div>
 </details>
 
