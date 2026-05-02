@@ -24,7 +24,7 @@ The publications below give a snapshot of my research, but they may not be compl
     <p><strong>Oxford University Press, 2023</strong></p>
     <p><em>Right Belief and True Belief</em> likens work in epistemology about what we should believe to work in normative ethics about what we should do. It uses that analogy to draw out a methodology for epistemology centered around the question of what we should believe, and it defends a truth-loving consequentialist answer to that question. In doing so, the book sets the stage for a deeply truth-guided approach to all aspects of epistemology.</p>
     <p><a href="https://global.oup.com/academic/product/right-belief-and-true-belief-9780197660386?cc=us&lang=en&">View at Oxford University Press →</a></p>
-    <p><a href="https://philarchive.org/rec/PETROD">Read a recent review by Richard Pettigrew in the <em>BJPS Review of Books</em>em> →</a></p>
+    <p><a href="https://philarchive.org/rec/PETROD">Read a recent review by Richard Pettigrew in the <em>BJPS Review of Books</em> →</a></p>
   </div>
 </div>
 
