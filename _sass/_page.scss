@@ -53,3 +53,134 @@
 .post-link {
     display: block;
 }
+
+// ── Research page ──────────────────────────────────────────────────────────
+
+.book-callout {
+    display: flex;
+    gap: 1.5em;
+    align-items: flex-start;
+    background-color: $dark-background;
+    border-left: 4px solid $url-color;
+    border-radius: 0 4px 4px 0;
+    padding: 1.2em;
+    margin: $spacing-unit 0;
+
+    img {
+        width: 110px;
+        flex-shrink: 0;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.18);
+    }
+
+    .book-info {
+        flex: 1;
+
+        h4 {
+            margin-top: 0;
+            margin-bottom: 0.3em;
+            font-size: 1.05em;
+        }
+
+        p {
+            margin-bottom: 0.5em;
+            &:last-child { margin-bottom: 0; }
+        }
+    }
+
+    @include media-query($mobile) {
+        flex-direction: column;
+        img { width: 90px; }
+    }
+}
+
+.paper-list {
+    margin-left: 0;
+}
+
+.paper-list .paper-year-label {
+    font-size: 0.78em;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: $text-light-color;
+    border-bottom: 2px solid $grey-vlight;
+    padding-bottom: 0.25em;
+    margin-top: $spacing-unit * 2;
+    margin-bottom: 0.2em;
+}
+
+details.paper-item {
+    border-bottom: 1px solid $grey-vlight;
+
+    &:last-of-type {
+        border-bottom: none;
+    }
+
+    > summary {
+        cursor: pointer;
+        list-style: none;
+        padding: 0.55em 0;
+        user-select: none;
+
+        &::-webkit-details-marker { display: none; }
+        &::marker { content: ""; }
+
+        &:hover .paper-title {
+            color: $url-hover-color;
+            text-decoration: underline;
+        }
+    }
+}
+
+.paper-toggle {
+    display: inline-block;
+    width: 1.1em;
+    color: $url-color;
+    font-size: 0.72em;
+    vertical-align: middle;
+    line-height: 2;
+
+    &::before { content: "▸"; }
+}
+
+details[open] .paper-toggle::before {
+    content: "▾";
+}
+
+.paper-title {
+    font-style: italic;
+    color: $text-color;
+}
+
+.paper-venue {
+    color: $text-light-color;
+    font-size: 0.88em;
+}
+
+.paper-expand {
+    margin: 0.15em 0 0.85em 1.4em;
+    padding: 0.85em 1.1em;
+    background-color: $dark-background;
+    border-left: 3px solid $grey-light;
+    font-size: 0.95em;
+
+    p {
+        margin-bottom: 0.5em;
+        &:last-child { margin-bottom: 0; }
+    }
+}
+
+.paper-authors {
+    color: $text-light-color;
+    font-style: italic;
+    font-size: 0.9em;
+}
+
+.paper-abstract {
+    line-height: 1.65;
+}
+
+.paper-links a {
+    font-size: 0.9em;
+    margin-right: 1.2em;
+}
