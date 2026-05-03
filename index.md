@@ -22,7 +22,7 @@ From 2022 to 2024, I was a **Consultant with the [Boston Consulting Group](https
 
 ### Research
 
-My current research focuses on the **philosophy of work** and the **philosophy of AI** — asking normative and conceptual questions about what good employment looks like, what role AI should play in society, what it would take for AI systems to genuinely innovate and explain their reasoning, and how to do research with AI well. This work grows out of a long-standing research program in **epistemology** and **social philosophy**, where I’ve investigated what we should believe, social phenomena like diversity and polarization, and how information flows through groups and institutions.
+My [research](/research/) focuses on the **philosophy of work** and the **philosophy of AI** — asking normative and conceptual questions about what good employment looks like, what role AI should play in society, what it would take for AI systems to genuinely innovate and explain their reasoning, and how to do research with AI well. This work grows out of a long-standing research program in **epistemology** and **social philosophy**, where I’ve investigated what we should believe, social phenomena like diversity and polarization, and how information flows through groups and institutions.
 
 My first book, [Right Belief and True Belief](https://global.oup.com/academic/product/right-belief-and-true-belief-9780197660386?cc=us&lang=en&) (Oxford, Oct. 2023), defends a consequentialist theory of epistemic norms. Much of my work in social philosophy is conducted through the [Computational Social Philosophy Lab](/CSPL/), an interdisciplinary research group that uses agent-based models to investigate questions in social epistemology, political philosophy, and philosophy of science.
 
