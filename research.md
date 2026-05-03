@@ -128,7 +128,7 @@ The publications below give a snapshot of my research, but they may not be compl
 <details class="paper-item">
   <summary><span class="paper-toggle"></span><span class="paper-title">Review of Sanford Goldberg's <em>To the Best of Our Knowledge</em></span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Philosophical Review</em></span></summary>
   <div class="paper-expand">
-    <p class="paper-abstract">This review highlights Goldberg's effort to bridge the internalist/externalist divide in epistemology in a way that takes seriously the intuitions on both sides. Goldberg aims to give an extensionally adequate theory of epistemic justification while addressing hard questions about the nature of epistemic normativity, arguing that our epistemic obligations are rooted in the expectations we have of each other.</p>
+    <p class="paper-abstract">Abstract unavailable</p>
     <p class="paper-links"><a href="https://read.dukeupress.edu/the-philosophical-review/article-abstract/130/2/323/173782/To-the-Best-of-Our-Knowledge">Read the review →</a></p>
   </div>
 </details>
@@ -137,7 +137,7 @@ The publications below give a snapshot of my research, but they may not be compl
   <summary><span class="paper-toggle"></span><span class="paper-title">"What Epistemic Reasons are For: Against the Belief-Sandwich Distinction"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Meaning, Decision, and Norms</em> (eds. Dunaway &amp; Plunkett)</span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Sara Aronowitz</p>
-    <p class="paper-abstract">The standard view says that epistemic normativity is normativity of belief. The paper presents an argument that pushes back against this standard view: if the argument is right, there are epistemic reasons for things other than belief. The argument starts with evidentialist commitments and proceeds by a series of cases, each containing a reason. As the cases progress, the reasons change from counting in favor of things like having a belief to things like performing ordinary actions. The paper argues that each of those reasons is epistemic. If the argument succeeds, there are epistemic reasons to consider hypotheses, conduct thought and physical experiments, extend one's evidence, and perform mundane tasks—just as there are epistemic reasons to believe what one's evidence supports.</p>
+    <p class="paper-abstract">The standard view says that epistemic normativity is normativity of belief. If you’re an evidentialist, for example, you’ll think that all epistemic reasons are reasons to believe what your evidence supports. Here we present a line of argument that pushes back against this standard view. If the argument is right, there are epistemic reasons for things other than belief. The argument starts with evidentialist commitments and proceeds by a series of cases, each containing a reason. As the cases progress, the reasons change from counting in favor of things like having a belief to things like performing ordinary actions. We argue that each of those reasons is epistemic. If the argument succeeds, we should think there are epistemic reasons to consider hypotheses, conduct thought and physical experiments, extend one’s evidence, and perform mundane tasks like eating a sandwich, just as there are epistemic reasons to believe what one’s evidence supports.</p>
     <p class="paper-links"><a href="https://philpapers.org/archive/SINWER.pdf">Download preprint →</a></p>
   </div>
 </details>
@@ -148,7 +148,9 @@ The publications below give a snapshot of my research, but they may not be compl
   <summary><span class="paper-toggle"></span><span class="paper-title">"Computational Philosophy"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Stanford Encyclopedia of Philosophy</em></span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Patrick Grim</p>
-    <p class="paper-abstract">Computational philosophy is the use of mechanized computational techniques to instantiate, extend, and amplify philosophical research. It is not philosophy of computers or computational techniques; rather, it is philosophy using computers and computational techniques—applying advances in computer technology to advance discovery, exploration, and argument within any philosophical area. This entry surveys contemporary computational philosophy across epistemology, metaphysics, philosophy of science, ethics, social philosophy, philosophy of language, and philosophy of mind.</p>
+    <p class="paper-abstract">Computational philosophy is the use of mechanized computational techniques to instantiate, extend, and amplify philosophical research. Computational philosophy is not philosophy of computers or computational techniques; it is rather philosophy using computers and computational techniques. The idea is simply to apply advances in computer technology and techniques to advance discovery, exploration and argument within any philosophical area.</p>
+<p class="paper-abstract">
+After touching on historical precursors, this article discusses contemporary computational philosophy across a variety of fields: epistemology, metaphysics, philosophy of science, ethics and social philosophy, philosophy of language and philosophy of mind, often with examples of operating software. Far short of any attempt at an exhaustive treatment, the intention is to introduce the spirit of each application by using some representative examples.</p>
     <p class="paper-links"><a href="https://plato.stanford.edu/entries/computational-philosophy/">Read the entry →</a></p>
   </div>
 </details>
