@@ -120,7 +120,6 @@ details.paper-item {
         cursor: pointer;
         list-style: none;
         padding: 0.55em 0;
-        user-select: none;
 
         &::-webkit-details-marker { display: none; }
         &::marker { content: ""; }
@@ -139,6 +138,7 @@ details.paper-item {
     font-size: 0.72em;
     vertical-align: middle;
     line-height: 2;
+    user-select: none;
 
     &::before { content: "▸"; }
 }
