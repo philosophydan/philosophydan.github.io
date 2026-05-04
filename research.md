@@ -311,6 +311,7 @@ After touching on historical precursors, this article discusses contemporary com
     <p class="paper-authors">With Grim, Bramson, Fisher, Flocken, and Berger</p>
     <p class="paper-abstract">Abstract unavailable</p>
     <p><em>Updated and reprinted in Youngman &amp; Hadzikadic (eds.), <em>Complexity and the Human Experience</em>, Pan Stanford Press, 2014.</em></p>
+    <p class="paper-links"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3898348/">Read the paper →</a></p>
   </div>
 </details>
 
@@ -371,6 +372,7 @@ other two.</p>
   <div class="paper-expand">
     <p class="paper-authors">With Grim, Reade, Fisher, and Majewicz</p>
     <p class="paper-abstract">Abstract unavailable</p>
+    <p class="paper-links"><a href="https://pgrim.org/articles/grimrobustnessinfectioninformation.pdf">Read the paper →</a></p>
   </div>
 </details>
 
