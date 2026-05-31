@@ -16,7 +16,7 @@ I am an **Associate Professor with tenure at the [University of Pennsylvania](ht
  - [Philosophy](http://philosophy.sas.upenn.edu/) (School of Arts and Sciences)
  - [Legal Studies and Business Ethics](https://lgst.wharton.upenn.edu/) (Wharton School of Business, secondary)
 
-I joined Penn in 2013, received tenure in 2019, and before coming to Penn received a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/).
+I joined Penn in 2013, received tenure in 2019. Before coming to Penn, I received a Ph.D. in Philosophy at the [University of Michigan](http://www.lsa.umich.edu/philosophy/).
 
 From 2022 to 2024, I was a **Consultant with the [Boston Consulting Group](https://www.bcg.com/)**, where I worked primarily on corporate strategy, organizational efficiency, and DEI, with clients mostly in higher education, the public sector, and industrial goods. I also served as an [Ambassador at the BCG Henderson Institute](https://bcghendersoninstitute.com/).
 
