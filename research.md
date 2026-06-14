@@ -44,7 +44,7 @@ The publications below give a snapshot of my research, but they may not be compl
 </details>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"Should Employees Have Voice at Work?"</span><span class="paper-venue">&ensp;&mdash;&ensp;In preparation</span></summary>
+  <summary><span class="paper-toggle"></span><span class="paper-title">"Should Employees Have Voice at Work?"</span><span class="paper-venue">&ensp;&mdash;&ensp;Under review</span></summary>
   <div class="paper-expand">
     <p class="paper-abstract">Much recent work argues that workers are owed a voice in firm governance, through things like workplace democracy, codetermination, works councils, and worker cooperatives. I argue that the case for mandating this is weaker than its defenders suggest. The defenses fall into two camps. Instrumental defenses hold that voice produces goods like better wages, higher productivity, and more dignified workers. But neither the empirical record nor our best theories of the firm suggest that is true. Intrinsic defenses hold that workers have a right to participate in systems that govern them. But that view faces a distinctly liberal cost, imposing a perfectionist, paternalist, and anti-pluralist picture of how we should relate to firms. I close by granting that more say at work can materially improve workers' situations. But the levers that might secure that mostly operate at levels other than firm governance.</p>
   </div>
