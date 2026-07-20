@@ -68,18 +68,21 @@ The publications below give a snapshot of my research, but they may not be compl
 </details>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"The Epistemic Advantages of Representative Deliberation"</span><span class="paper-venue">&ensp;&mdash;&ensp;Forthcoming, <em>PLOS ONE</em></span></summary>
-  <div class="paper-expand">
-    <p class="paper-authors">With Berger, Grim, Bramson, Holman, and Jung</p>
-    <p class="paper-abstract">It is widely thought that deliberative quality improves with the number of participants: the more voices in the room, the better the collective judgment. This “wisdom of the crowds” intuition suggests that representative deliberation — in which a subset of deliberators acts on behalf of the larger group — should be epistemically inferior to full plenary deliberation. We test this using a computational agent-based model in which deliberators exchange evidence for and against a proposition and are evaluated on how accurately their collective beliefs track an objective truth. Varying four conditions — the length of deliberation, the distribution of available evidence, problem difficulty, and agents’ memory capacity — we find that representative deliberation frequently matches or outperforms full deliberation. This advantage does not stem from any superior epistemic ability of the representatives themselves. Rather, it emerges from two structural features of the two-tier process: the selective triage of the strongest available evidence, and the periodic resetting of polarized or entrenched beliefs that a second phase of deliberation enables. Our findings suggest that representative structure can be an epistemic asset rather than a liability — not despite, but because of the constraints it imposes.</p>
-  </div>
-</details>
-
-<details class="paper-item">
   <summary><span class="paper-toggle"></span><span class="paper-title">"How Diversity Helps Jury Decisions"</span><span class="paper-venue">&ensp;&mdash;&ensp;Forthcoming, <em>Agent-Based Modeling for Research on Groups, Networks, and Organizations</em> (APA)</span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Grim, Bramson, Holman, Jung, and Berger</p>
     <p class="paper-abstract">Abstract unavailable</p>
+  </div>
+</details>
+
+<p class="paper-year-label">2026</p>
+
+<details class="paper-item">
+  <summary><span class="paper-toggle"></span><span class="paper-title">"The Epistemic Advantages of Representative Deliberation"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>PLOS ONE</em></span></summary>
+  <div class="paper-expand">
+    <p class="paper-authors">With Berger, Grim, Bramson, Holman, and Jung</p>
+    <p class="paper-abstract">It is widely thought that deliberative quality improves with the number of participants: the more voices in the room, the better the collective judgment. This “wisdom of the crowds” intuition suggests that representative deliberation — in which a subset of deliberators acts on behalf of the larger group — should be epistemically inferior to full plenary deliberation. We test this using a computational agent-based model in which deliberators exchange evidence for and against a proposition and are evaluated on how accurately their collective beliefs track an objective truth. Varying four conditions — the length of deliberation, the distribution of available evidence, problem difficulty, and agents’ memory capacity — we find that representative deliberation frequently matches or outperforms full deliberation. This advantage does not stem from any superior epistemic ability of the representatives themselves. Rather, it emerges from two structural features of the two-tier process: the selective triage of the strongest available evidence, and the periodic resetting of polarized or entrenched beliefs that a second phase of deliberation enables. Our findings suggest that representative structure can be an epistemic asset rather than a liability — not despite, but because of the constraints it imposes.</p>
+    <p class="paper-links"><a target="_blank" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353387">Read the paper →</a></p>
   </div>
 </details>
 
