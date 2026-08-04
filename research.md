@@ -37,6 +37,20 @@ The publications below give a snapshot of my research, but they may not be compl
 <p class="paper-year-label" style="margin-top: 2.5em;">Forthcoming &amp; Under Review</p>
 
 <details class="paper-item">
+  <summary><span class="paper-toggle"></span><span class="paper-title">"Work as a State of Mind: Towards an Expressionist Theory of 'Work'"</span><span class="paper-venue">&ensp;&mdash;&ensp;In Preparation</span></summary>
+  <div class="paper-expand">
+    <p class="paper-abstract">Abstract not currently available.</p>
+  </div>
+</details>
+
+<details class="paper-item">
+  <summary><span class="paper-toggle"></span><span class="paper-title">"Employment as Technology"</span><span class="paper-venue">&ensp;&mdash;&ensp;In Preparation</span></summary>
+  <div class="paper-expand">
+    <p class="paper-abstract">Abstract not currently available.</p>
+  </div>
+</details>
+
+<details class="paper-item">
   <summary><span class="paper-toggle"></span><span class="paper-title">"AI Slop is Not an Argument"</span><span class="paper-venue">&ensp;&mdash;&ensp;Under review</span></summary>
   <div class="paper-expand">
     <p class="paper-abstract">The term "AI slop" is typically thought to be a  description of low-quality machine output, but I argue that we often use the term to express a broad view about the proper role of AI in society. I distinguish two opposite uses. The optimist uses it to quarantine the bad cases, saying "that is only slop, not the real AI," so the larger project can go on. The critic uses it in a more "contagious" sense, something more like "that is all slop, and it shows what AI really is." In both cases, the term lets its users slide from disgust at a particular output to a verdict on AI as a whole, so that an undefended background view about AI's role does the real work while we seem only to be describing quality. We should stop letting "AI slop" stand in for that argument and instead have the argument openly. The question is not whether a particular output is garbage, but how much of our shared lives we want to turn over to the technology and how much we want to keep for ourselves.</p>
