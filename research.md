@@ -75,7 +75,7 @@ The publications below give a snapshot of my research, but they may not be compl
 </details>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"AI Slop is Not an Argument"</span><span class="paper-venue">&ensp;&mdash;&ensp;Forthcoming, <em>npj Artificial Intelligence</em> (Nature Portfolio)</span></summary>
+  <summary><span class="paper-toggle"></span><span class="paper-title">"'AI slop' hides the conversations we should be having"</span><span class="paper-venue">&ensp;&mdash;&ensp;Forthcoming, <em>npj Artificial Intelligence</em> (Nature Portfolio)</span></summary>
   <div class="paper-expand">
     <p class="paper-abstract">The term "AI slop" hides conversations we need to have. When we call something "AI slop," we're often doing more than complaining about one output. Optimists use the term to quarantine failures away from AI's promise; critics use it to indict the whole technology. Slop-talk thus lets us feel like we're discussing important social issues without actually doing it. I argue that we should have those discussions openly.</p>
   </div>
