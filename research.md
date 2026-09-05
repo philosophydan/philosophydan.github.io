@@ -51,13 +51,6 @@ The publications below give a snapshot of my research, but they may not be compl
 </details>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"AI Slop is Not an Argument"</span><span class="paper-venue">&ensp;&mdash;&ensp;Under review</span></summary>
-  <div class="paper-expand">
-    <p class="paper-abstract">The term "AI slop" is typically thought to be a  description of low-quality machine output, but I argue that we often use the term to express a broad view about the proper role of AI in society. I distinguish two opposite uses. The optimist uses it to quarantine the bad cases, saying "that is only slop, not the real AI," so the larger project can go on. The critic uses it in a more "contagious" sense, something more like "that is all slop, and it shows what AI really is." In both cases, the term lets its users slide from disgust at a particular output to a verdict on AI as a whole, so that an undefended background view about AI's role does the real work while we seem only to be describing quality. We should stop letting "AI slop" stand in for that argument and instead have the argument openly. The question is not whether a particular output is garbage, but how much of our shared lives we want to turn over to the technology and how much we want to keep for ourselves.</p>
-  </div>
-</details>
-
-<details class="paper-item">
   <summary><span class="paper-toggle"></span><span class="paper-title">"Should Employees Have Voice at Work?"</span><span class="paper-venue">&ensp;&mdash;&ensp;Under review</span></summary>
   <div class="paper-expand">
     <p class="paper-abstract">Much recent work argues that workers are owed a voice in firm governance, through things like workplace democracy, codetermination, works councils, and worker cooperatives. I argue that the case for mandating this is weaker than its defenders suggest. The defenses fall into two camps. Instrumental defenses hold that voice produces goods like better wages, higher productivity, and more dignified workers. But neither the empirical record nor our best theories of the firm suggest that is true. Intrinsic defenses hold that workers have a right to participate in systems that govern them. But that view faces a distinctly liberal cost, imposing a perfectionist, paternalist, and anti-pluralist picture of how we should relate to firms. I close by granting that more say at work can materially improve workers' situations. But the levers that might secure that mostly operate at levels other than firm governance.</p>
@@ -78,6 +71,13 @@ The publications below give a snapshot of my research, but they may not be compl
   <summary><span class="paper-toggle"></span><span class="paper-title">"It's Not Always Wrong to Gaslight Employees"</span><span class="paper-venue">&ensp;&mdash;&ensp;Under review</span></summary>
   <div class="paper-expand">
     <p class="paper-abstract">The standard view is that gaslighting - a form of manipulation that makes victims doubt their own perspectives - is basically never permissible. This paper argues otherwise: it's sometimes permissible for managers to gaslight their employees in the ordinary course of business. Drawing on three cases, I show that mundane managerial obligations, like keeping a confidence or developing a new hire, can justify gaslighting. What explains why gaslighting is permissible in these cases is the asymmetric structure of the employment relationship. The near-absolute prohibition on gaslighting in the symmetric relationships ethicists typically focus on, like friendships and intimate personal relationships, flows from a requirement to treat each other as equals that employment lacks. I give four conditions for when managerial gaslighting is permissible and defend the account against relational egalitarian and Kantian concerns. The account suggests that the wrongness of gaslighting is relationship-indexed, so beyond business, other asymmetric relationships, like teacher-student and parent-child relationships, may also license more than we usually suppose.</p>
+  </div>
+</details>
+
+<details class="paper-item">
+  <summary><span class="paper-toggle"></span><span class="paper-title">"AI Slop is Not an Argument"</span><span class="paper-venue">&ensp;&mdash;&ensp;Forthcoming, <em>npj Artificial Intelligence</em> (Nature Portfolio)</span></summary>
+  <div class="paper-expand">
+    <p class="paper-abstract">The term "AI slop" hides conversations we need to have. When we call something "AI slop," we're often doing more than complaining about one output. Optimists use the term to quarantine failures away from AI's promise; critics use it to indict the whole technology. Slop-talk thus lets us feel like we're discussing important social issues without actually doing it. I argue that we should have those discussions openly.</p>
   </div>
 </details>
 
