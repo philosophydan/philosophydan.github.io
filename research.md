@@ -75,13 +75,6 @@ The publications below give a snapshot of my research, but they may not be compl
 </details>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"'AI slop' hides the conversations we should be having"</span><span class="paper-venue">&ensp;&mdash;&ensp;Forthcoming, <em>npj Artificial Intelligence</em> (Nature Portfolio)</span></summary>
-  <div class="paper-expand">
-    <p class="paper-abstract">The term "AI slop" hides conversations we need to have. When we call something "AI slop," we're often doing more than complaining about one output. Optimists use the term to quarantine failures away from AI's promise; critics use it to indict the whole technology. Slop-talk thus lets us feel like we're discussing important social issues without actually doing it. I argue that we should have those discussions openly.</p>
-  </div>
-</details>
-
-<details class="paper-item">
   <summary><span class="paper-toggle"></span><span class="paper-title">"How Diversity Helps Jury Decisions"</span><span class="paper-venue">&ensp;&mdash;&ensp;Forthcoming, <em>Agent-Based Modeling for Research on Groups, Networks, and Organizations</em> (APA)</span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Grim, Bramson, Holman, Jung, and Berger</p>
@@ -90,6 +83,14 @@ The publications below give a snapshot of my research, but they may not be compl
 </details>
 
 <p class="paper-year-label">2026</p>
+
+<details class="paper-item">
+  <summary><span class="paper-toggle"></span><span class="paper-title">"'AI slop' hides the conversations we should be having"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>npj Artificial Intelligence</em> (Nature Portfolio)</span></summary>
+  <div class="paper-expand">
+    <p class="paper-abstract">The term “AI slop” hides conversations we need to have. When we call something “AI slop,” we’re often doing more than complaining about one output. Optimists use the term to quarantine failures away from AI’s promise; critics use it to indict the whole technology. Slop-talk thus lets us feel like we’re discussing important social issues without actually doing it. I argue that we should have those discussions openly.</p>
+    <p class="paper-links"><a target="_blank" href="https://www.nature.com/articles/s44387-026-00161-8">Read the paper →</a></p>
+  </div>
+</details>
 
 <details class="paper-item">
   <summary><span class="paper-toggle"></span><span class="paper-title">"The Epistemic Advantages of Representative Deliberation"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>PLOS ONE</em></span></summary>
