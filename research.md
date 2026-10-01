@@ -37,14 +37,14 @@ The publications below give a snapshot of my research, but they may not be compl
 <p class="paper-year-label" style="margin-top: 2.5em;">Forthcoming &amp; Under Review</p>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"Work as a State of Mind: Towards an Expressionist Theory of 'Work'"</span><span class="paper-venue">&ensp;&mdash;&ensp;In Preparation</span></summary>
+  <summary><span class="paper-toggle"></span><span class="paper-title">"Work as a State of Mind: Towards an Expressivist Theory of 'Work'"</span><span class="paper-venue">&ensp;&mdash;&ensp;In Preparation</span></summary>
   <div class="paper-expand">
     <p class="paper-abstract">Abstract not currently available.</p>
   </div>
 </details>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"Employment as Technology"</span><span class="paper-venue">&ensp;&mdash;&ensp;In Preparation</span></summary>
+  <summary><span class="paper-toggle"></span><span class="paper-title">"Employment Is a Relationship, Not an Exchange"</span><span class="paper-venue">&ensp;&mdash;&ensp;In Preparation</span></summary>
   <div class="paper-expand">
     <p class="paper-abstract">Abstract not currently available.</p>
   </div>
