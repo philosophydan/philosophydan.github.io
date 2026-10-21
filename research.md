@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: hg-page
 title: Research
 permalink: /research/
 published: true
@@ -20,7 +20,7 @@ The publications below give a snapshot of my research, but they may not be compl
     <img src="/images/RBTB.jpg" alt="Right Belief and True Belief book cover" />
   </a>
   <div class="book-info">
-    <h4><a target="_blank" href="https://global.oup.com/academic/product/right-belief-and-true-belief-9780197660386?cc=us&lang=en&"><em>Right Belief and True Belief</em></a></h4>
+    <h3><a target="_blank" href="https://global.oup.com/academic/product/right-belief-and-true-belief-9780197660386?cc=us&lang=en&"><em>Right Belief and True Belief</em></a></h3>
     <p><strong>Oxford University Press, 2023</strong></p>
     <p><em>Right Belief and True Belief</em> likens work in epistemology about what we should believe to work in normative ethics about what we should do. It uses that analogy to draw out a methodology for epistemology centered around the question of what we should believe, and it defends a truth-loving consequentialist answer to that question. In doing so, the book sets the stage for a deeply truth-guided approach to all aspects of epistemology.</p>
     <p><a target="_blank" href="https://global.oup.com/academic/product/right-belief-and-true-belief-9780197660386?cc=us&lang=en&">View at Oxford University Press →</a></p>
@@ -34,17 +34,31 @@ The publications below give a snapshot of my research, but they may not be compl
 
 <div class="paper-list">
 
-<p class="paper-year-label" style="margin-top: 2.5em;">Forthcoming &amp; Under Review</p>
+<p class="paper-year-label" style="margin-top: 2.5em;">Work in Progress</p>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"Work as a State of Mind: Towards an Expressivist Theory of 'Work'"</span><span class="paper-venue">&ensp;&mdash;&ensp;In Preparation</span></summary>
+  <summary><span class="paper-toggle"></span><span class="paper-title">"Work as a State of Mind: Towards an Expressivist Theory of 'Work'"</span><span class="paper-venue">&ensp;&mdash;&ensp;In preparation</span></summary>
   <div class="paper-expand">
     <p class="paper-abstract">Abstract not currently available.</p>
   </div>
 </details>
 
 <details class="paper-item">
-  <summary><span class="paper-toggle"></span><span class="paper-title">"Employment Is a Relationship, Not an Exchange"</span><span class="paper-venue">&ensp;&mdash;&ensp;In Preparation</span></summary>
+  <summary><span class="paper-toggle"></span><span class="paper-title">"Employment Is a Relationship, Not an Exchange"</span><span class="paper-venue">&ensp;&mdash;&ensp;In preparation</span></summary>
+  <div class="paper-expand">
+    <p class="paper-abstract">Abstract not currently available.</p>
+  </div>
+</details>
+
+<details class="paper-item">
+  <summary><span class="paper-toggle"></span><span class="paper-title">"Using AI Well Is Managing Well"</span><span class="paper-venue">&ensp;&mdash;&ensp;In preparation</span></summary>
+  <div class="paper-expand">
+    <p class="paper-abstract">Abstract not currently available.</p>
+  </div>
+</details>
+
+<details class="paper-item">
+  <summary><span class="paper-toggle"></span><span class="paper-title">"The Distinctive Impact of AI on Science Won't Be Homogenization"</span><span class="paper-venue">&ensp;&mdash;&ensp;In preparation</span></summary>
   <div class="paper-expand">
     <p class="paper-abstract">Abstract not currently available.</p>
   </div>
@@ -70,7 +84,7 @@ The publications below give a snapshot of my research, but they may not be compl
 <details class="paper-item">
   <summary><span class="paper-toggle"></span><span class="paper-title">"It's Not Always Wrong to Gaslight Employees"</span><span class="paper-venue">&ensp;&mdash;&ensp;Under review</span></summary>
   <div class="paper-expand">
-    <p class="paper-abstract">The standard view is that gaslighting - a form of manipulation that makes victims doubt their own perspectives - is basically never permissible. This paper argues otherwise: it's sometimes permissible for managers to gaslight their employees in the ordinary course of business. Drawing on three cases, I show that mundane managerial obligations, like keeping a confidence or developing a new hire, can justify gaslighting. What explains why gaslighting is permissible in these cases is the asymmetric structure of the employment relationship. The near-absolute prohibition on gaslighting in the symmetric relationships ethicists typically focus on, like friendships and intimate personal relationships, flows from a requirement to treat each other as equals that employment lacks. I give four conditions for when managerial gaslighting is permissible and defend the account against relational egalitarian and Kantian concerns. The account suggests that the wrongness of gaslighting is relationship-indexed, so beyond business, other asymmetric relationships, like teacher-student and parent-child relationships, may also license more than we usually suppose.</p>
+    <p class="paper-abstract">The standard view is that gaslighting—a form of manipulation that makes victims doubt their own perspectives—is basically never permissible. This paper argues otherwise: it's sometimes permissible for managers to gaslight their employees in the ordinary course of business. Drawing on three cases, I show that mundane managerial obligations, like keeping a confidence or developing a new hire, can justify gaslighting. What explains why gaslighting is permissible in these cases is the asymmetric structure of the employment relationship. The near-absolute prohibition on gaslighting in the symmetric relationships ethicists typically focus on, like friendships and intimate personal relationships, flows from a requirement to treat each other as equals that employment lacks. I give four conditions for when managerial gaslighting is permissible and defend the account against relational egalitarian and Kantian concerns. The account suggests that the wrongness of gaslighting is relationship-indexed, so beyond business, other asymmetric relationships, like teacher-student and parent-child relationships, may also license more than we usually suppose.</p>
   </div>
 </details>
 
@@ -78,7 +92,7 @@ The publications below give a snapshot of my research, but they may not be compl
   <summary><span class="paper-toggle"></span><span class="paper-title">"How Diversity Helps Jury Decisions"</span><span class="paper-venue">&ensp;&mdash;&ensp;Forthcoming, <em>Agent-Based Modeling for Research on Groups, Networks, and Organizations</em> (APA)</span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Grim, Bramson, Holman, Jung, and Berger</p>
-    <p class="paper-abstract">Abstract unavailable</p>
+    <p class="paper-abstract">Abstract not currently available.</p>
   </div>
 </details>
 
@@ -112,8 +126,8 @@ The publications below give a snapshot of my research, but they may not be compl
   </div>
 </details>
 
-<div style="background:#f7f5f3; border-left:3px solid #b6321c; padding:0.65em 1.1em; margin:2.6em 0 0.4em;">
-  <p style="margin:0; font-size:0.9em; font-style:italic; color:#555;">From <strong style="color:#333;">August 2022 to August 2024</strong>, I was outside academia working as a consultant at the Boston Consulting Group.</p>
+<div class="interlude">
+  <p>From <strong>August 2022 to August 2024</strong>, I was outside academia working as a consultant at the Boston Consulting Group.</p>
 </div>
 
 <p class="paper-year-label">2022</p>
@@ -150,7 +164,7 @@ The publications below give a snapshot of my research, but they may not be compl
 <details class="paper-item">
   <summary><span class="paper-toggle"></span><span class="paper-title">Review of Sanford Goldberg's <em>To the Best of Our Knowledge</em></span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Philosophical Review</em></span></summary>
   <div class="paper-expand">
-    <p class="paper-abstract">Abstract unavailable</p>
+    <p class="paper-abstract">Abstract not currently available.</p>
     <p class="paper-links"><a target="_blank" href="https://read.dukeupress.edu/the-philosophical-review/article-abstract/130/2/323/173782/To-the-Best-of-Our-Knowledge">Read the review →</a></p>
   </div>
 </details>
@@ -200,7 +214,7 @@ After touching on historical precursors, this article discusses contemporary com
   <summary><span class="paper-toggle"></span><span class="paper-title">"A Multidisciplinary Understanding of Polarization"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>American Psychologist</em></span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Jung, Grim, Bramson, Berger, Holman, and Kovaka</p>
-    <p class="paper-abstract">This article aims to describe the last 10 years of the collaborative scientific endeavors on polarization in particular and collective problem-solving in general by our multidisciplinary research team. We describe the team's disciplinary composition-social psychology, political science, social philosophy/epistemology, and complex systems science-highlighting the shared and unique skill sets of our group members and how each discipline contributes to studying polarization and collective problem-solving. With an eye to the literature on team dynamics, we describe team logistics and processes that we believe make our multidisciplinary team persistent and productive. We emphasize challenges and difficulties caused by disciplinary differences in terms of terminology, units/levels of analysis, methodology, and theoretical assumptions. We then explain how work disambiguating the concepts of polarization and developing an integrative theoretical and methodological framework with complex systems perspectives has helped us overcome these challenges. We summarize the major findings that our research has produced over the past decade, and describe our current research and future directions. Last, we discuss lessons we have learned, including difficulties in a "three models" project and how we addressed them, with suggestions for effective multidisciplinary team research. </p>
+    <p class="paper-abstract">This article aims to describe the last 10 years of the collaborative scientific endeavors on polarization in particular and collective problem-solving in general by our multidisciplinary research team. We describe the team's disciplinary composition—social psychology, political science, social philosophy/epistemology, and complex systems science—highlighting the shared and unique skill sets of our group members and how each discipline contributes to studying polarization and collective problem-solving. With an eye to the literature on team dynamics, we describe team logistics and processes that we believe make our multidisciplinary team persistent and productive. We emphasize challenges and difficulties caused by disciplinary differences in terms of terminology, units/levels of analysis, methodology, and theoretical assumptions. We then explain how work disambiguating the concepts of polarization and developing an integrative theoretical and methodological framework with complex systems perspectives has helped us overcome these challenges. We summarize the major findings that our research has produced over the past decade, and describe our current research and future directions. Last, we discuss lessons we have learned, including difficulties in a "three models" project and how we addressed them, with suggestions for effective multidisciplinary team research. </p>
     <p class="paper-links"><a target="_blank" href="https://pubmed.ncbi.nlm.nih.gov/30945893/">Read the paper →</a></p>
   </div>
 </details>
@@ -249,7 +263,7 @@ After touching on historical precursors, this article discusses contemporary com
   <div class="paper-expand">
     <p class="paper-authors">With Holman, Berger, Grim, and Bramson</p>
     <p class="paper-abstract">Agent-based models have played a prominent role in recent debates about the merits of democracy. In particular, the formal model of Lu Hong and Scott Page and the associated “diversity trumps ability” result has typically been seen to support the epistemic virtues of democracy over epistocracy (i.e., governance by experts). In this paper we first identify the modeling choices embodied in the original formal model and then critique the application of the Hong-Page results to philosophical debates on the relative merits of democracy. In particular we argue that the “best-performing agents” in the Hong-Page model should not be interpreted as experts. We next explore a closely related model in which best-performing agents are more plausibly seen as experts and show that the diversity trumps ability result fails to hold. However, with changes in other parameters (such as the deliberation dynamic) the diversity trumps ability result is restored. The sensitivity of this result to parameter choices illustrates the complexity of the link between formal modeling and more general philosophical claims; we use this debate as a platform for a more general discussion of when and how agent-based models can contribute to philosophical discussions.</p>
-    <p class="paper-links"><a target="_blank" href="https://academic.oup.com/pq/article-abstract/68/272/580/4791179">Read the paper →</a></p>
+    <p class="paper-links"><a target="_blank" href="https://www.ssoar.info/ssoar/handle/document/56457">Read the paper →</a></p>
   </div>
 </details>
 
@@ -331,7 +345,7 @@ After touching on historical precursors, this article discusses contemporary com
   <summary><span class="paper-toggle"></span><span class="paper-title">"Philosophical Analysis in Modeling Polarization: Notes from a Work in Progress"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>APA Newsletter on Philosophy and Computers</em></span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Grim, Bramson, Fisher, Flocken, and Berger</p>
-    <p class="paper-abstract">Abstract unavailable</p>
+    <p class="paper-abstract">Abstract not currently available.</p>
     <p><em>Updated and reprinted in Youngman &amp; Hadzikadic (eds.), <em>Complexity and the Human Experience</em>, Pan Stanford Press, 2014.</em></p>
     <p class="paper-links"><a target="_blank" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3898348/">Read the paper →</a></p>
   </div>
@@ -340,8 +354,8 @@ After touching on historical precursors, this article discusses contemporary com
 <details class="paper-item">
   <summary><span class="paper-toggle"></span><span class="paper-title">"Polarization and Belief Dynamics in the Black and White Communities: An Agent-Based Network Model from the Data"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Artificial Life 13</em></span></summary>
   <div class="paper-expand">
-    <p class="paper-authors">With Grim, Thomas, Reade, Fisher, Garza, Fryer, and Chatman</p>
-    <p class="paper-abstract">Public health care interventions—regarding vaccination, obesity, and HIV, for example—standardly take the form of information dissemination across a community. But information networks can vary importantly between different ethnic communities, as can levels of trust in information from different sources. We use data from the Greater Pittsburgh Random Household Health Survey to construct models of information networks for White and Black communities - models which reflect the degree of information contact between individuals, with degrees of trust in information from various sources correlated with positions in that social network. With simple assumptions regarding belief change and social reinforcement, we use those modeled networks to build dynamic agent-based models of how information can be expected to flow and how beliefs can be expected to change across each community. With contrasting information from governmental and religious sources, the results show importantly different dynamic patterns of belief polarization within the two communities. </p>
+    <p class="paper-authors">With Grim, Thomas, Fisher, Reade, Garza, Fryer, and Chatman</p>
+    <p class="paper-abstract">Public health care interventions—regarding vaccination, obesity, and HIV, for example—standardly take the form of information dissemination across a community. But information networks can vary importantly between different ethnic communities, as can levels of trust in information from different sources. We use data from the Greater Pittsburgh Random Household Health Survey to construct models of information networks for White and Black communities—models which reflect the degree of information contact between individuals, with degrees of trust in information from various sources correlated with positions in that social network. With simple assumptions regarding belief change and social reinforcement, we use those modeled networks to build dynamic agent-based models of how information can be expected to flow and how beliefs can be expected to change across each community. With contrasting information from governmental and religious sources, the results show importantly different dynamic patterns of belief polarization within the two communities. </p>
     <p class="paper-links"><a target="_blank" href="https://direct.mit.edu/isal/proceedings/alife2012/24/186/98678">Read the paper →</a></p>
   </div>
 </details>
@@ -384,7 +398,7 @@ other two.</p>
   <summary><span class="paper-toggle"></span><span class="paper-title">"What You Believe Travels Differently: Information and Infection Dynamics Across Sub-Networks"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Connections</em></span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Grim, Reade, Fisher, and Majewicz</p>
-    <p class="paper-abstract">In order to understand the transmission of a disease across a population we will have to understand not only the dynamics of contact infection but the transfer of health-care beliefs and resulting health-care behaviors across that population. This paper is a first step in that direction, focusing on the contrasting role of linkage or isolation between sub-networks in (a) contact infection and (b) belief transfer. Using both analytical tools and agent-based simulations we show that it is the structure of a network that is primary for predicting contact infection—whether the networks or sub-networks at issue are distributed ring networks or total networks (hubs, wheels, small world, random, or scale-free for example). Measured in terms of time to total infection, degree of linkage between sub-networks plays a minor role. The case of belief is importantly different. Using a simplified model of belief reinforcement, and measuring belief transfer in terms of time to community consensus, we show that degree of linkage between sub-networks plays a major role in social communication of beliefs. Here, in contrast to the case of contract infection, network type turns out to be of relatively minor importance. What you believe travels differently. In a final section we show that the pattern of belief transfer exhibits a classic power law regardless of the type of network involved.</p>
+    <p class="paper-abstract">In order to understand the transmission of a disease across a population we will have to understand not only the dynamics of contact infection but the transfer of health-care beliefs and resulting health-care behaviors across that population. This paper is a first step in that direction, focusing on the contrasting role of linkage or isolation between sub-networks in (a) contact infection and (b) belief transfer. Using both analytical tools and agent-based simulations we show that it is the structure of a network that is primary for predicting contact infection—whether the networks or sub-networks at issue are distributed ring networks or total networks (hubs, wheels, small world, random, or scale-free for example). Measured in terms of time to total infection, degree of linkage between sub-networks plays a minor role. The case of belief is importantly different. Using a simplified model of belief reinforcement, and measuring belief transfer in terms of time to community consensus, we show that degree of linkage between sub-networks plays a major role in social communication of beliefs. Here, in contrast to the case of contact infection, network type turns out to be of relatively minor importance. What you believe travels differently. In a final section we show that the pattern of belief transfer exhibits a classic power law regardless of the type of network involved.</p>
     <p class="paper-links"><a target="_blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3883135/">Read the paper →</a></p>
   </div>
 </details>
@@ -393,7 +407,7 @@ other two.</p>
   <summary><span class="paper-toggle"></span><span class="paper-title">"Robustness Across the Structure of Sub-Networks: The Contrast Between Infection and Information Dynamics"</span><span class="paper-venue">&ensp;&mdash;&ensp;<em>Proceedings, AAAI Fall Symposium on Complex Systems</em></span></summary>
   <div class="paper-expand">
     <p class="paper-authors">With Grim, Reade, Fisher, and Majewicz</p>
-    <p class="paper-abstract">Abstract unavailable</p>
+    <p class="paper-abstract">Abstract not currently available.</p>
     <p class="paper-links"><a target="_blank" href="https://pgrim.org/articles/grimrobustnessinfectioninformation.pdf">Read the paper →</a></p>
   </div>
 </details>

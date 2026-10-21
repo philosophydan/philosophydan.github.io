@@ -1,5 +1,5 @@
 ---
-layout: labpage
+layout: hg-page
 title: Computational Social Philosophy Lab
 permalink: /CSPL/
 published: true
@@ -16,11 +16,11 @@ For more information, contact [Prof. Daniel J. Singer](http://www.danieljsinger.
 
 - Diversity and its Effects on Group Deliberation: Using a model of group deliberation where agents exchange reasons for beliefs, we investigate how diversity can affect group deliberation. In a recent paper, we show that diversity in juries can affect jury outcomes in four distinct ways. In a project in progress, we show that social diversity can have permanent epistemic benefits for groups, in contrast to much of the extant work on diversity in groups that focuses on functional and transient diversity.
 
-- Group Deliberation Dynamics: Using a model of theoretical group deliberation where agents exchange reasons for beliefs and premises in arguments in a simple non-monotonic logic, we ask how  deliberation effects epistemic properties of the group (like who knows what and when) and how different properties might be optimized (asking, for example, whether a devil's advocate is helpful or whether certain social network structures are conducive to good outcomes).
+- Group Deliberation Dynamics: Using a model of theoretical group deliberation where agents exchange reasons for beliefs and premises in arguments in a simple non-monotonic logic, we ask how deliberation affects epistemic properties of the group (like who knows what and when) and how different properties might be optimized (asking, for example, whether a devil's advocate is helpful or whether certain social network structures are conducive to good outcomes).
 
-- Rational Group Polarization: In "Rational Social and Political Polarization" (2018 in _Philosophical Studies_) we show that there is a way that epistemically rational groups of agents can polarize into subgroups that persistently disagree with each other even after sharing all of their reasons for their beliefs.  We argue for this using a simple agent-based model of group discussions where agents must rationally manage memory limitations.
+- Rational Group Polarization: In "Rational Social and Political Polarization" (2019, _Philosophical Studies_) we show that there is a way that epistemically rational groups of agents can polarize into subgroups that persistently disagree with each other even after sharing all of their reasons for their beliefs.  We argue for this using a simple agent-based model of group discussions where agents must rationally manage memory limitations.
 
-- Epistemic Democracy and Information Aggregation: In "Representation in Models of Epistemic Democracy" (2020, _Episteme_), we use computational models to contrast the epistemic properties of voting-based group decision methods with those of Hong-and-Page-style 'talking' models of group problem solving when those models are supplemented with the representational systems that are characteristic of real democracies.  We show that the Hong-and-Page model is resilient to representation in a way that the voting-based models are not.  In "Diversity, Ability, and Expertise in Epistemic Communities" (2019, _Philosophy of Science_), we show that the Hong-Page 'diversity trumps ability' result does not occur with a particular natural conception of what expertise amounts to.  In that paper and an online supplement, we also explore a number of other variations of the Hong-Page model. In work under review, we extend our research on representational systems to our model of rational group deliberation to shine light on the epistemic virtues and faults of representative democracies.
+- Epistemic Democracy and Information Aggregation: In "Representation in Models of Epistemic Democracy" (2020, _Episteme_), we use computational models to contrast the epistemic properties of voting-based group decision methods with those of Hong-and-Page-style 'talking' models of group problem solving when those models are supplemented with the representational systems that are characteristic of real democracies.  We show that the Hong-and-Page model is resilient to representation in a way that the voting-based models are not.  In "Diversity, Ability, and Expertise in Epistemic Communities" (2019, _Philosophy of Science_), we show that the Hong-Page 'diversity trumps ability' result does not occur with a particular natural conception of what expertise amounts to.  In that paper and an online supplement, we also explore a number of other variations of the Hong-Page model. In “The Epistemic Advantages of Representative Deliberation” (2026, _PLOS ONE_), we extend our research on representational systems to our model of rational group deliberation to shine light on the epistemic virtues and faults of representative democracies.
 
 
 ## Selected Recent CSPL Publications
@@ -31,7 +31,7 @@ For more information, contact [Prof. Daniel J. Singer](http://www.danieljsinger.
 
 - Patrick Grim, Daniel J. Singer, Aaron Bramson, Bennett Holman, Sean McGeehan, and William J. Berger. (2019) "Diversity, Ability, and Expertise in Epistemic Communities" **Philosophy of Science**
 
-- Daniel J. Singer, Aaron Bramson, Patrick Grim, Bennett Holman, Jiin Jung, Karen Kovaka, Anika Ranginani, and William J. Berger. (2018) "Rational Social and Political Polarization" **Philosophical Studies**
+- Daniel J. Singer, Aaron Bramson, Patrick Grim, Bennett Holman, Jiin Jung, Karen Kovaka, Anika Ranginani, and William J. Berger. (2019) "Rational Social and Political Polarization" **Philosophical Studies**
 
 - Aaron Bramson, Patrick Grim, Daniel J. Singer, William J. Berger, Steven Fisher, Graham
 Sack, and Carissa Flocken. (2017) “Understanding Polarization: Meanings, Measures,
@@ -54,7 +54,7 @@ Question Difficulty, Epistemic Success, and Convergence” **Episteme**, Volume 
 ## Members
 
 <img src="http://www.danieljsinger.com/images/mephoto.png" style="width: 150px; float: left; margin: 0px 15px 15px 0px;" />
-**Prof. Daniel J. Singer** is an Associate Professor at the University of Pennsylvania with a secondary appointment in Legal Studies and Business Ethics in the Wharton School of Business. He researchs epistemology (including traditional, formal, and social epistemology), the nature of normativity in ethics and epistemology, and social philosophy with an emphasis on diversity and polarization. He directs and organizes the CPSL. You can learn more about his [research here](http://www.danieljsinger.com/research/) and see his [CV here](http://www.danieljsinger.com/cv/).
+**Prof. Daniel J. Singer** is an Associate Professor at the University of Pennsylvania with a secondary appointment in Legal Studies and Business Ethics in the Wharton School of Business. He researches epistemology (including traditional, formal, and social epistemology), the nature of normativity in ethics and epistemology, and social philosophy with an emphasis on diversity and polarization. He directs and organizes the CSPL. You can learn more about his [research here](http://www.danieljsinger.com/research/) and see his [CV here](http://www.danieljsinger.com/cv/).
 
 
 <br style="clear:both" />

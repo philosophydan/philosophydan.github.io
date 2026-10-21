@@ -1,13 +1,23 @@
 ---
-layout: page
+layout: hg-page
 title: Teaching
 permalink: /teaching/
 published: true
 ---
 
-In 2018, I was awarded the **Dean’s Award for Distinguished Teaching by an Assistant Professor** from the School of Arts and Sciences. It's an award that "recognizes one member of the junior faculty who demonstrates unusual promise as an educator." In the words of Dean Fluharty, "Dr. Singer is highly lauded by faculty and students for his talents as a dynamic lecturer, his ability to make difficult material accessible and stimulate interest in philosophy, and his accessibility and commitment to students." If you have any questions about my teaching, [contact me](http://www.danieljsinger.com/#contact).
+In 2018, I was awarded the **Dean’s Award for Distinguished Teaching by an Assistant Professor** from the School of Arts and Sciences. It's an award that "recognizes one member of the junior faculty who demonstrates unusual promise as an educator." In the words of Dean Fluharty, "Dr. Singer is highly lauded by faculty and students for his talents as a dynamic lecturer, his ability to make difficult material accessible and stimulate interest in philosophy, and his accessibility and commitment to students." If you have any questions about my teaching, [contact me](/contact/).
 
-## Courses:
+## Courses
+
+<div class="courses" markdown="1">
+
+**Spring 2027:**  
+PHIL 1710/5710: Introduction to Mathematical Logic (Grad & Undergrad)    
+PHIL 5651: Philosophy of and with AI (Experimental Grad Seminar on AI and using AI)
+
+**Fall 2026:**  
+PHIL 2620: Knowledge and Reality  
+PHIL 5332: As Equals (Grad Seminar on moral and political philosophy)
 
 **Spring 2026:**  
 PHIL 1710/5710: Introduction to Mathematical Logic (Grad & Undergrad)    
@@ -19,7 +29,8 @@ PHIL 3991: AI in Work, School, and Research (Undergrad Seminar)
 
 **Spring 2025:**  
 PHIL 1710/5710: Introduction to Mathematical Logic (Grad & Undergrad)    
-PHIL 5332: Graduate Seminar on Meaningful Jobs and Work
+PHIL 5332: Graduate Seminar on Meaningful Jobs and Work  
+LGST 1000: Business Ethics & Social Responsibility (Wharton)
 
 **Fall 2024:**  
 PHIL 2620: Knowledge and Reality  
@@ -79,20 +90,22 @@ PHIL 600: Proseminar
 
 **Spring 2015:**  
 [PHIL 005: Intro to Mathematical Logic](https://www.dropbox.com/s/hjiryurubsa9lok/PHIL%20005%20Syllabus.pdf?dl=0)  
-[PHIL 532: Norms for Full and Partial Belief](https://canvas.upenn.edu/courses/1265323/assignments/syllabus)  
+PHIL 532: Norms for Full and Partial Belief  
 
 **Fall 2014:**  
-[PHIL 231: Knowledge and Reality](https://canvas.upenn.edu/courses/1253178)  
-[PHIL 600: Proseminar](https://canvas.upenn.edu/courses/1253180)  
+PHIL 231: Knowledge and Reality  
+PHIL 600: Proseminar  
 
 **Spring 2014:**  
-[PHIL 001: Introduction to Philosophy](https://upenn.instructure.com/courses/1205840)  
-[PHIL 532: Epistemic Normativity](https://upenn.instructure.com/courses/1205847)  
+PHIL 001: Introduction to Philosophy  
+PHIL 532: Epistemic Normativity  
 
 **Fall 2013:**  
-[PHIL 231: Knowledge and Reality](https://upenn.instructure.com/courses/1138656)  
+PHIL 231: Knowledge and Reality  
 PHIL 700: Dissertation Workshop  
 
 **Spring 2013:**  
-[PHIL 231: Epistemology](https://upenn.instructure.com/courses/954128)  
+PHIL 231: Epistemology  
 [PHIL 532: Seminar in Epistemology](http://www.danieljsinger.com/teaching/KAILSyllabus.pdf)
+
+</div>

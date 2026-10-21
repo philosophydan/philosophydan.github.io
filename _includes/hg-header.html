@@ -1,0 +1,18 @@
+{% assign nav = "Research|/research/,Teaching|/teaching/,CSPLab|/CSPL/,CV|/cv/" | split: "," %}
+<a class="skip" href="#main">Skip to content</a>
+<header class="wrap top">
+  <a class="brand" href="{{ '/' | prepend: site.baseurl }}">Daniel J. Singer</a>
+  <nav class="primary" aria-label="Main">
+    <ul>{% for item in nav %}{% assign p = item | split: "|" %}
+      <li><a href="{{ p[1] | prepend: site.baseurl }}"{% if page.url == p[1] %} aria-current="page"{% endif %}>{{ p[0] }}</a></li>{% endfor %}
+    </ul>
+  </nav>
+  <a class="btn" href="{{ '/contact/' | prepend: site.baseurl }}"{% if page.url == '/contact/' %} aria-current="page"{% endif %}>Contact</a>
+  <details class="mnav">
+    <summary>Menu</summary>
+    <ul>{% for item in nav %}{% assign p = item | split: "|" %}
+      <li><a href="{{ p[1] | prepend: site.baseurl }}"{% if page.url == p[1] %} aria-current="page"{% endif %}>{{ p[0] }}</a></li>{% endfor %}
+      <li><a href="{{ '/contact/' | prepend: site.baseurl }}"{% if page.url == '/contact/' %} aria-current="page"{% endif %}>Contact</a></li>
+    </ul>
+  </details>
+</header>
