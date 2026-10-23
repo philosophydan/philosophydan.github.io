@@ -68,17 +68,26 @@ Use this form to send me feedback on a class or anything else you'd like.  If yo
 <script>
 // Spam protection: the form only gets its submission address once a visitor
 // starts using it, and submissions that fill the hidden field or arrive within
-// a few seconds of the page loading are dropped.
+// a few seconds of the page loading are dropped. The "3 + 4" answer is checked
+// here too, so a wrong answer shows an error on this page instead of Google's.
 (function () {
   var form = document.getElementById("ss-form");
   if (!form) return;
+  var check = document.getElementById("entry_1227771436");
   var loadedAt = Date.now();
   function arm() { if (!form.hasAttribute("action")) form.setAttribute("action", atob(form.dataset.a)); }
   form.addEventListener("focusin", arm);
   form.addEventListener("input", arm);
+  if (check) check.addEventListener("input", function () { check.setCustomValidity(""); });
   form.addEventListener("submit", function (e) {
     var trap = document.getElementById("hp_website");
     if ((trap && trap.value) || Date.now() - loadedAt < 3000) { e.preventDefault(); return; }
+    if (check && check.value.trim() !== "7") {
+      e.preventDefault();
+      check.setCustomValidity("That's not quite right. What is 3 + 4?");
+      check.reportValidity();
+      return;
+    }
     arm();
   });
 })();
