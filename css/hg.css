@@ -196,6 +196,7 @@ h1,h2,h3{color:var(--navy);letter-spacing:-.03em;line-height:1.1}
 .prose .ss-required-asterisk{color:var(--accent-2);margin-left:.2rem}
 .prose input[type=submit]{font:inherit;font-weight:600;background:var(--accent);color:#fff;border:0;border-radius:999px;padding:.8rem 1.4rem;cursor:pointer;margin-top:1rem}
 .prose input[type=submit]:hover{background:var(--accent-2)}
+.prose .hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
 .prose table{border-collapse:collapse}
 
 /* Footer */

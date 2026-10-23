@@ -18,7 +18,8 @@ description: "How to reach Daniel J. Singer: email, phone, and office at the Uni
 
 Use this form to send me feedback on a class or anything else you'd like.  If you'd like a response, be sure to include your email address in the last question. Otherwise, your message will be completely anonymous.  All suggestions, comments, and constructive criticism are welcome.
 
-<form action="https://docs.google.com/forms/d/15qUqH-4keHS_t-2cqoQroyg8buciLIMMHSeQaOJ6VIo/formResponse?embedded=true" method="POST" id="ss-form" target="_self" onsubmit="">
+<form method="POST" id="ss-form" target="_self" data-a="aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZm9ybXMvZC8xNXFVcUgtNGtlSFNfdC0yY3FvUXJveWc4YnVjaUxJTU1IU2VRYU9KNlZJby9mb3JtUmVzcG9uc2U/ZW1iZWRkZWQ9dHJ1ZQ==">
+<noscript><p>This form needs JavaScript turned on. You can also email me instead.</p></noscript>
 <ol role="list" class="ss-question-list" style="padding-left: 0;">
 <div class="ss-form-question errorbox-good" role="listitem">
 <div dir="auto" class="ss-item ss-item-required ss-paragraph-text"><div class="ss-form-entry">
@@ -28,6 +29,13 @@ Use this form to send me feedback on a class or anything else you'd like.  If yo
 <div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
 <textarea name="entry.2955050" rows="8" cols="100" class="ss-q-long" id="entry_2955050" dir="auto" aria-label="Type your message here." aria-required="true" required=""></textarea>
 <div class="error-message" id="964147391_errorMessage"></div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="auto" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
+
+<br />
+<label class="ss-q-item-label" for="entry_1227771436"><div class="ss-q-title">To show you're human: what is 3 + 4?
+<span class="ss-required-asterisk" aria-hidden="true">*</span></div></label>
+<input type="text" inputmode="numeric" name="entry.1227771436" value="" class="ss-q-short" id="entry_1227771436" dir="auto" aria-label="To show you're human: what is 3 + 4?" aria-required="true" required="" autocomplete="off">
 </div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
 <div dir="auto" class="ss-item  ss-text"><div class="ss-form-entry">
 
@@ -48,6 +56,7 @@ Use this form to send me feedback on a class or anything else you'd like.  If yo
 <br />
 
 <input type="hidden" name="fbzx" value="5817155565133853645">
+<div class="hp" aria-hidden="true"><label for="hp_website">Leave this field empty</label><input type="text" id="hp_website" name="hp_website" tabindex="-1" autocomplete="off"></div>
 
 <div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
 <input type="submit" name="submit" value="Submit Anonymous Feedback" id="ss-submit" class="jfk-button jfk-button-action ">
@@ -55,3 +64,22 @@ Use this form to send me feedback on a class or anything else you'd like.  If yo
 </tr></tbody></table></div></ol></form>
 
 </section>
+
+<script>
+// Spam protection: the form only gets its submission address once a visitor
+// starts using it, and submissions that fill the hidden field or arrive within
+// a few seconds of the page loading are dropped.
+(function () {
+  var form = document.getElementById("ss-form");
+  if (!form) return;
+  var loadedAt = Date.now();
+  function arm() { if (!form.hasAttribute("action")) form.setAttribute("action", atob(form.dataset.a)); }
+  form.addEventListener("focusin", arm);
+  form.addEventListener("input", arm);
+  form.addEventListener("submit", function (e) {
+    var trap = document.getElementById("hp_website");
+    if ((trap && trap.value) || Date.now() - loadedAt < 3000) { e.preventDefault(); return; }
+    arm();
+  });
+})();
+</script>
