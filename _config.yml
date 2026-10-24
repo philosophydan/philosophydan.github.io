@@ -56,3 +56,38 @@ comments:
       num_posts: 5
       width: 580
       colorscheme: light
+
+# sitemap.xml and robots.txt (jekyll-sitemap is supported by GitHub Pages)
+plugins:
+  - jekyll-sitemap
+
+# Keep redirects, utilities and verification files out of the sitemap
+defaults:
+  - scope: {path: "anon.md"}
+    values: {sitemap: false}
+  - scope: {path: "bookvideo.md"}
+    values: {sitemap: false}
+  - scope: {path: "PHIL532.md"}
+    values: {sitemap: false}
+  - scope: {path: "phil532.md"}
+    values: {sitemap: false}
+  - scope: {path: "PHIL5332.md"}
+    values: {sitemap: false}
+  - scope: {path: "PHIL5332-26C.md"}
+    values: {sitemap: false}
+  - scope: {path: "PHIL5562.md"}
+    values: {sitemap: false}
+  - scope: {path: "PHIL5620.md"}
+    values: {sitemap: false}
+  - scope: {path: "sitemap.txt"}
+    values: {sitemap: false}
+  - scope: {path: "google7cccd14b8d6c0828.html"}
+    values: {sitemap: false}
+  - scope: {path: "sharing"}
+    values: {sitemap: false}
+  - scope: {path: "timer"}
+    values: {sitemap: false}
+  - scope: {path: "models"}
+    values: {sitemap: false}
+  - scope: {path: "papers/Singer - Diverstiy, Not Randomness, Trumps Ability (draft).pdf"}
+    values: {sitemap: false}

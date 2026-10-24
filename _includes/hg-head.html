@@ -15,6 +15,31 @@
   <meta property="og:image:height" content="1100">
   <meta property="og:image:alt" content="Photo of Daniel J. Singer">
   <meta name="theme-color" content="#0a2540">
+  {% if page.url == "/" %}<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Daniel J. Singer",
+    "url": "https://www.danieljsinger.com/",
+    "image": "https://www.danieljsinger.com/images/DanSinger-photo.jpg",
+    "description": {{ desc | strip | jsonify }},
+    "jobTitle": "Associate Professor of Philosophy",
+    "worksFor": {"@type": "CollegeOrUniversity", "name": "University of Pennsylvania", "url": "https://www.upenn.edu/"},
+    "affiliation": [
+      {"@type": "Organization", "name": "Legal Studies and Business Ethics, The Wharton School", "url": "https://lgst.wharton.upenn.edu/"},
+      {"@type": "Organization", "name": "The Philosopher's Annual", "url": "https://www.philosophersannual.org/"}
+    ],
+    "alumniOf": [
+      {"@type": "CollegeOrUniversity", "name": "University of Michigan"},
+      {"@type": "CollegeOrUniversity", "name": "University of Pennsylvania"}
+    ],
+    "knowsAbout": ["Philosophy of work", "Philosophy of AI", "Management", "Epistemology", "Social philosophy", "Agent-based modeling"],
+    "email": "mailto:singerd@phil.upenn.edu",
+    "telephone": "+1-920-474-6437",
+    "workLocation": {"@type": "Place", "name": "Cohen Hall, University of Pennsylvania", "address": {"@type": "PostalAddress", "addressLocality": "Philadelphia", "addressRegion": "PA", "postalCode": "19104", "addressCountry": "US"}},
+    "sameAs": ["https://www.linkedin.com/in/philosophydan/", "https://www.instagram.com/philosophydan/"]
+  }
+  </script>{% endif %}
   <link rel="icon" href="{{ '/favicon.ico' | prepend: site.baseurl }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
