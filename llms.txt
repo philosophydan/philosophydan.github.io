@@ -1,0 +1,29 @@
+# Daniel J. Singer
+
+> Daniel J. Singer is an Associate Professor of Philosophy at the University of Pennsylvania, with a secondary appointment in Legal Studies and Business Ethics at Wharton, and the editor of The Philosopher's Annual. He works on the philosophy of work, management, and AI. From 2022 to 2024 he was a consultant at the Boston Consulting Group.
+
+His current research asks what a good manager looks like, how information flow and AI in firms affect productivity, what the point of employment is in the first place, and what it would take for AI to be truly innovative and explain its work. One current project argues that AI should be many, not one. Breakthroughs are more likely to come from diverse groups of AI agents working together than from a single model.
+
+His earlier work is in epistemology and social philosophy, including the value of diversity, polarization, and how information moves through groups. Much of it was done with the Computational Social Philosophy Lab, which uses agent-based models. His book is Right Belief and True Belief (Oxford University Press, 2023).
+
+## When to contact Dan
+
+- Collaborations on AI systems for innovation or leadership, especially teams of AI agents. Email singerd@phil.upenn.edu.
+- Questions about his research, papers, or the Computational Social Philosophy Lab.
+- Questions about his teaching and courses at Penn.
+- Anonymous feedback on a class or anything else. Use the form on the Contact page.
+
+## Main pages
+
+- [Home](https://www.danieljsinger.com/): overview, recent research and classes, and career background
+- [Research](https://www.danieljsinger.com/research/): the book and papers, with abstracts and links
+- [Teaching](https://www.danieljsinger.com/teaching/): courses by semester
+- [CV](https://www.danieljsinger.com/CV.pdf): full CV (PDF)
+- [Computational Social Philosophy Lab](https://www.danieljsinger.com/CSPL/): the agent-based modeling research group
+- [Contact](https://www.danieljsinger.com/contact/): email, phone, office, and the anonymous message form
+
+## Optional
+
+- [The Future of AI Is Many, Not One](https://arxiv.org/abs/2603.29075): preprint with Luca Garzino Demo
+- [Right Belief and True Belief](https://global.oup.com/academic/product/right-belief-and-true-belief-9780197660386): the book at Oxford University Press
+- [LinkedIn](https://www.linkedin.com/in/philosophydan/)
