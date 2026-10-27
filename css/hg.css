@@ -83,6 +83,7 @@ h1,h2,h3{color:var(--navy);letter-spacing:-.03em;line-height:1.1}
 .door .go{margin-top:auto;font-weight:600}
 .door blockquote{margin:0;font-size:1.05rem;line-height:1.5;font-weight:400}
 .door cite{display:block;font-style:normal;font-size:.85rem;color:var(--muted);margin-top:.5rem;font-weight:400}
+.door .aside-link{font-size:.92rem;font-weight:600;margin-top:-.3rem}
 .door.social{background:var(--navy);color:#fff;border-color:var(--navy)}
 .door.social h2{color:#fff}
 .door.social h2::before{display:none}

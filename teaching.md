@@ -5,7 +5,11 @@ permalink: /teaching/
 published: true
 ---
 
-In 2018, I was awarded the **Dean’s Award for Distinguished Teaching by an Assistant Professor** from the School of Arts and Sciences. It's an award that "recognizes one member of the junior faculty who demonstrates unusual promise as an educator." In the words of Dean Fluharty, "Dr. Singer is highly lauded by faculty and students for his talents as a dynamic lecturer, his ability to make difficult material accessible and stimulate interest in philosophy, and his accessibility and commitment to students." If you have any questions about my teaching, [contact me](/contact/).
+In 2018, I was awarded the **Dean’s Award for Distinguished Teaching by an Assistant Professor** from the School of Arts and Sciences. It's an award that "recognizes one member of the junior faculty who demonstrates unusual promise as an educator." In the words of Dean Fluharty, "Dr. Singer is highly lauded by faculty and students for his talents as a dynamic lecturer, his ability to make difficult material accessible and stimulate interest in philosophy, and his accessibility and commitment to students."
+
+For my view on **AI in teaching**, see [my recent piece in Penn’s *Almanac*, “AI is a ‘Friend’”](https://almanac.upenn.edu/articles/ai-is-a-friend).
+
+If you have any questions about my teaching, [contact me](/contact/).
 
 ## Courses
 

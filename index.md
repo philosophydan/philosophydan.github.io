@@ -34,6 +34,7 @@ published: true
   <article class="door teaching">
     <h2><a href="/teaching/">Teaching</a></h2>
     <blockquote>“The sheer number of students who say that Singer is the best professor they’ve ever had.”<cite>Dean Fluharty awarding the 2018 Dean’s Award for Distinguished Teaching</cite></blockquote>
+    <a class="aside-link" href="https://almanac.upenn.edu/articles/ai-is-a-friend">My view on AI in teaching →</a>
     <h3 class="list-head">Recent Classes</h3>
     <ul>
       <li>Philosophy of and with AI<span>Spring 2027, experimental graduate seminar</span></li>
